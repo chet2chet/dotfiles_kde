@@ -1,0 +1,34 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1061726368000161926451000000007210005
+clientId2=1061726368000161926451000000007210007
+clientId3=1061726368000161926451100000007210008
+clientId4=1061726368000161926476800000007200010
+clientId5=1061726368000161926478500000007200011
+count=5
+discardCommand2[$e]=rm,$HOME/.config/session/kmix_1061726368000161926451000000007210007_1619264816_13930
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kmix
+program3=/usr/bin/korgac
+program4=pulseaudio
+program5=/usr/bin/optimus-manager-qt
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1061726368000161926451000000007210005_1619264816_13920
+restartCommand2=/usr/bin/kmix,-session,1061726368000161926451000000007210007_1619264816_13930
+restartCommand3=/usr/bin/korgac,-session,1061726368000161926451100000007210008_1619264816_13931
+restartCommand4=
+restartCommand5=/usr/bin/optimus-manager-qt,-session,1061726368000161926478500000007200011_1619264816_14078
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=karolproksa
+userId2=karolproksa
+userId3=karolproksa
+userId4=karolproksa
+userId5=karolproksa
