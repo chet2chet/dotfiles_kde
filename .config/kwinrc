@@ -46,7 +46,7 @@ NightTemperature=5500
 
 [Plugins]
 blurEnabled=true
-forceblurEnabled=false
+forceblurEnabled=true
 krohnkiteEnabled=true
 kwin4_effect_windowapertureEnabled=false
 minimizeallEnabled=false
@@ -60,6 +60,7 @@ directionalKeyFocus=true
 enableFloatingLayout=true
 enableMonocleLayout=false
 enableQuarterLayout=true
+enableSpreadLayout=false
 enableStairLayout=false
 screenGapBottom=20
 screenGapLeft=20

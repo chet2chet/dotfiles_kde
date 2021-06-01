@@ -1,7 +1,7 @@
 [General]
 Radius=10
 Type=Rounded
-SquareAtScreenEdge=false
+SquareAtScreenEdge=true
 FilterShadow=false
 Whitelist=
 Blacklist=

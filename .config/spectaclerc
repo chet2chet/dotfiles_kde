@@ -8,7 +8,6 @@ useLightMaskColour=true
 
 [GuiConfig]
 captureMode=5
-cropRegion=596,701,1922,352
 onClickChecked=true
 quitAfterSaveCopyExport=true
 window-position=887,302
