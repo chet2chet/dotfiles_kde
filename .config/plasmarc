@@ -1,5 +1,8 @@
 [Theme]
-name=spectrum-classic-colors
+name=spectrum-classic-basic
+
+[Theme-plasmathemeexplorer]
+name=air
 
 [Wallpapers]
-usersWallpapers=/home/karolproksa/Pictures/wallpaper.jpg
+usersWallpapers=/home/karolproksa/Downloads/michael-olsen-Gs1mJmK2ixc-unsplash(1).jpg,/home/karolproksa/Pictures/wallpaper.jpg

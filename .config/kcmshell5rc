@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP-1 HDMI-1-0 Height 1920x1080=598
+eDP-1 HDMI-1-0 Width 1920x1080=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:///usr/share/sounds/KDiamond-Stone-Touch.ogg,file:///usr/share/sounds/Oxygen-Sys-Question.ogg,file:///usr/share/sounds/Oxygen-Window-Move.ogg,file:///usr/share/sounds/Oxygen-Window-All-Desktops.ogg,file:///usr/share/sounds/Kopete_Received.ogg,file:///usr/share/sounds/KDiamond-Stone-Drop.ogg
+Recent URLs[$e]=file:///usr/share/sounds/
+detailViewIconSize=16

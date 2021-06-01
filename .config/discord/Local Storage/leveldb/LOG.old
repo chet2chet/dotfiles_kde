@@ -1,0 +1,6 @@
+2021/05/05-20:30:58.024 22a7 Reusing MANIFEST /home/karolproksa/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/05/05-20:30:58.025 22a7 Recovering log #388
+2021/05/05-20:30:58.025 22a7 Reusing old log /home/karolproksa/.config/discord/Local Storage/leveldb/000388.log 
+2021/05/05-20:31:58.863 241a Level-0 table #392: started
+2021/05/05-20:31:58.917 241a Level-0 table #392: 16306 bytes OK
+2021/05/05-20:31:58.921 241a Delete type=0 #388

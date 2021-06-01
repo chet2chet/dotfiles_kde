@@ -1,0 +1,6 @@
+2021/05/26-12:05:36.204 ac41 Creating DB /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_euc-word-edit.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2021/05/26-12:05:36.207 ac41 Reusing MANIFEST /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_euc-word-edit.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/26-12:38:47.692 c0c7 Level-0 table #5: started
+2021/05/26-12:38:47.694 c0c7 Level-0 table #5: 1328 bytes OK
+2021/05/26-12:38:47.696 c0c7 Delete type=0 #3
+2021/05/26-12:38:47.696 c0c7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

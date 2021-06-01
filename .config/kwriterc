@@ -98,13 +98,17 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABGUAAAD5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAApYAAAClAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-eDP-1 HDMI-1-0 Height 2560x1080=325
-eDP-1 HDMI-1-0 Width 2560x1080=1125
-eDP-1 HDMI-1-0 XPosition 2560x1080=1415
-eDP-1 HDMI-1-0 YPosition 2560x1080=734
+eDP-1 HDMI-1-0 Height 2560x1080=239
+eDP-1 HDMI-1-0 Width 2560x1080=662
+eDP-1 HDMI-1-0 XPosition 2560x1080=1877
+eDP-1 HDMI-1-0 YPosition 2560x1080=821
 
 [Recent Files]
 File1[$e]=$HOME/.mozilla/firefox/e8qyye4d.default-release/chrome/userChrome.css
+File2[$e]=$HOME/.config/spicetify/config.ini
+File3[$e]=$HOME/PukPuk/pukpuk/components/SellComponents/JobOfferPink.tsx
 Name1[$e]=userChrome.css
+Name2[$e]=config.ini
+Name3[$e]=JobOfferPink.tsx

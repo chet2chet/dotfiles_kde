@@ -1,134 +1,20 @@
-2021/04/24-13:51:03.472 405b Reusing MANIFEST /home/karolproksa/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/24-13:51:13.772 71bf Level-0 table #5: started
-2021/04/24-13:51:13.784 71bf Level-0 table #5: 1324426 bytes OK
-2021/04/24-13:51:13.786 71bf Delete type=0 #3
-2021/04/24-13:51:15.118 71bf Level-0 table #7: started
-2021/04/24-13:51:15.129 71bf Level-0 table #7: 921008 bytes OK
-2021/04/24-13:51:15.131 71bf Delete type=0 #4
-2021/04/24-13:51:15.377 71bf Compacting 1@1 + 1@2 files
-2021/04/24-13:51:15.398 71bf Generated table #8@1: 4996 keys, 1588462 bytes
-2021/04/24-13:51:15.398 71bf Compacted 1@1 + 1@2 files => 1588462 bytes
-2021/04/24-13:51:15.400 71bf compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/04/24-13:51:15.400 71bf Delete type=2 #5
-2021/04/24-13:51:15.400 71bf Delete type=2 #7
-2021/04/24-13:51:15.720 71bf Level-0 table #10: started
-2021/04/24-13:51:15.728 71bf Level-0 table #10: 952505 bytes OK
-2021/04/24-13:51:15.730 71bf Delete type=0 #6
-2021/04/24-13:51:15.925 71bf Compacting 1@1 + 1@2 files
-2021/04/24-13:51:15.947 71bf Generated table #11@1: 4976 keys, 2136557 bytes
-2021/04/24-13:51:15.949 71bf Generated table #12@1: 1068 keys, 95927 bytes
-2021/04/24-13:51:15.949 71bf Compacted 1@1 + 1@2 files => 2232484 bytes
-2021/04/24-13:51:15.951 71bf compacted to: files[ 0 0 2 0 0 0 0 ]
-2021/04/24-13:51:15.951 71bf Delete type=2 #8
-2021/04/24-13:51:15.951 71bf Delete type=2 #10
-2021/04/24-13:51:16.959 71bf Level-0 table #14: started
-2021/04/24-13:51:16.968 71bf Level-0 table #14: 867495 bytes OK
-2021/04/24-13:51:16.972 71bf Delete type=0 #9
-2021/04/24-13:51:17.007 71bf Compacting 1@1 + 1@2 files
-2021/04/24-13:51:17.044 71bf Generated table #15@1: 6561 keys, 2142240 bytes
-2021/04/24-13:51:17.047 71bf Generated table #16@1: 231 keys, 181615 bytes
-2021/04/24-13:51:17.047 71bf Compacted 1@1 + 1@2 files => 2323855 bytes
-2021/04/24-13:51:17.049 71bf compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/04/24-13:51:17.050 71bf Delete type=2 #11
-2021/04/24-13:51:17.050 71bf Delete type=2 #14
-2021/04/24-13:51:18.234 71bf Level-0 table #18: started
-2021/04/24-13:51:18.244 71bf Level-0 table #18: 917741 bytes OK
-2021/04/24-13:51:18.246 71bf Delete type=0 #13
-2021/04/24-13:51:18.744 71bf Compacting 1@1 + 2@2 files
-2021/04/24-13:51:18.768 71bf Generated table #19@1: 6001 keys, 2140795 bytes
-2021/04/24-13:51:18.777 71bf Generated table #20@1: 2708 keys, 852364 bytes
-2021/04/24-13:51:18.777 71bf Compacted 1@1 + 2@2 files => 2993159 bytes
-2021/04/24-13:51:18.779 71bf compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/04/24-13:51:18.780 71bf Delete type=2 #15
-2021/04/24-13:51:18.780 71bf Delete type=2 #16
-2021/04/24-13:51:18.780 71bf Delete type=2 #18
-2021/04/24-13:51:20.539 71bf Level-0 table #22: started
-2021/04/24-13:51:20.562 71bf Level-0 table #22: 881134 bytes OK
-2021/04/24-13:51:20.566 71bf Delete type=0 #17
-2021/04/24-13:51:20.567 71bf Compacting 1@1 + 2@2 files
-2021/04/24-13:51:20.591 71bf Generated table #23@1: 6823 keys, 2142972 bytes
-2021/04/24-13:51:20.604 71bf Generated table #24@1: 2986 keys, 1167296 bytes
-2021/04/24-13:51:20.604 71bf Compacted 1@1 + 2@2 files => 3310268 bytes
-2021/04/24-13:51:20.607 71bf compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/04/24-13:51:20.607 71bf Delete type=2 #19
-2021/04/24-13:51:20.607 71bf Delete type=2 #20
-2021/04/24-13:51:20.607 71bf Delete type=2 #22
-2021/04/24-13:51:21.534 71bf Level-0 table #26: started
-2021/04/24-13:51:21.548 71bf Level-0 table #26: 907270 bytes OK
-2021/04/24-13:51:21.552 71bf Delete type=0 #21
-2021/04/24-13:51:21.553 71bf Compacting 1@1 + 2@2 files
-2021/04/24-13:51:21.577 71bf Generated table #27@1: 8594 keys, 2156562 bytes
-2021/04/24-13:51:21.594 71bf Generated table #28@1: 3422 keys, 1855613 bytes
-2021/04/24-13:51:21.594 71bf Compacted 1@1 + 2@2 files => 4012175 bytes
-2021/04/24-13:51:21.596 71bf compacted to: files[ 0 0 3 0 0 0 0 ]
-2021/04/24-13:51:21.596 71bf Delete type=2 #23
-2021/04/24-13:51:21.596 71bf Delete type=2 #24
-2021/04/24-13:51:21.596 71bf Delete type=2 #26
-2021/04/24-13:51:22.580 71bf Level-0 table #30: started
-2021/04/24-13:51:22.595 71bf Level-0 table #30: 1060735 bytes OK
-2021/04/24-13:51:22.597 71bf Delete type=0 #25
-2021/04/24-13:51:22.824 71bf Compacting 1@1 + 2@2 files
-2021/04/24-13:51:22.851 71bf Generated table #31@1: 10374 keys, 2158780 bytes
-2021/04/24-13:51:22.870 71bf Generated table #32@1: 686 keys, 2120107 bytes
-2021/04/24-13:51:22.883 71bf Generated table #33@1: 2892 keys, 387942 bytes
-2021/04/24-13:51:22.883 71bf Compacted 1@1 + 2@2 files => 4666829 bytes
-2021/04/24-13:51:22.885 71bf compacted to: files[ 0 0 4 0 0 0 0 ]
-2021/04/24-13:51:22.885 71bf Delete type=2 #27
-2021/04/24-13:51:22.885 71bf Delete type=2 #28
-2021/04/24-13:51:22.885 71bf Delete type=2 #30
-2021/04/24-13:51:23.073 71bf Level-0 table #35: started
-2021/04/24-13:51:23.081 71bf Level-0 table #35: 951964 bytes OK
-2021/04/24-13:51:23.083 71bf Delete type=0 #29
-2021/04/24-13:51:23.085 71bf Compacting 1@1 + 3@2 files
-2021/04/24-13:51:23.113 71bf Generated table #36@1: 12382 keys, 2233998 bytes
-2021/04/24-13:51:23.131 71bf Generated table #37@1: 519 keys, 2147692 bytes
-2021/04/24-13:51:23.142 71bf Generated table #38@1: 3574 keys, 987761 bytes
-2021/04/24-13:51:23.142 71bf Compacted 1@1 + 3@2 files => 5369451 bytes
-2021/04/24-13:51:23.144 71bf compacted to: files[ 0 0 4 0 0 0 0 ]
-2021/04/24-13:51:23.145 71bf Delete type=2 #31
-2021/04/24-13:51:23.145 71bf Delete type=2 #32
-2021/04/24-13:51:23.145 71bf Delete type=2 #33
-2021/04/24-13:51:23.145 71bf Delete type=2 #35
-2021/04/24-13:51:23.557 71bf Level-0 table #40: started
-2021/04/24-13:51:23.567 71bf Level-0 table #40: 810128 bytes OK
-2021/04/24-13:51:23.570 71bf Delete type=0 #34
-2021/04/24-13:51:23.829 71bf Compacting 1@1 + 3@2 files
-2021/04/24-13:51:23.861 71bf Generated table #41@1: 12637 keys, 2171905 bytes
-2021/04/24-13:51:23.880 71bf Generated table #42@1: 528 keys, 2116370 bytes
-2021/04/24-13:51:23.894 71bf Generated table #43@1: 3675 keys, 1392218 bytes
-2021/04/24-13:51:23.894 71bf Compacted 1@1 + 3@2 files => 5680493 bytes
-2021/04/24-13:51:23.896 71bf compacted to: files[ 0 0 4 0 0 0 0 ]
-2021/04/24-13:51:23.896 71bf Delete type=2 #36
-2021/04/24-13:51:23.896 71bf Delete type=2 #37
-2021/04/24-13:51:23.896 71bf Delete type=2 #38
-2021/04/24-13:51:23.896 71bf Delete type=2 #40
-2021/04/24-13:51:24.338 71bf Level-0 table #45: started
-2021/04/24-13:51:24.351 71bf Level-0 table #45: 854940 bytes OK
-2021/04/24-13:51:24.355 71bf Delete type=0 #39
-2021/04/24-13:51:24.357 71bf Compacting 1@1 + 3@2 files
-2021/04/24-13:51:24.385 71bf Generated table #46@1: 14120 keys, 2173178 bytes
-2021/04/24-13:51:24.402 71bf Generated table #47@1: 383 keys, 2117164 bytes
-2021/04/24-13:51:24.423 71bf Generated table #48@1: 4199 keys, 2103627 bytes
-2021/04/24-13:51:24.423 71bf Compacted 1@1 + 3@2 files => 6393969 bytes
-2021/04/24-13:51:24.425 71bf compacted to: files[ 0 0 4 0 0 0 0 ]
-2021/04/24-13:51:24.425 71bf Delete type=2 #41
-2021/04/24-13:51:24.426 71bf Delete type=2 #42
-2021/04/24-13:51:24.426 71bf Delete type=2 #43
-2021/04/24-13:51:24.426 71bf Delete type=2 #45
-2021/04/24-13:52:38.671 71bf Level-0 table #50: started
-2021/04/24-13:52:38.683 71bf Level-0 table #50: 819264 bytes OK
-2021/04/24-13:52:38.685 71bf Delete type=0 #44
-2021/04/24-13:52:38.687 71bf Compacting 1@1 + 3@2 files
-2021/04/24-13:52:38.723 71bf Generated table #51@1: 14491 keys, 2226941 bytes
-2021/04/24-13:52:38.742 71bf Generated table #52@1: 390 keys, 2116631 bytes
-2021/04/24-13:52:38.756 71bf Level-0 table #55: started
-2021/04/24-13:52:38.773 71bf Level-0 table #55: 1934995 bytes OK
-2021/04/24-13:52:38.775 71bf Delete type=0 #49
-2021/04/24-13:52:38.783 71bf Generated table #53@1: 4117 keys, 2131658 bytes
-2021/04/24-13:52:38.787 71bf Generated table #56@1: 321 keys, 250851 bytes
-2021/04/24-13:52:38.787 71bf Compacted 1@1 + 3@2 files => 6726081 bytes
-2021/04/24-13:52:38.790 71bf compacted to: files[ 1 0 5 0 0 0 0 ]
-2021/04/24-13:52:38.790 71bf Delete type=2 #46
-2021/04/24-13:52:38.790 71bf Delete type=2 #47
-2021/04/24-13:52:38.790 71bf Delete type=2 #48
-2021/04/24-13:52:38.790 71bf Delete type=2 #50
+2021/05/01-13:29:14.359 6cea Reusing MANIFEST /home/karolproksa/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/01-13:29:14.359 6cea Recovering log #377
+2021/05/01-13:29:14.366 6cea Reusing old log /home/karolproksa/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000377.log 
+2021/05/01-13:29:19.628 6e59 Level-0 table #386: started
+2021/05/01-13:29:19.636 6e59 Level-0 table #386: 1093039 bytes OK
+2021/05/01-13:29:19.665 6e59 Delete type=0 #377
+2021/05/01-13:29:19.748 6e59 Compacting 1@1 + 5@2 files
+2021/05/01-13:29:19.772 6e59 Generated table #387@1: 3347 keys, 2148494 bytes
+2021/05/01-13:29:19.806 6e59 Generated table #388@1: 16362 keys, 2183919 bytes
+2021/05/01-13:29:19.825 6e59 Generated table #389@1: 389 keys, 2129119 bytes
+2021/05/01-13:29:19.845 6e59 Generated table #390@1: 467 keys, 2115878 bytes
+2021/05/01-13:29:19.868 6e59 Generated table #391@1: 7108 keys, 2161459 bytes
+2021/05/01-13:29:19.868 6e59 Compacted 1@1 + 5@2 files => 10738869 bytes
+2021/05/01-13:29:19.870 6e59 compacted to: files[ 0 0 8 0 0 0 0 ]
+2021/05/01-13:29:19.871 6e59 Delete type=2 #379
+2021/05/01-13:29:19.871 6e59 Delete type=2 #380
+2021/05/01-13:29:19.871 6e59 Delete type=2 #381
+2021/05/01-13:29:19.871 6e59 Delete type=2 #382
+2021/05/01-13:29:19.871 6e59 Delete type=2 #383
+2021/05/01-13:29:19.871 6e59 Delete type=2 #386

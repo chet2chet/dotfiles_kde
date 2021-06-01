@@ -1,0 +1,32 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAACdgAAAOAAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 1920x1080=1010
+eDP-1 HDMI-1-0 Height 2560x1080=1016
+eDP-1 HDMI-1-0 Width 1920x1080=1880
+eDP-1 HDMI-1-0 Width 2560x1080=2520
+eDP-1 HDMI-1-0 XPosition 1920x1080=352
+eDP-1 HDMI-1-0 XPosition 2560x1080=20
+eDP-1 HDMI-1-0 YPosition 1920x1080=1130
+eDP-1 HDMI-1-0 YPosition 2560x1080=44
+eDP-1 Height 1920x1080=1010
+eDP-1 Width 1920x1080=1880
+eDP-1 XPosition 1920x1080=20
+eDP-1 YPosition 1920x1080=50
+
+[Recent Files]
+File1[$e]=$HOME/CAE/CAE_essay_3.md
+File2[$e]=$HOME/CAE/PDFs/CAE_essay_5.pdf
+File3[$e]=$HOME/wf-zadanie-tetno.pdf
+File4[$e]=$HOME/CAE/cae-words.pdf
+File5[$e]=$HOME/Downloads/SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
+File6[$e]=$HOME/CAE/Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf
+Name1[$e]=CAE_essay_3.md
+Name2[$e]=CAE_essay_5.pdf
+Name3[$e]=wf-zadanie-tetno.pdf
+Name4[$e]=cae-words.pdf
+Name5[$e]=SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
+Name6[$e]=Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf

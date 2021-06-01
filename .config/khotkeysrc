@@ -2,7 +2,7 @@
 update_info=spectacle_shortcuts.upd:spectacle-migrate-shortcuts
 
 [Data]
-DataCount=5
+DataCount=8
 
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
@@ -936,6 +936,84 @@ TriggersCount=1
 Key=Meta+R
 Type=SHORTCUT
 Uuid={06df6163-6258-49d9-906a-8da5c9f34048}
+
+[Data_6]
+Comment=Comment
+Enabled=true
+Name=Launch Typora
+Type=SIMPLE_ACTION_DATA
+
+[Data_6Actions]
+ActionsCount=1
+
+[Data_6Actions0]
+CommandURL=typora
+Type=COMMAND_URL
+
+[Data_6Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_6Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_6Triggers0]
+Key=Meta+T
+Type=SHORTCUT
+Uuid={e987657e-e6b1-4ede-8551-fb1c73224686}
+
+[Data_7]
+Comment=Comment
+Enabled=true
+Name=Launch VSCodium
+Type=SIMPLE_ACTION_DATA
+
+[Data_7Actions]
+ActionsCount=1
+
+[Data_7Actions0]
+CommandURL=vscodium
+Type=COMMAND_URL
+
+[Data_7Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_7Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_7Triggers0]
+Key=Meta+F
+Type=SHORTCUT
+Uuid={2ef20168-b9b7-4f1b-b934-566c15e8f55f}
+
+[Data_8]
+Comment=Comment
+Enabled=true
+Name=Restart KDE Plasma
+Type=SIMPLE_ACTION_DATA
+
+[Data_8Actions]
+ActionsCount=1
+
+[Data_8Actions0]
+CommandURL=kquitapp5 plasmashell && kstart5 plasmashell
+Type=COMMAND_URL
+
+[Data_8Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_8Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_8Triggers0]
+Key=Meta+Ctrl+Shift+R
+Type=SHORTCUT
+Uuid={875aaa72-cbbc-4fb0-9e9f-3a6d38b895e6}
 
 [Gestures]
 Disabled=true

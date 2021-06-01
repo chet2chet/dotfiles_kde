@@ -94,8 +94,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
+BrowserApplication=firefox.desktop
 ColorScheme=GruvboxColors
 Name=Breeze Dark
+TerminalApplication=alacritty
+TerminalService=Alacritty.desktop
 XftHintStyle=hintslight
 XftSubPixel=rgb
 fixed=Fira Code,10,-1,5,50,0,0,0,0,0
@@ -112,6 +115,9 @@ Theme=WhiteSur-green-dark
 [KDE]
 ColorScheme=BreezeLight
 LookAndFeelPackage=org.kde.breezedark.desktop
+ScrollbarLeftClickNavigatesByPage=false
+ShowDeleteCommand=false
+SingleClick=false
 contrast=4
 widgetStyle=Breeze
 
@@ -130,9 +136,12 @@ Show Speedbar=true
 Show hidden files=false
 Sort by=Name
 Sort directories first=true
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=138
 View Style=DetailTree
+
+[PreviewSettings]
+MaximumRemoteSize=0
 
 [WM]
 activeBackground=39,39,39

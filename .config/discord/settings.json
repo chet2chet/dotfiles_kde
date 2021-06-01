@@ -3,9 +3,11 @@
   "IS_MAXIMIZED": false,
   "IS_MINIMIZED": false,
   "WINDOW_BOUNDS": {
-    "x": 253,
-    "y": 249,
-    "width": 1280,
-    "height": 720
-  }
+    "x": 1415,
+    "y": 44,
+    "width": 1125,
+    "height": 1016
+  },
+  "MINIMIZE_TO_TRAY": false,
+  "OPEN_ON_STARTUP": false
 }

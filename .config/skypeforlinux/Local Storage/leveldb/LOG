@@ -1,0 +1,15 @@
+2021/05/06-13:02:19.284 4e28 Reusing MANIFEST /home/karolproksa/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/05/06-13:02:19.284 4e28 Recovering log #14
+2021/05/06-13:02:19.284 4e28 Reusing old log /home/karolproksa/.config/skypeforlinux/Local Storage/leveldb/000014.log 
+2021/05/06-13:03:19.459 4e28 Level-0 table #18: started
+2021/05/06-13:03:19.463 4e28 Level-0 table #18: 68362 bytes OK
+2021/05/06-13:03:19.466 4e28 Delete type=0 #14
+2021/05/06-13:03:19.466 4e63 Compacting 4@0 + 1@1 files
+2021/05/06-13:03:19.468 4e63 Generated table #19@0: 12 keys, 68051 bytes
+2021/05/06-13:03:19.468 4e63 Compacted 4@0 + 1@1 files => 68051 bytes
+2021/05/06-13:03:19.470 4e63 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/06-13:03:19.470 4e63 Delete type=2 #7
+2021/05/06-13:03:19.470 4e63 Delete type=2 #10
+2021/05/06-13:03:19.470 4e63 Delete type=2 #12
+2021/05/06-13:03:19.470 4e63 Delete type=2 #15
+2021/05/06-13:03:19.470 4e63 Delete type=2 #18

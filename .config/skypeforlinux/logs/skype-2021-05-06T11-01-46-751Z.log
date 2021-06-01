@@ -1,0 +1,319 @@
+[Thu, 06 May 2021 11:01:46 GMT][INFO][User] User is Admin: false, detection ran: true
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] initialized with an ECS config provider.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] initialized.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] start() called.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Update interval set to 14400000
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Starting unexplicit update check as the updater was started.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Checking for updates, explicit check: false
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Platform updater feed URL not set.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Setting update feed url to: https://get.skype.com/s4l-update?version=8.72.76.29&os=linux&ring=preview&app=s4l&t=1620298906753&osversion=5.12.1-arch1-1
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Checking for update.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][LinuxAutoUpdater] Checking for update
+[Thu, 06 May 2021 11:01:46 GMT][INFO][LinuxAutoUpdater] Update not found.
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Updater] Update not found.
+[Thu, 06 May 2021 11:01:46 GMT][INFO]Skype logging system information:
+============================================================
+  Version 1431/8.72.76.29/
+  Ring: preview
+  Operating System: Linux, linux 5.12.1-arch1-1
+  Architecture: x64
+  Total Memory: 15785.5234375 MB
+  Free Memory: 8563.74609375 MB
+  Load average: 2.3583984375,2.0908203125,2.216796875
+  Device Id: 2443b34d82434596cba2239147e0e007
+  CPU Topology: [{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":62020,"nice":40,"sys":222920,"idle":2680890,"irq":3380}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":206350,"nice":120,"sys":43050,"idle":2765820,"irq":112760}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":243930,"nice":60,"sys":43130,"idle":2863980,"irq":3560}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":209180,"nice":120,"sys":43800,"idle":2899670,"irq":3360}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":1493,"times":{"user":116590,"nice":70,"sys":60470,"idle":2958750,"irq":24780}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":147870,"nice":290,"sys":38940,"idle":2971280,"irq":2960}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":154850,"nice":30,"sys":36600,"idle":2970360,"irq":3340}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2762,"times":{"user":172700,"nice":140,"sys":38860,"idle":2951890,"irq":3740}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":174390,"nice":100,"sys":40300,"idle":2950060,"irq":3230}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":160100,"nice":30,"sys":37980,"idle":2970150,"irq":3210}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":147660,"nice":30,"sys":39240,"idle":2983090,"irq":2880}},{"model":"Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz","speed":2600,"times":{"user":148450,"nice":180,"sys":41130,"idle":2981250,"irq":3200}}]
+============================================================
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Application] checking-for-update. Explicit check = false
+[Thu, 06 May 2021 11:01:46 GMT][INFO][Application] update-not-available. Explicit check = false
+[Thu, 06 May 2021 11:01:46 GMT][INFO][EcsConfig] ECS cache config loaded from cache file
+[Thu, 06 May 2021 11:01:46 GMT][INFO][EcsConfig] Downloading ECS Config
+[Thu, 06 May 2021 11:01:46 GMT][INFO][HttpsRequest] [fe603e] Sending request to GET https://a.config.skype.com/config/v1/SkypeElectronWrapper/1431_8.72.76.29?ConfigOption=preview&clientId=2443b34d82434596cba2239147e0e007&OSVer=5.12.1-arch1-1, Proxy: false, Attempt: 1/1
+[Thu, 06 May 2021 11:01:47 GMT][ERROR][AutoStartLinux] Unable to remove file /home/karolproksa/.config/autostart/skypeforlinux.desktop Error: ENOENT: no such file or directory, unlink '/home/karolproksa/.config/autostart/skypeforlinux.desktop'
+[Thu, 06 May 2021 11:01:47 GMT][INFO][File Interceptor] Registering protocol interceptors, success: true
+[Thu, 06 May 2021 11:01:47 GMT][INFO][WindowInterceptor] Registering new window interceptor.
+[Thu, 06 May 2021 11:01:47 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:47 GMT][INFO][MainWindow] Loading application.
+[Thu, 06 May 2021 11:01:47 GMT][INFO][HttpsRequest] [0fdb4c] Sending request to POST https://pipe.skype.com/Collector/3.0/, Proxy: false, Attempt: 1/3
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Listing existing log files in  /home/karolproksa/.config/skypeforlinux/logs
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Listing existing log files in  /home/karolproksa/.config/skypeforlinux/skylib
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/logs/skype-2021-04-27T14-13-12-895Z.log, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/logs/skype-2021-04-29T10-14-39-137Z.log, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/logs/skype-2021-04-29T10-15-02-584Z.log, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/skylib/slimcore-0-s2849713330.blog, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/skylib/slimcore-1-s2048329768.blog, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/skylib/slimcore-2-s1262171834.blog, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][FileLogRetentionUtility] Deleting /home/karolproksa/.config/skypeforlinux/skylib/slimcore-3-s3993452077.blog, because of its age
+[Thu, 06 May 2021 11:01:47 GMT][INFO][JsExceptionHandler] Main window navigated
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Preload] Loading: file:///Index.html
+[Thu, 06 May 2021 11:01:47 GMT][INFO][HttpsRequest] [fe603e] Got response: [200] OK. Duration: 525ms
+[Thu, 06 May 2021 11:01:47 GMT][INFO][EcsConfig] ECS Config successfully downloaded.
+[Thu, 06 May 2021 11:01:47 GMT][INFO][SystemIdle] Setting up system idle time check
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Updater] Update interval set to 21600000, rescheduling update checks
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Updater] Checking for updates, explicit check: false
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Updater] Setting update feed url to: https://get.skype.com/s4l-update?version=8.72.76.29&os=linux&ring=preview&app=s4l&t=1620298907302&osversion=5.12.1-arch1-1
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Updater] Checking for update.
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Application] checking-for-update. Explicit check = false
+[Thu, 06 May 2021 11:01:47 GMT][INFO][LinuxAutoUpdater] Checking for update
+[Thu, 06 May 2021 11:01:47 GMT][INFO][LinuxAutoUpdater] Update found: 8.72.76.44
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Updater] Update downloaded. {"releaseName":"skypeforlinux","releaseNotes":"none","releaseDate":"2021-05-06T11:01:47.302Z","updateURL":"none"}
+[Thu, 06 May 2021 11:01:47 GMT][INFO][Application] update-downloaded. Explicit check = false
+[Thu, 06 May 2021 11:01:47 GMT][INFO][ECSConfig] ECS Config loaded
+[Thu, 06 May 2021 11:01:47 GMT][INFO][WindowBase] Window is ready to show.
+[Thu, 06 May 2021 11:01:48 GMT][WARN][app] [#01f1280b-S] [WARN] [RootToolsManager] registerListeners: RootToolsManagerDelegate missing setNativeLoggingEventCallback method
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] SkypeId fetched from Storage
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Opening Database: [pii<s...>] Providers: 3 verbose: false, wipe: false
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.StatusBarManager] StatusBarManager: Pushed new style - RootAppView
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RootAppView] componentDidMount causeId: db360ba2
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] MiniToastService:setBottomMarginDefault - 0
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] ManagedModalNavigationHelper.open
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] ManagedModalNavigationHelper constructor
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ResponsiveWidthStore] New width: 1125 rootViewId: [pii<u1>] causeId: e78f73d8
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ResponsiveWidthStore] New height: 473 rootViewId: [pii<u1>] causeId: e78f73d8
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Provider IndexedDbProvider: Open Success!
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] ClientDatabase initialization Completed in 70ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: InternalDataStore
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: InternalDataStore: 34ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: MyUserPreferencesLocalStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][Application] Locale change event - reinit translated content to en-us
+[Thu, 06 May 2021 11:01:48 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][ApplicationMenu] Reloading menu.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.PreferencesStores] Locale set without user preferences to system default
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: MyUserPreferencesLocalStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: TokenStore, Deps Finish: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.TokenStore] getInitialSkypeToken - fetching SkypeToken from KeyChain
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Getting stored credentials from keytar, service: Skype for Desktop.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.TokenStore] getInitialMSAToken - getting MSAToken from KeyChain
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Getting stored credentials from keytar, service: Skype for Desktop MSA.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: EcsParamCache, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Loaded cached ECS parameters for version 8.72.76.29
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: EcsParamCache: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: EntropyService
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: EntropyService: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: NotificationQueueService
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Draining initial push notifications queue.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Draining initial local notifications queue.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: NotificationQueueService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: PermissionsStore, Deps Finish: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: PermissionsStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: SharedIdService, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Loaded SharedId cache from db.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: SharedIdService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: SystemHotKeyService
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.CallingUI] SystemHotKeyService.startup: System hotkey enabled. Has subscribed to service state store changes
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: SystemHotKeyService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Getting stored credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Getting stored credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][app] [#ffffffff-u] [ERROR] [JS.TokenStore] getInitialSkypeToken - failed with error: [pii<E...>]
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][app] [#ffffffff-u] [ERROR] [JS.TokenStore] getInitialMSAToken - failed with error: [pii<E...>]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.TokenStore] TokenStore Started - Non-usable Skypetoken - no token
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: TokenStore: 30ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: TrouterService, Deps Finish: 24ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Trouter] registerMessageHandler
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Trouter] onConnectedChanged false
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.TokenStore] Awaiting a valid Skype Token...
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: TrouterService: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: NotificationPermissionService, Deps Finish: 29ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Push] initializeNotification causeId: 3c452623
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Push] No unacknowledged notifications found causeId: ffdf10a9
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Initializing push notifications module
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Initializing local notifications module
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Initializing HTML notifications for Electron
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Initializing local notifications module
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Push] Notification permission grant status: PUSH: true LOCAL: true, causeId: 3c452623
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: NotificationPermissionService: 2ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: RegistrarService, Deps Finish: 27ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RegistrarService] Loaded registrationId: 8c4a48d5-ffff-ffff-c5ab-ac953a7d7bca lastPostedTime: 1619691323034
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RegistrarService] Clearing lastPostedPayload - will re-register
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RegistrarService] Skipping PNH registration request: No usable SkypeToken
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: RegistrarService: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AccountProviderManager] removing all stored accounts for Sso
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AccountProviderManager] removing all stored accounts for Qso
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [QsoProvider] removing all accounts
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Deleting credentials, service: SkypeAccountProviderService:Qso.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AccountProviderManager] removing all stored accounts for InterruptHandler
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [InterruptHandlerProvider] removing all accounts
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Deleting credentials, service: SkypeAccountProviderService:InterruptHandler.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AccountProviderManager] removing all stored accounts for MigratedCredentials
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Getting stored credentials from keytar, service: SkypeAccountProviderService:MigratedCredentials.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][ApplicationMenu] Reloading menu.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][Application] User authenticated
+[Thu, 06 May 2021 11:01:48 GMT][INFO][Application] App startup sequence ended.
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Deleting credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Deleting credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Getting stored credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ConsoleSink] initialized and paused
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Startup Phase 3 duration: 204ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] AppStartupIntent mark step: Phase3 undefined
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] WindowManagerStore.init is called
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ReportedConnectivityStore
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.ReportedConnectivityStore]  _fetchNetworkType() type: Unknown
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.ReportedConnectivityStore] Performing connectivity/captive portal check with fetch
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.IdleSchedulingService] oldState: {"uiDisplayed":false,"inCall":false,"inCallEstablishment":false,"networkingAvailable":false,"busyTaskDelay":250,"afterUiShownDelay":2500} partialState: {"networkingAvailable":true} diffState: {"networkingAvailable":true}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ReportedConnectivityStore: 3ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: AuthBackgroundRefreshService, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AuthBackgroundRefreshService] starting, last refresh was 168.776 hours ago
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AuthBackgroundRefreshService] scheduling a task for 1 day(s) from now
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AuthBackgroundRefreshService] setting next refresh time to Fri May 07 2021 13:01:48 GMT+0200 (Central European Summer Time)
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: AuthBackgroundRefreshService: 2ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: AuthService, Deps Finish: 5ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.AuthService] checkSkypeToken (Startup): Refreshing Now!
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.AuthService] [SkypeTokenRefresh] No MSA RefreshToken -- Redirecting to Login.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Redirecting to login reason: NoMSARefreshTokenFound causeId: login-75d1bf86
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [Logout] ClearThings starting, logged in
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [Logout] ClearThings phase one complete,
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: logoutAll causeId: login-75d1bf86
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out TokenStore causeId: login-75d1bf86 [1/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][ApplicationMenu] Reloading menu.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][Application] Set presence status to offline.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][Application] User logged out
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Deleting credentials, service: Skype for Desktop MSA.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][KeychainStore] Deleting credentials, service: Skype for Desktop.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out RegistrarService causeId: login-75d1bf86 [2/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] SWR: start DELETE prod.registrar.skype.com
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] SWR._enqueue inserting at the end of queue 0, DELETE prod.registrar.skype.com
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Blocking GenericRestClient call until valid SkypeToken arrives...
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.TokenStore] Awaiting a valid Skype Token...
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] SWR.checkQueueProcessing:  Queued:0, Executing:0, Blocked:1, Max:10
+[Thu, 06 May 2021 11:01:48 GMT][WARN][app] [#ffffffff-u] [WARN] [JS.GenericUnsafe] SWR.checkQueueProcessing blockedReq: DELETE prod.registrar.skype.com inside of _blockRequestUntil
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Saving SharedId cache to db.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out ChatService causeId: login-75d1bf86 [3/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] Saving SharedId cache to db.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out CallingStore causeId: login-75d1bf86 [4/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Calling] CallingCapabilities.anyCallingSupported, oneToOneCallingSupported: true, groupCallingSupported: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Calling] Skipping logout - not started causeId: login-75d1bf86
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: CallingStore logout complete [4/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out PresenceService causeId: login-75d1bf86 [5/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: PresenceService logout complete [5/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out AuthBackgroundRefreshService causeId: login-75d1bf86 [6/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AuthBackgroundRefreshService] logging out
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [AuthBackgroundRefreshService] clearing next scheduled refresh time
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out IntegrationsAuthStore causeId: login-75d1bf86 [7/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.IntegrationsStore] 0 integrations loaded from ECS.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: IntegrationsAuthStore logout complete [7/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out NotificationPermissionService causeId: login-75d1bf86 [8/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Uninitializing local notifications module
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Uninitializing push notifications module
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: NotificationPermissionService logout complete [8/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out OrderServiceNative causeId: login-75d1bf86 [9/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: OrderServiceNative logout complete [9/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out PushNotificationsService causeId: login-75d1bf86 [10/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: PushNotificationsService logout complete [10/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out CallIntentService causeId: login-75d1bf86 [11/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: CallIntentService logout complete [11/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out EngagementSignOutRemindersService causeId: login-75d1bf86 [12/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Engagement] SignOutReminderIdentifier: Not scheduling sign out reminders, non-interactive logout
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: EngagementSignOutRemindersService logout complete [12/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out LogoutRemindersService causeId: login-75d1bf86 [13/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [LogoutReminders] Firing logout notification
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Preparing to show local notification - category: undefined, correlationId: undefined
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Preparing to show local notification - category: undefined, correlationId: undefined
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Notifications] Showing HTML notification for category undefined
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.SISU] [LogoutReminders] Logout notifications complete
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: LogoutRemindersService logout complete [13/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out ShareToSkypeService causeId: login-75d1bf86 [14/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: ShareToSkypeService logout complete [14/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out TrouterNotificationsService causeId: login-75d1bf86 [15/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: TrouterNotificationsService logout complete [15/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: Logging out WindowManagerStore causeId: login-75d1bf86 [16/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] Skipping logout - split view is not enabled causeId: login-75d1bf86
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] LogoutContainer: WindowManagerStore logout complete [16/16]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: AuthService: 10ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] AppStartupIntent mark step: CheckAppState {"reason":"ColdStartup"}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] App State: Active shouldShowUi: true everProcessedPush: false everProcessedLocal: false hasQueuedPushes: false hasQueuedLocalNotifications: false reason: ColdStartup
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting UI Intent
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: BlockedMriStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Deleting credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][ERROR][KeychainStore] Deleting credentials failed. Error:  Error: The name org.freedesktop.secrets was not provided by any .service files
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: BlockedMriStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ChatServiceDataService, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ChatServiceDataService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: MyUserPreferencesStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ReadReceipts] Got enabled=true on startup
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: MyUserPreferencesStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ResponsiveWidthStore
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ResponsiveWidthStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: NavigationContextStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] NavigationContextStore start
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] NavigationContextStore._shouldUseStackNavigation: Using non-RN shell, returning false
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] NavigationContextStore: At startup, use stack navigation: false
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] NavigationContextStore: finished startup
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: NavigationContextStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: FirstRunStore, Deps Finish: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: FirstRunStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: LandingPageCardsStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: LandingPageCardsStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] AppBootstrapper._handlePossibleGuestJoin, causeId: dbbe98b0
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Deep link: [pii<h...>]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] getNavigationActionForDeepLink: [[pii<h...>]] causeId: e7d0817c
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] CommonModalUtils.dismissModal modalId: getFullScreenLoadingDialog rootViewId: [pii<u1>]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RootAppView] componentDidUpdate rings: [] appState: 1 causeId: 23f40561
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting Manifest: Recents
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: NetworkConnectionStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.NetworkConnectionStore] Chat Service subscription state: None; Long poll result: Success
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: NetworkConnectionStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: AmsImageCookieService, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.AsyncMediaClient] Startup: Reset Cookie
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.AsyncMediaClient] SkypeToken is expired - cookies are not valid
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: AmsImageCookieService: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.AsyncMediaClient] SkypeToken is expired - cookies are not valid
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: InfoRefreshService, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: InfoRefreshService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ThemeStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Theme] ThemeStore.startup theme: 8 useSystemTheme: true flipBubbleColors: false
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Theme] ThemeStore._osThemeChangeCallback osTheme: 1
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RootAppView] componentDidUpdate rings: [] appState: 1 causeId: 3e890287
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ThemeStore: 17ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: MyUserColorStore, Deps Finish: 17ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ConversationColorStore] My color from DB [yellow], validated color [yellow]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: MyUserColorStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: SessionInfoStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ChatService] Startup: Stored Endpoint Info: {"exists":false}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: SessionInfoStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ChatService, Deps Finish: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ChatServiceTransport] RestTransport Started Up. EndpointInfo: {"exists":false}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ChatServiceSubscriptions] LongPoll started up with endpoint Info: {"exists":false}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ChatServiceSubscriptions] LongPoll got desired sub parameters: [pii<{...>]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ChatServiceSubscriptions] Push started up with endpoint Info: {"exists":false}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ChatService: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: PresenceService, Deps Finish: 3ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: PresenceService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: MyUserPresenceStore, Deps Finish: 3ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][Application] Set presence status to online.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][SkypeTray] Attempting to update tray... (valid tray object: true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: MyUserPresenceStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: NavigationStateStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.Navigation] NavigationStateStore start
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: NavigationStateStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: StatusBarManager, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: StatusBarManager: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: SafeAreaStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: SafeAreaStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: SideBarWidthStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: SideBarWidthStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: UrlAuthStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: UrlAuthStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: UsersActiveStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: UsersActiveStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: CurrentUserActiveStore
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.CurrentUserActiveStore] _isUserActive=true _isUserPresent=true _isAppActive=true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.CurrentUserActiveStore] Session started at Thu May 06 2021 13:01:48 GMT+0200 (Central European Summer Time)
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.CurrentUserActiveStore] New client version detected. Resetting elapsed time...
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.CurrentUserActiveStore] Reset completed.
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: CurrentUserActiveStore: 1ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: AgentsStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ChatServiceSyncService, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ChatService] Sync state loaded: {"state":"[hidden_token]","types":"Passport|Skype|Lync|Thread|Agent|ShortCircuit|PSTN|Flxt|NotificationStream|CortanaBot|ModernBots|secureThreads|InviteFree"}
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ChatServiceSyncService: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ConnectivityAlertStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: ConnectivityAlertStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: ConversationsStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.ConversationStore] _getSortedRecentsConversations called with favoritesFirst value true
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: UsersStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.GenericUnsafe] InfoRefreshService: fireEarly [UsersStore]
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Starting: BookmarksStore, Deps Finish: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-u] [TRACE] [JS.Startup] Finish: BookmarksStore: 0ms
+[Thu, 06 May 2021 11:01:48 GMT][INFO][app] [#ffffffff-S] [TRACE] [JS.RootAppView] componentDidUpdate rings: [] appState: 1 causeId: 53f750c7

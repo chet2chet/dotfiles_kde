@@ -1,0 +1,17 @@
+2021/04/30-14:40:48.154 1de95 Reusing MANIFEST /home/karolproksa/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/04/30-14:40:48.154 1de95 Recovering log #197
+2021/04/30-14:40:48.159 1de95 Level-0 table #200: started
+2021/04/30-14:40:48.167 1de95 Level-0 table #200: 518496 bytes OK
+2021/04/30-14:40:48.181 1de95 Delete type=0 #197
+2021/04/30-14:41:48.183 1e0f5 Level-0 table #203: started
+2021/04/30-14:41:48.186 1e0f5 Level-0 table #203: 46207 bytes OK
+2021/04/30-14:41:48.188 1e0f5 Delete type=0 #201
+2021/04/30-14:41:48.188 1e0f5 Compacting 4@0 + 1@1 files
+2021/04/30-14:41:48.204 1e0f5 Generated table #204@0: 261 keys, 662728 bytes
+2021/04/30-14:41:48.204 1e0f5 Compacted 4@0 + 1@1 files => 662728 bytes
+2021/04/30-14:41:48.206 1e0f5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/04/30-14:41:48.206 1e0f5 Delete type=2 #193
+2021/04/30-14:41:48.206 1e0f5 Delete type=2 #195
+2021/04/30-14:41:48.206 1e0f5 Delete type=2 #198
+2021/04/30-14:41:48.206 1e0f5 Delete type=2 #200
+2021/04/30-14:41:48.206 1e0f5 Delete type=2 #203

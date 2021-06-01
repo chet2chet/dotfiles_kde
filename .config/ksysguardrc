@@ -1,0 +1,17 @@
+[MainWindow]
+CommandList=
+HostList=
+SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
+SplitterSizeList=10,90
+State=AAAA/wAAAAD9AAAAAAAACdgAAAPHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+currentSheet=0
+eDP-1 HDMI-1-0 Height 1920x1080=1010
+eDP-1 HDMI-1-0 Height 2560x1080=1016
+eDP-1 HDMI-1-0 Width 1920x1080=836
+eDP-1 HDMI-1-0 Width 2560x1080=2520
+eDP-1 HDMI-1-0 XPosition 1920x1080=1395
+eDP-1 HDMI-1-0 XPosition 2560x1080=20
+eDP-1 HDMI-1-0 YPosition 1920x1080=1130
+eDP-1 HDMI-1-0 YPosition 2560x1080=44
+isMinimized=false

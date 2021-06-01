@@ -5,7 +5,7 @@ switch-to-activity-4b1ef3bc-7655-4705-814c-1dfb6b52d0d7=none,none,Switch to acti
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
 Switch keyboard layout to Polish=none,none,Switch keyboard layout to Polish
-Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=Ctrl+Alt+K,Ctrl+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
@@ -26,8 +26,11 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
 {06df6163-6258-49d9-906a-8da5c9f34048}=Meta+R,none,Launch Alacritty
+{2ef20168-b9b7-4f1b-b934-566c15e8f55f}=Meta+F,none,Launch VSCodium
 {6089fa35-e891-4f59-aabe-9777baee3bd1}=Meta+W,none,Launch Firefox
+{875aaa72-cbbc-4fb0-9e9f-3a6d38b895e6}=Meta+Ctrl+Shift+R,none,Restart KDE Plasma
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
+{e987657e-e6b1-4ede-8551-fb1c73224686}=Meta+T,none,Launch Typora
 {fc074424-7bee-47c1-89ca-96439be04440}=Ctrl+Alt+T,none,Launch Konsole
 
 [kmix]
@@ -49,7 +52,7 @@ _launch=Alt+Space\tAlt+F2\tSearch,Alt+Space\tAlt+F2\tSearch,KRunner
 
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,Ctrl+Alt+Shift+PgDown,Halt Without Confirmation
-Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
+Lock Session=Ctrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
 Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,Ctrl+Alt+Shift+Del,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,Ctrl+Alt+Shift+PgUp,Reboot Without Confirmation
@@ -67,7 +70,7 @@ Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Kill Window
 Krohnkite: Cycle Layout=,none,
 Krohnkite: Decrease=,none,
 Krohnkite: Down/Next=Meta+J,none,
-Krohnkite: Float=Meta+F,none,
+Krohnkite: Float=,none,
 Krohnkite: Float All=Meta+Shift+F,none,
 Krohnkite: Floating Layout=none,none,
 Krohnkite: Grow Height=Meta+Alt+J,none,
@@ -82,14 +85,14 @@ Krohnkite: Move Up/Prev=Meta+Shift+K,none,
 Krohnkite: Next Layout=Meta+\\\\,none,
 Krohnkite: Previous Layout=Meta+|,none,
 Krohnkite: Quarter Layout=none,none,
-Krohnkite: Right=,none,
+Krohnkite: Right=Meta+L,none,
 Krohnkite: Set master=Meta+Return,none,
 Krohnkite: Shrink Height=Meta+Alt+K,none,
 Krohnkite: Shrink Width=Meta+Alt+H,none,
 Krohnkite: Spread Layout=none,none,
 Krohnkite: Stair Layout=none,none,
 Krohnkite: Three Column Layout=none,none,
-Krohnkite: Tile Layout=Meta+T,none,
+Krohnkite: Tile Layout=,none,
 Krohnkite: Up/Prev=Meta+K,none,
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
@@ -249,11 +252,11 @@ _launch=none,Meta+.,Emoji Selector
 
 [org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
-CurrentMonitorScreenShot=,,Capture Current Monitor
+CurrentMonitorScreenShot=,none,Capture Current Monitor
 FullScreenScreenShot=Shift+Print,Shift+Print,Capture Entire Desktop
 RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Capture Rectangular Region
 _k_friendly_name=Spectacle
-_launch=Print,Print,Spectacle
+_launch=Print,Print,Launch Spectacle
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
@@ -286,8 +289,8 @@ cycleNextAction=none,none,Next History Item
 cyclePrevAction=none,none,Previous History Item
 edit_clipboard=none,none,Edit Contents...
 manage activities=none,Meta+Q,Show Activity Switcher
-next activity=Meta+Tab,none,Walk through activities
-previous activity=Meta+Shift+Tab,none,Walk through activities (Reverse)
+next activity=Meta+Tab,Meta+Tab,Walk through activities
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Walk through activities (Reverse)
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
 show-barcode=none,none,Show Barcode...

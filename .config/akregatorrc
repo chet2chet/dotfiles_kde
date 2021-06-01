@@ -1,2 +1,31 @@
 [$Version]
 update_info=fonts_akregator.upd:Plasma_Fonts_Akregator
+
+[Appearance]
+Fixed Font=Fira Code
+Sans Serif Font=Fira Code
+Serif Font=Fira Code
+Standard Font=Fira Code
+
+[General]
+ArticleListFeedHeaders=
+ArticleListGroupHeaders=
+SubscriptionListHeaders=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAAcAAAAsgAAAAMBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAACyAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAGQ=
+
+[HTML Settings]
+Fonts=Fira Code,Fira Code,Fira Code,Fira Code,0
+MediumFontSize=10
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAsQAAAGRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 2560x1080=498
+eDP-1 HDMI-1-0 Width 2560x1080=708
+eDP-1 HDMI-1-0 XPosition 2560x1080=20
+eDP-1 HDMI-1-0 YPosition 2560x1080=562
+
+[Migratekde4]
+Version=1
+
+[View]
+Splitter 1 Sizes=182,525

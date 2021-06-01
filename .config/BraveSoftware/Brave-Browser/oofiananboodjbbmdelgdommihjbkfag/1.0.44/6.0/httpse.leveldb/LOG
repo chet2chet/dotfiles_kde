@@ -1,0 +1,7 @@
+2021/05/31-19:00:10.967 b8a8 Recovering log #3
+2021/05/31-19:00:11.078 b8a8 Level-0 table #5: started
+2021/05/31-19:00:11.130 b8a8 Level-0 table #5: 2784458 bytes OK
+2021/05/31-19:00:11.133 b8a8 Recovering log #8
+2021/05/31-19:00:11.136 b8a8 Delete type=0 #8
+2021/05/31-19:00:11.136 b8a8 Delete type=3 #2
+2021/05/31-19:00:11.136 b8a8 Delete type=0 #3

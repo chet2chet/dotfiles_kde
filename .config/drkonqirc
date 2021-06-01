@@ -1,0 +1,8 @@
+[General]
+eDP-1 HDMI-1-0 Height 1920x1080=370
+eDP-1 HDMI-1-0 Width 1920x1080=657
+eDP-1 Height 1920x1080=370
+eDP-1 Width 1920x1080=657
+
+[SystemInformation]
+CompiledSources=false

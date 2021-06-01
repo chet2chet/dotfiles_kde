@@ -1,4 +1,8 @@
-2021/04/24-13:50:38.734 405b Reusing MANIFEST /home/karolproksa/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/04/24-13:52:38.734 73df Level-0 table #5: started
-2021/04/24-13:52:38.736 73df Level-0 table #5: 82996 bytes OK
-2021/04/24-13:52:38.737 73df Delete type=0 #3
+2021/05/01-13:29:09.767 6d05 Reusing MANIFEST /home/karolproksa/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/05/01-13:29:09.768 6d05 Recovering log #202
+2021/05/01-13:29:09.773 6d05 Level-0 table #206: started
+2021/05/01-13:29:09.779 6d05 Level-0 table #206: 518489 bytes OK
+2021/05/01-13:29:09.812 6d05 Delete type=0 #202
+2021/05/01-13:29:39.906 6edd Level-0 table #209: started
+2021/05/01-13:29:39.908 6edd Level-0 table #209: 47809 bytes OK
+2021/05/01-13:29:39.910 6edd Delete type=0 #207

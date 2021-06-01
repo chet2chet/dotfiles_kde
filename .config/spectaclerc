@@ -1,2 +1,23 @@
 [$Version]
 update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+copyImageToClipboard=true
+rememberLastRectangularRegion=false
+useLightMaskColour=true
+
+[GuiConfig]
+captureMode=5
+cropRegion=596,701,1922,352
+onClickChecked=true
+quitAfterSaveCopyExport=true
+window-position=887,302
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/gpu.png,file:$HOME/gpu.png
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[Save]
+lastSaveAsLocation=file:///home/karolproksa/gpu.png
+lastSaveLocation=file:///home/karolproksa/gpu.png

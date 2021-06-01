@@ -1,0 +1,16 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAuQAAAGTAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1-0 Height 2560x1080=498
+eDP-1 HDMI-1-0 Width 2560x1080=740
+eDP-1 HDMI-1-0 XPosition 2560x1080=1799
+eDP-1 HDMI-1-0 YPosition 2560x1080=562
+
+[MainWindowState]
+Splitter=246,493
+
+[Search]
+ScopeSelection=0
