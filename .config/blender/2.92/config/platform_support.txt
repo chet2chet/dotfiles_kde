@@ -1,2 +1,4 @@
 {NVIDIA Corporation/NVIDIA GeForce RTX 2070 with Max-Q Design/PCIe/SSE2/4.5.0 NVIDIA 465.24.02}=SUPPORTED
 {Intel/Mesa Intel(R) UHD Graphics (CML GT2)/4.6 (Core Profile) Mesa 21.0.3}=SUPPORTED
+{Intel/Mesa Intel(R) UHD Graphics (CML GT2)/4.6 (Core Profile) Mesa 21.1.1}=SUPPORTED
+{NVIDIA Corporation/NVIDIA GeForce RTX 2070 with Max-Q Design/PCIe/SSE2/4.5.0 NVIDIA 465.31}=SUPPORTED

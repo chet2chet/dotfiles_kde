@@ -93,18 +93,18 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABGUAAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA34AAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 2560x1080=498
-eDP-1 HDMI-1-0 Width 2560x1080=1125
-eDP-1 HDMI-1-0 XPosition 2560x1080=1415
+eDP-1 HDMI-1-0 Width 2560x1080=894
+eDP-1 HDMI-1-0 XPosition 2560x1080=1645
 eDP-1 HDMI-1-0 YPosition 2560x1080=562
-eDP-1 Height 1920x1080=495
-eDP-1 Width 1920x1080=836
-eDP-1 XPosition 1920x1080=1063
-eDP-1 YPosition 1920x1080=565
-splitterSizes=747,377
+eDP-1 Height 1920x1080=1010
+eDP-1 Width 1920x1080=1880
+eDP-1 XPosition 1920x1080=20
+eDP-1 YPosition 1920x1080=50
+splitterSizes=593,300
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/Fira_Code_v5.2.zip
@@ -115,6 +115,7 @@ File5[$e]=$HOME/Downloads/hiveos-0.6-203-stable@210403.img.xz
 File6[$e]=$HOME/Downloads/TEST_Konieczny.zip
 File7[$e]=$HOME/program-bezpieczy-sciagajacy.zip
 File8[$e]=$HOME/Downloads/msos-v1-4-K50-N460-A2030.zip
+File9[$e]=$HOME/Downloads/Brushes_IK.zip
 Name1[$e]=Fira_Code_v5.2.zip
 Name2[$e]=Fira_Code_v5.2(1).zip
 Name3[$e]=spicetify-themes-master.zip
@@ -123,6 +124,7 @@ Name5[$e]=hiveos-0.6-203-stable@210403.img.xz
 Name6[$e]=TEST_Konieczny.zip
 Name7[$e]=program-bezpieczy-sciagajacy.zip
 Name8[$e]=msos-v1-4-K50-N460-A2030.zip
+Name9[$e]=Brushes_IK.zip
 
 [Viewer]
 State=AAAA/wAAAAD9AAAAAAAABGUAAAD7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA

@@ -7,6 +7,7 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
+ItemGeometries-1920x1080=
 ItemGeometriesHorizontal=
 activityId=4b1ef3bc-7655-4705-814c-1dfb6b52d0d7
 formfactor=0
@@ -101,7 +102,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=14
+PreloadWeight=30
 SystrayContainmentId=8
 
 [Containments][2][Applets][79]
@@ -143,6 +144,7 @@ Image=/home/karolproksa/Downloads/michael-olsen-Gs1mJmK2ixc-unsplash(1).jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][24]
+ItemGeometries-2560x1080=
 ItemGeometriesHorizontal=
 activityId=4b1ef3bc-7655-4705-814c-1dfb6b52d0d7
 formfactor=0
@@ -158,6 +160,11 @@ DialogWidth=720
 
 [Containments][24][Configuration]
 PreloadWeight=0
+
+[Containments][24][General]
+ToolBoxButtonState=topcenter
+ToolBoxButtonX=821
+ToolBoxButtonY=24
 
 [Containments][24][Wallpaper][org.kde.image][General]
 Image=file:///home/karolproksa/Pictures/wallpaper.jpg
@@ -204,7 +211,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][26][Applets][32][Configuration]
-PreloadWeight=8
+PreloadWeight=59
 SystrayContainmentId=33
 
 [Containments][26][Applets][50]
@@ -243,7 +250,7 @@ plugin=org.kde.plasma.notifications
 PreloadWeight=0
 
 [Containments][26][ConfigDialog]
-DialogHeight=89
+DialogHeight=87
 DialogWidth=2560
 
 [Containments][26][Configuration]
@@ -266,14 +273,14 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][33][Applets][34][Configuration]
-PreloadWeight=0
+PreloadWeight=49
 
 [Containments][33][Applets][35]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][33][Applets][35][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][33][Applets][36][Configuration]
 PreloadWeight=42
@@ -347,7 +354,7 @@ plugin=org.kde.plasma.bluetooth
 PreloadWeight=0
 
 [Containments][33][ConfigDialog]
-DialogHeight=480
+DialogHeight=496
 DialogWidth=917
 
 [Containments][33][Configuration]
@@ -355,7 +362,7 @@ PreloadWeight=0
 
 [Containments][33][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.plasma.printmanager
-hiddenItems=discord,KOrganizer Reminder Daemon,teams,Discover Notifier_org.kde.DiscoverNotifier,Plasma_microphone,firewall-applet,discord1,Microsoft Teams - Preview1,KMix
+hiddenItems=discord,KOrganizer Reminder Daemon,teams,Discover Notifier_org.kde.DiscoverNotifier,Plasma_microphone,firewall-applet,discord1,Microsoft Teams - Preview1,KMix,blueman
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
 shownItems=Optimus Manager Qt
 
@@ -563,7 +570,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][10][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][Applets][11][Configuration]
 PreloadWeight=42
@@ -583,7 +590,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][14][Configuration]
-PreloadWeight=0
+PreloadWeight=20
 
 [Containments][8][Applets][14][Configuration][General]
 raiseMaximumVolume=true
@@ -626,6 +633,13 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][53][Configuration]
+PreloadWeight=5
+
+[Containments][8][Applets][80]
+immutability=1
+plugin=org.kde.plasma.keyboardlayout
+
+[Containments][8][Applets][80][Configuration]
 PreloadWeight=0
 
 [Containments][8][Applets][9]
@@ -633,7 +647,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][9][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][ConfigDialog]
 DialogHeight=702
@@ -644,7 +658,7 @@ PreloadWeight=0
 
 [Containments][8][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager,org.kde.plasma.volume
-hiddenItems=discord,KOrganizer Reminder Daemon,teams,Discover Notifier_org.kde.DiscoverNotifier,Plasma_microphone,firewall-applet,discord1,Microsoft Teams - Preview1,KMix
+hiddenItems=discord,KOrganizer Reminder Daemon,teams,Discover Notifier_org.kde.DiscoverNotifier,Plasma_microphone,firewall-applet,discord1,Microsoft Teams - Preview1,KMix,blueman
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
 shownItems=org.kde.plasma.volume
 

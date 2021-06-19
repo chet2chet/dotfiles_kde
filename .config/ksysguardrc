@@ -15,3 +15,6 @@ eDP-1 HDMI-1-0 XPosition 2560x1080=20
 eDP-1 HDMI-1-0 YPosition 1920x1080=1130
 eDP-1 HDMI-1-0 YPosition 2560x1080=44
 isMinimized=false
+
+[Notification Messages]
+endconfirmation=false

@@ -1,2 +1,3 @@
+/home/karolproksa/crypto-pillies.blend
 /home/karolproksa/eth.blend
 /home/karolproksa/gameboy.blend

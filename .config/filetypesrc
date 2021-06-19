@@ -1,4 +1,5 @@
 [EmbedSettings]
+embed-image/heif=false
 embed-text/markdown=false
 embed-text/plain=false
 embed-video/mp4=false

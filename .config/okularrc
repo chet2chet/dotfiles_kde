@@ -1,6 +1,9 @@
 [Desktop Entry]
 FullScreen=false
 
+[KFileDialog Settings]
+detailViewIconSize=16
+
 [MainWindow]
 State=AAAA/wAAAAD9AAAAAAAACdgAAAOAAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
@@ -8,25 +11,33 @@ eDP-1 HDMI-1-0 Height 1920x1080=1010
 eDP-1 HDMI-1-0 Height 2560x1080=1016
 eDP-1 HDMI-1-0 Width 1920x1080=1880
 eDP-1 HDMI-1-0 Width 2560x1080=2520
-eDP-1 HDMI-1-0 XPosition 1920x1080=352
+eDP-1 HDMI-1-0 XPosition 1920x1080=349
 eDP-1 HDMI-1-0 XPosition 2560x1080=20
 eDP-1 HDMI-1-0 YPosition 1920x1080=1130
 eDP-1 HDMI-1-0 YPosition 2560x1080=44
-eDP-1 Height 1920x1080=1010
-eDP-1 Width 1920x1080=1880
-eDP-1 XPosition 1920x1080=20
-eDP-1 YPosition 1920x1080=50
+eDP-1 Height 1920x1080=495
+eDP-1 Width 1920x1080=836
+eDP-1 XPosition 1920x1080=1063
+eDP-1 YPosition 1920x1080=565
 
 [Recent Files]
-File1[$e]=$HOME/CAE/CAE_essay_3.md
-File2[$e]=$HOME/CAE/PDFs/CAE_essay_5.pdf
-File3[$e]=$HOME/wf-zadanie-tetno.pdf
-File4[$e]=$HOME/CAE/cae-words.pdf
-File5[$e]=$HOME/Downloads/SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
-File6[$e]=$HOME/CAE/Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf
-Name1[$e]=CAE_essay_3.md
-Name2[$e]=CAE_essay_5.pdf
-Name3[$e]=wf-zadanie-tetno.pdf
-Name4[$e]=cae-words.pdf
-Name5[$e]=SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
-Name6[$e]=Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf
+File1[$e]=$HOME/wf-zadanie-tetno.pdf
+File10[$e]=$HOME/CAE/CAE_1_-_4_Examination_Papers.pdf
+File2[$e]=$HOME/CAE/cae-words.pdf
+File3[$e]=$HOME/Downloads/SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
+File4[$e]=$HOME/Downloads/CAE 1 Book.pdf
+File5[$e]=$HOME/Downloads/etykieta_InPost_660166048116050130966840.pdf
+File6[$e]=$HOME/Downloads/etykieta_2021-06-11_09-08-59_777.pdf
+File7[$e]=$HOME/CAE/PDFs/CAE_essay_2.pdf
+File8[$e]=$HOME/CAE/practical-english-usage.pdf
+File9[$e]=$HOME/CAE/Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf
+Name1[$e]=wf-zadanie-tetno.pdf
+Name10[$e]=CAE_1_-_4_Examination_Papers.pdf
+Name2[$e]=cae-words.pdf
+Name3[$e]=SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
+Name4[$e]=CAE 1 Book.pdf
+Name5[$e]=etykieta_InPost_660166048116050130966840.pdf
+Name6[$e]=etykieta_2021-06-11_09-08-59_777.pdf
+Name7[$e]=CAE_essay_2.pdf
+Name8[$e]=practical-english-usage.pdf
+Name9[$e]=Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf

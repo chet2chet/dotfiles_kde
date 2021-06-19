@@ -3,7 +3,7 @@ ShadowColor=0,255,106
 ShadowSize=ShadowNone
 
 [Style]
-MenuOpacity=20
+MenuOpacity=50
 
 [Windeco Exception 0]
 BorderSize=0

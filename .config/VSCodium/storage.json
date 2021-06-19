@@ -9,7 +9,13 @@
                 "folderUri": "file:///home/karolproksa"
             },
             {
+                "fileUri": "file:///home/karolproksa/Downloads/mew-export-2021-06-16T15_27_27.199Z.json"
+            },
+            {
                 "fileUri": "file:///home/karolproksa/.config/shapecornersrc"
+            },
+            {
+                "fileUri": "file:///etc/X11/xorg.conf"
             },
             {
                 "fileUri": "file:///home/karolproksa/Downloads/config.js"
@@ -125,7 +131,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.29",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -166,12 +172,34 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa/Downloads/mew-export-2021-06-16T15_27_27.199Z.json",
+                                        "path": "/home/karolproksa/Downloads/mew-export-2021-06-16T15_27_27.199Z.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/mew-export-2021-06-16T15_27_27.199Z.json"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa/.config/shapecornersrc",
                                         "path": "/home/karolproksa/.config/shapecornersrc",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.config/shapecornersrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///etc/X11/xorg.conf",
+                                        "path": "/etc/X11/xorg.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/etc/X11/xorg.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -251,28 +279,6 @@
                                     "label": "~/program-bezpieczy-sciagajacy/pytanka.txt"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/program-bezpieczy-sciagajacy/test.cpp",
-                                        "path": "/home/karolproksa/program-bezpieczy-sciagajacy/test.cpp",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/program-bezpieczy-sciagajacy/test.cpp"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/program-bezpieczy-sciagajacy/main.cpp",
-                                        "path": "/home/karolproksa/program-bezpieczy-sciagajacy/main.cpp",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/program-bezpieczy-sciagajacy/main.cpp"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -324,7 +330,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.28",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -560,7 +566,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.17",
+                        "id": "submenuitem.19",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -599,13 +605,13 @@
                                     "checked": true
                                 },
                                 {
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel"
+                                },
+                                {
                                     "id": "workbench.action.toggleEditorVisibility",
                                     "label": "Show &&Editor Area",
                                     "checked": true
-                                },
-                                {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -641,7 +647,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.24",
+                        "id": "submenuitem.26",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -753,7 +759,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "Toggle &&Word Wrap"
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -790,13 +796,14 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.31",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -845,7 +852,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.30",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -1052,7 +1059,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.27",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1167,7 +1174,7 @@
                         "label": "&&Welcome"
                     },
                     {
-                        "id": "workbench.action.showGettingStarted",
+                        "id": "workbench.action.openWalkthrough",
                         "label": "Getting Started"
                     },
                     {
@@ -1308,8 +1315,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+W",
-                "userSettingsLabel": "ctrl+w"
+                "label": "Alt+F4",
+                "userSettingsLabel": "alt+f4"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1456,10 +1463,13 @@
                 "label": "Ctrl+Shift+E",
                 "userSettingsLabel": "ctrl+shift+e"
             },
+            "workbench.view.search": {
+                "label": "Ctrl+Shift+F",
+                "userSettingsLabel": "ctrl+shift+f"
+            },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G G",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+shift+g g"
+                "label": "Ctrl+Shift+G",
+                "userSettingsLabel": "ctrl+shift+g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1674,19 +1684,41 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#292828",
+    "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1622585085963",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1623857282965",
             "uiState": {
                 "mode": 1,
-                "x": 20,
-                "y": 20,
-                "width": 1023,
-                "height": 1040
+                "x": 1415,
+                "y": 562,
+                "width": 1125,
+                "height": 498
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/karolproksa"
+    "pickerWorkingDir": "/home/karolproksa",
+    "windowSplash": {
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1e1e1e",
+            "editorBackground": "#1e1e1e",
+            "titleBarBackground": "#3c3c3c",
+            "activityBarBackground": "#333333",
+            "sideBarBackground": "#252526",
+            "statusBarBackground": "#007acc",
+            "statusBarNoFolderBackground": "#68217a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 0,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
 }

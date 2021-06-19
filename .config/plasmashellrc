@@ -17,9 +17,6 @@ Recent Files[$e]=wallpaper.jpg,file:$HOME/Downloads/michael-olsen-Gs1mJmK2ixc-un
 Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Desktop/
 detailViewIconSize=16
 
-[Notification Messages]
-really_clear_history=false
-
 [PlasmaViews][Panel 2][Defaults]
 thickness=30
 
@@ -41,6 +38,15 @@ thickness=26
 [PlasmaViews][Panel 57][Horizontal2560]
 thickness=26
 
+[PlasmaViews][Panel 81][Defaults]
+thickness=28
+
+[PlasmaViews][Panel 81][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 81][Vertical1080]
+thickness=28
+
 [ScreenConnectors]
 0=eDP-1
 1=HDMI-0
@@ -49,4 +55,4 @@ thickness=26
 4=:0.0
 
 [Updates]
-performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js

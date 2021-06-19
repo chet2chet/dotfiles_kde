@@ -1,2 +1,4 @@
 [Formats]
-LANG=szl_PL.UTF-8
+LANG=en_US.UTF-8
+LC_MEASUREMENT=szl_PL.UTF-8
+useDetailed=true

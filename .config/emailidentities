@@ -1,7 +1,30 @@
 [General]
-Default Identity=1916256837
+Default Identity=2176741897
 
 [Identity #0]
+Attach Vcard=false
+Default Domain=arch
+Disable Fcc=false
+Drafts=14
+Email Address=karolproksa@gmail.com
+Email Aliases=
+Fcc=8
+Identity=Karol Proksa
+Image Location=
+Inline Signature=
+Inlined Html=false
+Name=Karol Proksa
+Pgp Auto Encrypt=false
+Pgp Auto Sign=false
+Preferred Crypto Message Format=auto
+Signature Enabled=false
+Signature Type=inline
+Templates=16
+VCardFile=/home/karolproksa/.local/share/kmail2/Karol Proksa.vcf
+X-FaceEnabled=false
+uoid=2176741897
+
+[Identity #1]
 Default Domain=arch
 Disable Fcc=false
 Identity=Unnamed

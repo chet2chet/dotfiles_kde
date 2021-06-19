@@ -1,6 +1,6 @@
 [Bookmarks]
 [Recent]
-/home/karolproksa/ETH_3D/
 !Home
 /home/karolproksa/
+/home/karolproksa/ETH_3D/
 /home/karolproksa/Pictures/

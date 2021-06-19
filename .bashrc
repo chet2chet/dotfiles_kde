@@ -13,4 +13,8 @@ alias ls='ls --color=auto'
 # PS1 customozation
 export PS1="\[$(tput bold)\]\[\033[38;5;148m\]\u\[$(tput sgr0)\] \[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;230m\]@\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;230m\]{\[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;148m\]\h\[$(tput sgr0)\]\[\033[38;5;230m\]}\[$(tput sgr0)\] \[$(tput sgr0)\]\[\033[38;5;230m\]\w\[$(tput sgr0)\]\n \[$(tput sgr0)\]\[$(tput bold)\]\[\033[38;5;230m\]\\$\[$(tput sgr0)\] \[$(tput sgr0)\]"
 
+# My aliases
 alias dotfiles='/usr/bin/git --git-dir=/home/karolproksa/.dotfiles/ --work-tree=/home/karolproksa'
+alias update='sudo pacman -Syu; yay -Syu; flatpak update; flatpak upgrade'
+alias install='sudo pacman -S'
+alias remove='sudo pacman -R'

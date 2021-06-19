@@ -10,7 +10,6 @@ LatencyPolicy=ExtremelyHigh
 MaxFPS=75
 OpenGLIsUnsafe=false
 RefreshRate=75
-WindowsBlockCompositing=false
 
 [Desktops]
 Id_1=43e068c9-e29c-4974-bd35-7a691950f97b
@@ -70,9 +69,6 @@ tileLayoutGap=20
 
 [TabBox]
 BorderActivate=9
-DesktopLayout=org.kde.breeze.desktop
-DesktopListLayout=org.kde.breeze.desktop
-LayoutName=org.kde.breeze.desktop
 
 [Windows]
 ActiveMouseScreen=true

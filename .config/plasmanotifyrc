@@ -10,6 +10,9 @@ Seen=true
 [Applications][firefox]
 Seen=true
 
+[Applications][org.gnome.geary]
+Seen=true
+
 [Applications][teams]
 Seen=true
 

@@ -138,7 +138,7 @@ Sort by=Name
 Sort directories first=true
 Sort reversed=true
 Speedbar Width=138
-View Style=DetailTree
+View Style=Simple
 
 [PreviewSettings]
 MaximumRemoteSize=0
