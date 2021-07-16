@@ -3,10 +3,94 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/karolproksa/karolproksa_website"
+            },
+            {
                 "folderUri": "file:///home/karolproksa/pukpuk"
             },
             {
                 "folderUri": "file:///home/karolproksa"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/.bashrc"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/style.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/index.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/asd"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/sub/visual.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/style.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/index.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/bledner_donut.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/brandcrowd.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/contemporary_untitled.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/fabryka.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/lighthouse.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/michal_majer.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/miserable.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/portrait_ai.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/skater_exe.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/the_dark_side_of_eth.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/content/travis-scott-digital-painting.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/sub/code.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/sub/info.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/sub/inspiration.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/sub/writing.html"
+            },
+            {
+                "fileUri": "file:///run/media/karolproksa/UNTITLED/DOCUMENTS/PC%20BACKUP/New%20folder%20%282%29/New%20Text%20Document%20%282%29.txt"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/archive/script.js"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/Desktop/wine-esync-staging.m4-pba-SMT-TkG-v5/wine.install"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/.drirc"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/drirc"
             },
             {
                 "fileUri": "file:///home/karolproksa/Downloads/mew-export-2021-06-16T15_27_27.199Z.json"
@@ -25,9 +109,6 @@
             },
             {
                 "fileUri": "file:///run/media/karolproksa/2C9A-877C/fans.txt"
-            },
-            {
-                "fileUri": "file:///run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/-%3D-%20copy%202.txt"
             },
             {
                 "fileUri": "file:///home/karolproksa/anaconda3/pkgs/libgcc-ng-9.1.0-hdf63c60_0/share/info/libgomp.info"
@@ -90,9 +171,6 @@
                 "fileUri": "file:///home/karolproksa/PukPuk/pukpuk/components/SellScreen/SeparatorPink.tsx"
             },
             {
-                "fileUri": "file:///home/karolproksa/.bashrc"
-            },
-            {
                 "fileUri": "file:///home/karolproksa/.config/.bashrc"
             },
             {
@@ -147,6 +225,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa/karolproksa_website",
+                                        "path": "/home/karolproksa/karolproksa_website",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/karolproksa_website"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa/pukpuk",
                                         "path": "/home/karolproksa/pukpuk",
                                         "scheme": "file"
@@ -172,111 +261,111 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/Downloads/mew-export-2021-06-16T15_27_27.199Z.json",
-                                        "path": "/home/karolproksa/Downloads/mew-export-2021-06-16T15_27_27.199Z.json",
+                                        "external": "file:///home/karolproksa/.bashrc",
+                                        "path": "/home/karolproksa/.bashrc",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/mew-export-2021-06-16T15_27_27.199Z.json"
+                                    "label": "~/.bashrc"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/.config/shapecornersrc",
-                                        "path": "/home/karolproksa/.config/shapecornersrc",
+                                        "external": "file:///home/karolproksa/style.css",
+                                        "path": "/home/karolproksa/style.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/shapecornersrc"
+                                    "label": "~/style.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///etc/X11/xorg.conf",
-                                        "path": "/etc/X11/xorg.conf",
+                                        "external": "file:///home/karolproksa/index.html",
+                                        "path": "/home/karolproksa/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/etc/X11/xorg.conf"
+                                    "label": "~/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/Downloads/config.js",
-                                        "path": "/home/karolproksa/Downloads/config.js",
+                                        "external": "file:///home/karolproksa/asd",
+                                        "path": "/home/karolproksa/asd",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/config.js"
+                                    "label": "~/asd"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///run/media/karolproksa/2C9A-877C/network.txt",
-                                        "path": "/run/media/karolproksa/2C9A-877C/network.txt",
+                                        "external": "file:///home/karolproksa/karolproksa_website/archive/sub/visual.html",
+                                        "path": "/home/karolproksa/karolproksa_website/archive/sub/visual.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/run/media/karolproksa/2C9A-877C/network.txt"
+                                    "label": "~/karolproksa_website/archive/sub/visual.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///run/media/karolproksa/2C9A-877C/fans.txt",
-                                        "path": "/run/media/karolproksa/2C9A-877C/fans.txt",
+                                        "external": "file:///home/karolproksa/karolproksa_website/style.css",
+                                        "path": "/home/karolproksa/karolproksa_website/style.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/run/media/karolproksa/2C9A-877C/fans.txt"
+                                    "label": "~/karolproksa_website/style.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/-%3D-%20copy%202.txt",
-                                        "path": "/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/-=- copy 2.txt",
+                                        "external": "file:///home/karolproksa/karolproksa_website/index.html",
+                                        "path": "/home/karolproksa/karolproksa_website/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/-=- copy 2.txt"
+                                    "label": "~/karolproksa_website/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/anaconda3/pkgs/libgcc-ng-9.1.0-hdf63c60_0/share/info/libgomp.info",
-                                        "path": "/home/karolproksa/anaconda3/pkgs/libgcc-ng-9.1.0-hdf63c60_0/share/info/libgomp.info",
+                                        "external": "file:///home/karolproksa/karolproksa_website/archive/content/bledner_donut.html",
+                                        "path": "/home/karolproksa/karolproksa_website/archive/content/bledner_donut.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/anaconda3/pkgs/libgcc-ng-9.1.0-hdf63c60_0/share/info/libgomp.info"
+                                    "label": "~/karolproksa_website/archive/content/bledner_donut.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/program-bezpieczy-sciagajacy/odpowiedzi.txt",
-                                        "path": "/home/karolproksa/program-bezpieczy-sciagajacy/odpowiedzi.txt",
+                                        "external": "file:///home/karolproksa/karolproksa_website/archive/content/brandcrowd.html",
+                                        "path": "/home/karolproksa/karolproksa_website/archive/content/brandcrowd.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/program-bezpieczy-sciagajacy/odpowiedzi.txt"
+                                    "label": "~/karolproksa_website/archive/content/brandcrowd.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/program-bezpieczy-sciagajacy/pytanka.txt",
-                                        "path": "/home/karolproksa/program-bezpieczy-sciagajacy/pytanka.txt",
+                                        "external": "file:///home/karolproksa/karolproksa_website/archive/content/contemporary_untitled.html",
+                                        "path": "/home/karolproksa/karolproksa_website/archive/content/contemporary_untitled.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/program-bezpieczy-sciagajacy/pytanka.txt"
+                                    "label": "~/karolproksa_website/archive/content/contemporary_untitled.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -305,6 +394,10 @@
                     {
                         "id": "workbench.action.saveWorkspaceAs",
                         "label": "Save Workspace As..."
+                    },
+                    {
+                        "id": "workbench.action.duplicateWorkspaceInNewWindow",
+                        "label": "Duplicate Workspace"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -763,8 +856,7 @@
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Show &&Minimap",
-                        "checked": true
+                        "label": "Show &&Minimap"
                     },
                     {
                         "id": "breadcrumbs.toggle",
@@ -786,8 +878,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -796,8 +887,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1170,12 +1260,8 @@
             "Help": {
                 "items": [
                     {
-                        "id": "workbench.action.showWelcomePage",
-                        "label": "&&Welcome"
-                    },
-                    {
                         "id": "workbench.action.openWalkthrough",
-                        "label": "Getting Started"
+                        "label": "Welcome"
                     },
                     {
                         "id": "workbench.action.showInteractivePlayground",
@@ -1684,16 +1770,16 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e",
+    "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1623857282965",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626473615523",
             "uiState": {
                 "mode": 1,
-                "x": 1415,
-                "y": 562,
-                "width": 1125,
-                "height": 498
+                "x": 1063,
+                "y": 565,
+                "width": 836,
+                "height": 495
             }
         },
         "openedWindows": []
@@ -1702,14 +1788,14 @@
     "windowSplash": {
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cccccc",
-            "background": "#1e1e1e",
-            "editorBackground": "#1e1e1e",
-            "titleBarBackground": "#3c3c3c",
-            "activityBarBackground": "#333333",
-            "sideBarBackground": "#252526",
-            "statusBarBackground": "#007acc",
-            "statusBarNoFolderBackground": "#68217a"
+            "foreground": "#a89984",
+            "background": "#292828",
+            "editorBackground": "#292828",
+            "titleBarBackground": "#292828",
+            "activityBarBackground": "#292828",
+            "sideBarBackground": "#292828",
+            "statusBarBackground": "#292828",
+            "statusBarNoFolderBackground": "#292828"
         },
         "layoutInfo": {
             "sideBarSide": "left",

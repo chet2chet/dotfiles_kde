@@ -25,6 +25,7 @@ display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
 _k_friendly_name=Custom Shortcuts Service
+{04d07c05-7ff0-4145-a2dd-6e12e408825d}=Meta+S,none,Launch Spotify
 {06df6163-6258-49d9-906a-8da5c9f34048}=Meta+R,none,Launch Alacritty
 {2c799377-f79a-4249-ab03-045e5f6b0ce9}=Meta+D,none,Launch Discord
 {2ef20168-b9b7-4f1b-b934-566c15e8f55f}=Meta+F,none,Launch VSCodium
@@ -297,7 +298,7 @@ repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
 show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
 show-barcode=none,none,Show Barcode...
 show-on-mouse-pos=none,Meta+V,Open Klipper at Mouse Position
-stop current activity=Meta+S,Meta+S,Stop Current Activity
+stop current activity=,Meta+S,Stop Current Activity
 switch to next activity=none,none,Switch to Next Activity
 switch to previous activity=none,none,Switch to Previous Activity
 toggle do not disturb=none,none,Toggle do not disturb

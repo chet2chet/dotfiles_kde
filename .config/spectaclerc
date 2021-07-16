@@ -8,10 +8,10 @@ useLightMaskColour=true
 
 [GuiConfig]
 captureMode=5
-cropRegion=1017,269,444,223
+cropRegion=857,212,742,212
 onClickChecked=true
 quitAfterSaveCopyExport=true
-window-position=887,302
+window-position=1519,458
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/gpu.png,file:$HOME/gpu.png

@@ -1,0 +1,13 @@
+# GIMP action-history
+
+(history-item "tools-opacity-increase" 0)
+(history-item "file-export-as" 4)
+(history-item "tools-smudge" 0)
+(history-item "tools-vector" 1)
+(history-item "image-new" 0)
+(history-item "tools-opacity-decrease" 0)
+(history-item "tools-airbrush" 0)
+(history-item "tools-iscissors" 0)
+(history-item "file-quit" 1)
+
+# end of action-history

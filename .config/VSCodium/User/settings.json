@@ -7,5 +7,10 @@
     },
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "update.mode": "none"
+    "update.mode": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false
 }

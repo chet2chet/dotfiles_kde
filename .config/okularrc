@@ -2,7 +2,10 @@
 FullScreen=false
 
 [KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/zalando-reklamacja-mama/Oświadczenie_Lounge_PL_brakujący zwrot2.pdf,file:$HOME/Documents/zalando-reklamacja-mama/oświadczenie-zalando-lounge.png
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Documents/zalando-reklamacja-mama/
 detailViewIconSize=16
+iconViewIconSize=43
 
 [MainWindow]
 State=AAAA/wAAAAD9AAAAAAAACdgAAAOAAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
@@ -20,24 +23,17 @@ eDP-1 Width 1920x1080=836
 eDP-1 XPosition 1920x1080=1063
 eDP-1 YPosition 1920x1080=565
 
+[Notification Messages]
+TooSmallDigitalSignatureQuestion=false
+
 [Recent Files]
-File1[$e]=$HOME/wf-zadanie-tetno.pdf
-File10[$e]=$HOME/CAE/CAE_1_-_4_Examination_Papers.pdf
-File2[$e]=$HOME/CAE/cae-words.pdf
-File3[$e]=$HOME/Downloads/SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
-File4[$e]=$HOME/Downloads/CAE 1 Book.pdf
-File5[$e]=$HOME/Downloads/etykieta_InPost_660166048116050130966840.pdf
-File6[$e]=$HOME/Downloads/etykieta_2021-06-11_09-08-59_777.pdf
-File7[$e]=$HOME/CAE/PDFs/CAE_essay_2.pdf
-File8[$e]=$HOME/CAE/practical-english-usage.pdf
-File9[$e]=$HOME/CAE/Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf
-Name1[$e]=wf-zadanie-tetno.pdf
-Name10[$e]=CAE_1_-_4_Examination_Papers.pdf
-Name2[$e]=cae-words.pdf
-Name3[$e]=SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
-Name4[$e]=CAE 1 Book.pdf
-Name5[$e]=etykieta_InPost_660166048116050130966840.pdf
-Name6[$e]=etykieta_2021-06-11_09-08-59_777.pdf
-Name7[$e]=CAE_essay_2.pdf
-Name8[$e]=practical-english-usage.pdf
-Name9[$e]=Destination C1 & C2 Grammar and Vocabulary with key - Macmillan.pdf
+File1[$e]=$HOME/Downloads/SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
+File2[$e]=$HOME/Downloads/CAE 1 Book.pdf
+File3[$e]=$HOME/Downloads/etykieta_InPost_660166048116050130966840.pdf
+File4[$e]=$HOME/Downloads/etykieta_2021-06-11_09-08-59_777.pdf
+File5[$e]=$HOME/Documents/zalando-reklamacja-mama/Oświadczenie_Lounge_PL_brakujący zwrot.pdf
+Name1[$e]=SCENT MARKETING_BITCOIN Flashcards | Quizlet.pdf
+Name2[$e]=CAE 1 Book.pdf
+Name3[$e]=etykieta_InPost_660166048116050130966840.pdf
+Name4[$e]=etykieta_2021-06-11_09-08-59_777.pdf
+Name5[$e]=Oświadczenie_Lounge_PL_brakujący zwrot.pdf

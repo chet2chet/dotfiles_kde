@@ -59,6 +59,9 @@ Split=false
 [View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:5]
 Split=false
 
+[View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:7]
+Split=false
+
 [View.PulseAudio.Capture_Streams.1.default.PulseAudio::Capture_Streams:1.stream:75]
 Split=false
 
@@ -137,16 +140,31 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:118]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:119]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:12]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:120]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:121]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:123]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:124]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:126]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:127]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:128]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:129]
@@ -156,6 +174,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:130]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:131]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:133]
@@ -170,13 +191,49 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:137]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:14]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1423]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1479]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1488]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1494]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1495]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1499]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:15]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:150]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1501]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1503]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1506]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1508]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1509]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:1511]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:152]
@@ -191,13 +248,25 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:156]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:159]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:16]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:162]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:164]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:165]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:166]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:167]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:168]
@@ -216,6 +285,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:173]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:174]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:175]
@@ -278,10 +350,28 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:21]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:212]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:213]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:214]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:215]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:219]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:22]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:220]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:222]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:224]
@@ -302,10 +392,25 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:237]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:239]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:24]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:240]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:242]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:244]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:247]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:248]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:249]
@@ -317,19 +422,43 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:250]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:251]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:252]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:254]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:256]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:26]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:261]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:262]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:263]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:264]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:265]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:267]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:27]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:270]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:277]
@@ -350,16 +479,49 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:30]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:316]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:317]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:318]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:32]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:320]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:323]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:33]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:330]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:337]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:338]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:34]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:340]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:341]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:344]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:345]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:346]
@@ -383,10 +545,31 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:36]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:362]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:363]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:37]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:373]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:376]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:38]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:388]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:39]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:395]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:4]
@@ -398,16 +581,31 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:400]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:41]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:43]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:440]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:449]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:45]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:454]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:470]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:48]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:489]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:49]
@@ -488,10 +686,16 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:61]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:64]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:65]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:66]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:67]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:68]
@@ -524,6 +728,18 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:75]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:750]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:752]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:754]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:756]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:767]
 Split=false
 
@@ -551,6 +767,12 @@ Split=false
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:83]
 Split=false
 
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:84]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:86]
+Split=false
+
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:87]
 Split=false
 
@@ -570,6 +792,9 @@ Split=false
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:94]
+Split=false
+
+[View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:95]
 Split=false
 
 [View.PulseAudio.Playback_Streams.1.default.PulseAudio::Playback_Streams:1.stream:97]

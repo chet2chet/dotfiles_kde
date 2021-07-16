@@ -13,11 +13,17 @@ Seen=true
 [Applications][org.gnome.geary]
 Seen=true
 
+[Applications][org.qbittorrent.qbittorrent]
+Seen=true
+
 [Applications][teams]
 Seen=true
 
 [Badges]
 InTaskManager=false
+
+[DoNotDisturb]
+NotificationSoundsMuted=true
 
 [Jobs]
 InNotifications=false

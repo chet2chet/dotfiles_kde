@@ -1,0 +1,1 @@
+[2021-07-14 18:30:16:489] [/home/karolproksa] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 6 ms 

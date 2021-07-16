@@ -18,3 +18,8 @@ alias dotfiles='/usr/bin/git --git-dir=/home/karolproksa/.dotfiles/ --work-tree=
 alias update='sudo pacman -Syu; yay -Syu; flatpak update; flatpak upgrade'
 alias install='sudo pacman -S'
 alias remove='sudo pacman -R'
+alias keyboard-fix='rogauracore single_static 68e01d'
+alias s='sudo'
+alias p='pacman'
+alias ..='cd ..'
+alias ll='ls -la'

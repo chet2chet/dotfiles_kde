@@ -1,0 +1,48 @@
+2021/07/09-17:42:54.336 ab9 Reusing MANIFEST /home/karolproksa/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2021/07/09-17:42:54.337 ab9 Recovering log #52
+2021/07/09-17:42:54.345 ab9 Reusing old log /home/karolproksa/.config/Notion/Partitions/notion/Local Storage/leveldb/000052.log 
+2021/07/09-17:43:54.865 ab8 Level-0 table #57: started
+2021/07/09-17:43:54.868 ab8 Level-0 table #57: 19050 bytes OK
+2021/07/09-17:43:54.870 ab8 Delete type=0 #52
+2021/07/09-18:23:00.492 ab8 Level-0 table #59: started
+2021/07/09-18:23:00.495 ab8 Level-0 table #59: 15453 bytes OK
+2021/07/09-18:23:00.498 ab8 Delete type=0 #56
+2021/07/09-19:13:00.492 5a3d Level-0 table #61: started
+2021/07/09-19:13:00.498 5a3d Level-0 table #61: 14643 bytes OK
+2021/07/09-19:13:00.500 5a3d Delete type=0 #58
+2021/07/09-20:03:00.492 5a3b Level-0 table #63: started
+2021/07/09-20:03:00.499 5a3b Level-0 table #63: 14650 bytes OK
+2021/07/09-20:03:00.503 5a3b Delete type=0 #60
+2021/07/09-20:03:00.503 5a3d Compacting 4@0 + 1@1 files
+2021/07/09-20:03:00.506 5a3d Generated table #64@0: 63 keys, 10269 bytes
+2021/07/09-20:03:00.506 5a3d Compacted 4@0 + 1@1 files => 10269 bytes
+2021/07/09-20:03:00.509 5a3d compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-20:03:00.510 5a3d Delete type=2 #54
+2021/07/09-20:03:00.510 5a3d Delete type=2 #57
+2021/07/09-20:03:00.510 5a3d Delete type=2 #59
+2021/07/09-20:03:00.510 5a3d Delete type=2 #61
+2021/07/09-20:03:00.510 5a3d Delete type=2 #63
+2021/07/09-20:52:59.206 5a3b Level-0 table #66: started
+2021/07/09-20:52:59.209 5a3b Level-0 table #66: 14650 bytes OK
+2021/07/09-20:52:59.212 5a3b Delete type=0 #62
+2021/07/09-21:43:00.492 5a3d Level-0 table #68: started
+2021/07/09-21:43:00.500 5a3d Level-0 table #68: 14724 bytes OK
+2021/07/09-21:43:00.503 5a3d Delete type=0 #65
+2021/07/09-22:33:00.490 5a3b Level-0 table #70: started
+2021/07/09-22:33:00.498 5a3b Level-0 table #70: 14654 bytes OK
+2021/07/09-22:33:00.501 5a3b Delete type=0 #67
+2021/07/09-23:23:00.491 5a3d Level-0 table #72: started
+2021/07/09-23:23:00.493 5a3d Level-0 table #72: 14630 bytes OK
+2021/07/09-23:23:00.495 5a3d Delete type=0 #69
+2021/07/09-23:23:00.496 5a3b Compacting 4@0 + 1@1 files
+2021/07/09-23:23:00.497 5a3b Generated table #73@0: 63 keys, 10269 bytes
+2021/07/09-23:23:00.497 5a3b Compacted 4@0 + 1@1 files => 10269 bytes
+2021/07/09-23:23:00.499 5a3b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-23:23:00.499 5a3b Delete type=2 #64
+2021/07/09-23:23:00.499 5a3b Delete type=2 #66
+2021/07/09-23:23:00.499 5a3b Delete type=2 #68
+2021/07/09-23:23:00.499 5a3b Delete type=2 #70
+2021/07/09-23:23:00.499 5a3b Delete type=2 #72
+2021/07/10-00:13:00.490 5a3b Level-0 table #75: started
+2021/07/10-00:13:00.545 5a3b Level-0 table #75: 14610 bytes OK
+2021/07/10-00:13:00.549 5a3b Delete type=0 #71

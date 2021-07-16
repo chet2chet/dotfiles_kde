@@ -1,0 +1,9 @@
+game:
+  exe: /home/karolproksa/Adobe/Adobe Photoshop 2021/photoshop.exe
+system:
+  prime: false
+wine:
+  esync: true
+  fsync: false
+  show_debug: ''
+  version: lutris-6.1-x86_64

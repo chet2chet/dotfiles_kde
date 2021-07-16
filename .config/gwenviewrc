@@ -2,38 +2,26 @@
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABLEAAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABGUAAAOuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 1920x1080=495
 eDP-1 HDMI-1-0 Height 2560x1080=1016
 eDP-1 HDMI-1-0 Width 1920x1080=836
-eDP-1 HDMI-1-0 Width 2560x1080=1201
+eDP-1 HDMI-1-0 Width 2560x1080=1125
 eDP-1 HDMI-1-0 XPosition 1920x1080=1395
-eDP-1 HDMI-1-0 XPosition 2560x1080=1338
+eDP-1 HDMI-1-0 XPosition 2560x1080=1415
 eDP-1 HDMI-1-0 YPosition 1920x1080=1645
 eDP-1 HDMI-1-0 YPosition 2560x1080=44
+eDP-1-1 HDMI-0 Height 2560x1080=1016
+eDP-1-1 HDMI-0 Width 2560x1080=1125
+eDP-1-1 HDMI-0 XPosition 2560x1080=1415
+eDP-1-1 HDMI-0 YPosition 2560x1080=44
 
 [Recent Files]
-File1[$e]=/run/media/karolproksa/UNTITLED/PukPuk_design/pukpuk_logo.png
-File10[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/PayPal docs/IMG_4926.jpg
-File2[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/IMG_0362.jpg
-File3[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/asdsad/IMG_3388.jpg
-File4[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/asdsad/IMG_0176.PNG
-File5[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/asdsad/IMG_0177.PNG
-File6[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/asdsad/IMG_9068.jpg
-File7[$e]=/run/media/karolproksa/UNTITLED/DOCUMENTS/.asd/asdsad/asdsad/IMG_6400.PNG
-File8[$e]=$HOME/FOR SALE (DUNKS)/Nike Dunk White High/IMG_0578.jpg
-File9[$e]=$HOME/FOR SALE (DUNKS)/Nike Dunk White High/IMG_0585.jpg
-Name1[$e]=pukpuk_logo.png
-Name10[$e]=IMG_4926.jpg
-Name2[$e]=IMG_0362.jpg
-Name3[$e]=IMG_3388.jpg
-Name4[$e]=IMG_0176.PNG
-Name5[$e]=IMG_0177.PNG
-Name6[$e]=IMG_9068.jpg
-Name7[$e]=IMG_6400.PNG
-Name8[$e]=IMG_0578.jpg
-Name9[$e]=IMG_0585.jpg
+File1[$e]=$HOME/Documents/ETH_3D/redner1.png
+File2[$e]=$HOME/Desktop/kv98hsrb15a71.jpg
+Name1[$e]=redner1.png
+Name2[$e]=kv98hsrb15a71.jpg
 
 [SideBar]
-SideBarSplitterSizes=242,956
+SideBarSplitterSizes=242,880

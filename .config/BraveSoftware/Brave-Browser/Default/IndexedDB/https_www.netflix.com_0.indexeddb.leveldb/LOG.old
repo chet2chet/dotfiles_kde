@@ -1,0 +1,18 @@
+2021/06/06-00:15:33.884 39fe Reusing MANIFEST /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/06-00:15:33.884 39fe Recovering log #3
+2021/06/06-00:15:33.884 39fe Reusing old log /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
+2021/06/06-01:05:15.082 3a79 Level-0 table #5: started
+2021/06/06-01:05:15.117 3a79 Level-0 table #5: 2172774 bytes OK
+2021/06/06-01:05:15.120 3a79 Delete type=0 #3
+2021/06/06-01:41:37.873 7431 Level-0 table #7: started
+2021/06/06-01:41:37.902 7431 Level-0 table #7: 1484487 bytes OK
+2021/06/06-01:41:37.904 7431 Delete type=0 #4
+2021/06/06-01:41:37.906 7431 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/06/06-01:41:37.906 7431 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 10157 : 1
+2021/06/06-01:41:37.906 7431 Compacting 1@1 + 1@2 files
+2021/06/06-01:41:37.915 7431 Generated table #8@1: 48 keys, 7985 bytes
+2021/06/06-01:41:37.915 7431 Compacted 1@1 + 1@2 files => 7985 bytes
+2021/06/06-01:41:37.917 7431 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/06/06-01:41:37.917 7431 Delete type=2 #5
+2021/06/06-01:41:37.917 7431 Delete type=2 #7
+2021/06/06-01:41:37.917 7431 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 10157 : 1 .. (end); will stop at (end)
