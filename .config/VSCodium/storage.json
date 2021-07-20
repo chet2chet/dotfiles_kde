@@ -12,6 +12,12 @@
                 "folderUri": "file:///home/karolproksa"
             },
             {
+                "fileUri": "file:///home/karolproksa/.config/alacritty/alacritty.yml"
+            },
+            {
+                "fileUri": "file:///etc/tor/torrc"
+            },
+            {
                 "fileUri": "file:///home/karolproksa/.local/share/kservices5/forceblur.desktop"
             },
             {
@@ -270,6 +276,28 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa/.config/alacritty/alacritty.yml",
+                                        "path": "/home/karolproksa/.config/alacritty/alacritty.yml",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/alacritty/alacritty.yml"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///etc/tor/torrc",
+                                        "path": "/etc/tor/torrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/etc/tor/torrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa/.local/share/kservices5/forceblur.desktop",
                                         "path": "/home/karolproksa/.local/share/kservices5/forceblur.desktop",
                                         "scheme": "file"
@@ -355,28 +383,6 @@
                                     "label": "~/karolproksa_website/archive/sub/visual.html"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website/style.css",
-                                        "path": "/home/karolproksa/karolproksa_website/style.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website/style.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website/index.html",
-                                        "path": "/home/karolproksa/karolproksa_website/index.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website/index.html"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -421,8 +427,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -896,8 +901,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1783,13 +1787,13 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626783473394",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626789298499",
             "uiState": {
                 "mode": 1,
-                "x": 1415,
-                "y": 562,
-                "width": 1125,
-                "height": 498
+                "x": 20,
+                "y": 44,
+                "width": 2520,
+                "height": 1016
             }
         },
         "openedWindows": []
