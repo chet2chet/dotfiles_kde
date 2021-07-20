@@ -129,7 +129,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=7
+PreloadWeight=0
 SystrayContainmentId=8
 
 [Containments][2][Applets][79]
@@ -809,7 +809,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][85][Applets][90][Configuration]
-PreloadWeight=70
+PreloadWeight=89
 SystrayContainmentId=91
 
 [Containments][85][ConfigDialog]
@@ -859,14 +859,14 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][91][Applets][105][Configuration]
-PreloadWeight=24
+PreloadWeight=13
 
 [Containments][91][Applets][92]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][91][Applets][92][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][91][Applets][93][Configuration]
 PreloadWeight=42
@@ -892,7 +892,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][91][Applets][98][Configuration]
-PreloadWeight=4
+PreloadWeight=5
 
 [Containments][91][Applets][98][Configuration][General]
 currentTab=streams
@@ -909,11 +909,11 @@ DialogWidth=839
 PreloadWeight=0
 
 [Containments][91][General]
-extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume
-hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume,Optimus Manager Qt
+hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone,Optimus Manager Qt
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
 scaleIconsToFit=true
-shownItems=org.kde.plasma.notifications,Optimus Manager Qt,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard
+shownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard
 
 [ScreenMapping]
 itemsOnDisabledScreens=

@@ -12,6 +12,9 @@
                 "folderUri": "file:///home/karolproksa"
             },
             {
+                "fileUri": "file:///home/karolproksa/.local/share/kservices5/forceblur.desktop"
+            },
+            {
                 "fileUri": "file:///home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte"
             },
             {
@@ -267,6 +270,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa/.local/share/kservices5/forceblur.desktop",
+                                        "path": "/home/karolproksa/.local/share/kservices5/forceblur.desktop",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local/share/kservices5/forceblur.desktop"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte",
                                         "path": "/home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte",
                                         "scheme": "file"
@@ -361,17 +375,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/karolproksa_website/index.html"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website/archive/content/bledner_donut.html",
-                                        "path": "/home/karolproksa/karolproksa_website/archive/content/bledner_donut.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website/archive/content/bledner_donut.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1780,13 +1783,13 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626782235292",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626783473394",
             "uiState": {
                 "mode": 1,
-                "x": 20,
-                "y": 44,
-                "width": 2520,
-                "height": 1016
+                "x": 1415,
+                "y": 562,
+                "width": 1125,
+                "height": 498
             }
         },
         "openedWindows": []

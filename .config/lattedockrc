@@ -7,26 +7,8 @@ Recent Files[$e]=mcOS-BigSur-Small.layout.latte,file:$HOME/Downloads/mcOS-BigSur
 Recent URLs[$e]=file:$HOME/Downloads/
 iconViewIconSize=43
 
-[PlasmaTransientsConfig]
-PreloadWeight=0
-byPassWM=false
-enableKWinEdges=false
-isPreferredForShortcuts=false
-lastScreen=11
-onPrimary=true
-raiseOnActivityChange=false
-raiseOnDesktopChange=false
-timerHide=700
-timerShow=200
-viewType=0
-visibility=2
-
-[PlasmaTransientsConfig][Indicator]
-customType=
-enabled=true
-enabledForApplets=true
-padding=0.07999999821186066
-type=org.kde.latte.default
+[PlasmaThemeExtended]
+outlineWidth=1
 
 [ScreenConnectors]
 10=eDP-1-1

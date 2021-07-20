@@ -44,6 +44,15 @@ NoiseStrength=0
 [Effect-PresentWindows]
 BorderActivateAll=9
 
+[Effect-Slide]
+HorizontalGap=0
+
+[Effect-Wobbly]
+Drag=97
+MoveFactor=25
+Stiffness=1
+WobblynessLevel=4
+
 [NightColor]
 Active=true
 LatitudeAuto=50.208
@@ -53,13 +62,19 @@ NightTemperature=5100
 
 [Plugins]
 blurEnabled=true
+contrastEnabled=true
 forceblurEnabled=true
 krohnkiteEnabled=true
+kwin4_effect_fadedesktopEnabled=true
+kwin4_effect_shapecornersEnabled=true
 kwin4_effect_windowapertureEnabled=false
 minimizeallEnabled=false
 slideEnabled=false
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
+
+[Script-forceblur]
+patterns=urxvt\nalacritty\ndolphin
 
 [Script-krohnkite]
 directionalKeyDwm=false

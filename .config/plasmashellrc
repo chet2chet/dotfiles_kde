@@ -8,6 +8,8 @@ eDP-1 HDMI-1-0 Width 2560x1080=703
 [FileDialogSize]
 eDP-1 HDMI-1-0 Height 1920x1080=586
 eDP-1 HDMI-1-0 Width 1920x1080=1300
+eDP-1-1 HDMI-0 Height 1920x1080=586
+eDP-1-1 HDMI-0 Width 1920x1080=1300
 
 [General]
 Number of Actions=0
@@ -21,9 +23,6 @@ iconViewIconSize=43
 [KPropertiesDialog]
 eDP-1-1 HDMI-0 Height 2560x1080=421
 eDP-1-1 HDMI-0 Width 2560x1080=416
-
-[PlasmaTransientsConfig]
-PreloadWeight=34
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=30
