@@ -133,11 +133,11 @@ ForegroundVisited=127,140,141
 [General]
 ColorScheme=GruvboxColors
 Name=GruvboxColors
-font=Fira Code,10,-1,5,50,0,0,0,0,0
-menuFont=Fira Code,10,-1,5,63,0,0,0,0,0,SemiBold
+font=Lato,10,-1,5,50,0,0,0,0,0
+menuFont=Lato,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=Fira Code,8,-1,5,50,0,0,0,0,0
-toolBarFont=Fira Code,10,-1,5,63,0,0,0,0,0,SemiBold
+smallestReadableFont=Lato,8,-1,5,50,0,0,0,0,0
+toolBarFont=Lato,10,-1,5,75,0,0,0,0,0,Bold
 widgetStyle=Breeze
 
 [Icons]

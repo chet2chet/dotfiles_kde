@@ -49,7 +49,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][108][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][108][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/Next/contents/images/2560x1440.png
@@ -129,7 +129,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=22
+PreloadWeight=7
 SystrayContainmentId=8
 
 [Containments][2][Applets][79]
@@ -684,7 +684,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][22][Configuration]
-PreloadWeight=22
+PreloadWeight=0
 
 [Containments][8][Applets][25][Configuration]
 PreloadWeight=42
@@ -809,7 +809,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][85][Applets][90][Configuration]
-PreloadWeight=17
+PreloadWeight=70
 SystrayContainmentId=91
 
 [Containments][85][ConfigDialog]
@@ -842,7 +842,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][91][Applets][102][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][91][Applets][103][Configuration]
 PreloadWeight=42
@@ -852,14 +852,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][91][Applets][104][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][91][Applets][105]
 immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][91][Applets][105][Configuration]
-PreloadWeight=0
+PreloadWeight=24
 
 [Containments][91][Applets][92]
 immutability=1
@@ -876,7 +876,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][91][Applets][94][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][91][Applets][95][Configuration]
 PreloadWeight=42
@@ -892,7 +892,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][91][Applets][98][Configuration]
-PreloadWeight=0
+PreloadWeight=4
 
 [Containments][91][Applets][98][Configuration][General]
 currentTab=streams
@@ -912,6 +912,7 @@ PreloadWeight=0
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume
 hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
+scaleIconsToFit=true
 shownItems=org.kde.plasma.notifications,Optimus Manager Qt,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard
 
 [ScreenMapping]

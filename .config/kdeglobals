@@ -101,12 +101,12 @@ TerminalApplication=alacritty
 TerminalService=Alacritty.desktop
 XftHintStyle=hintslight
 XftSubPixel=rgb
-fixed=Fira Code,10,-1,5,50,0,0,0,0,0
-font=Fira Code,10,-1,5,50,0,0,0,0,0
-menuFont=Fira Code,10,-1,5,63,0,0,0,0,0,SemiBold
+fixed=Lato,10,-1,5,50,0,0,0,0,0
+font=Lato,10,-1,5,50,0,0,0,0,0
+menuFont=Lato,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=Fira Code,8,-1,5,50,0,0,0,0,0
-toolBarFont=Fira Code,10,-1,5,63,0,0,0,0,0,SemiBold
+smallestReadableFont=Lato,8,-1,5,50,0,0,0,0,0
+toolBarFont=Lato,10,-1,5,75,0,0,0,0,0,Bold
 widgetStyle=Breeze
 
 [Icons]
@@ -146,7 +146,7 @@ MaximumRemoteSize=0
 [WM]
 activeBackground=39,39,39
 activeBlend=235,219,178
-activeFont=Fira Code,10,-1,5,63,0,0,0,0,0,SemiBold
+activeFont=Lato,10,-1,5,75,0,0,0,0,0,Bold
 activeForeground=235,219,178
 inactiveBackground=40,40,40
 inactiveBlend=60,56,54

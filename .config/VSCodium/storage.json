@@ -12,7 +12,13 @@
                 "folderUri": "file:///home/karolproksa"
             },
             {
+                "fileUri": "file:///home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte"
+            },
+            {
                 "fileUri": "file:///home/karolproksa/.bashrc"
+            },
+            {
+                "fileUri": "file:///etc/profile.d/kwin.sh"
             },
             {
                 "fileUri": "file:///home/karolproksa/style.css"
@@ -261,12 +267,34 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte",
+                                        "path": "/home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/mcOS-BigSur-Small.layout.latte"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa/.bashrc",
                                         "path": "/home/karolproksa/.bashrc",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.bashrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///etc/profile.d/kwin.sh",
+                                        "path": "/etc/profile.d/kwin.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/etc/profile.d/kwin.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -344,28 +372,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/karolproksa_website/archive/content/bledner_donut.html"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website/archive/content/brandcrowd.html",
-                                        "path": "/home/karolproksa/karolproksa_website/archive/content/brandcrowd.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website/archive/content/brandcrowd.html"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website/archive/content/contemporary_untitled.html",
-                                        "path": "/home/karolproksa/karolproksa_website/archive/content/contemporary_untitled.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website/archive/content/contemporary_untitled.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -887,7 +893,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1773,13 +1780,13 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626473615523",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626782235292",
             "uiState": {
                 "mode": 1,
-                "x": 1063,
-                "y": 565,
-                "width": 836,
-                "height": 495
+                "x": 20,
+                "y": 44,
+                "width": 2520,
+                "height": 1016
             }
         },
         "openedWindows": []

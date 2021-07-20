@@ -98,17 +98,21 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAApYAAAClAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAACdgAAAOuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 2560x1080=239
 eDP-1 HDMI-1-0 Width 2560x1080=662
 eDP-1 HDMI-1-0 XPosition 2560x1080=1877
 eDP-1 HDMI-1-0 YPosition 2560x1080=821
+eDP-1-1 HDMI-0 Height 2560x1080=1016
+eDP-1-1 HDMI-0 Width 2560x1080=2520
+eDP-1-1 HDMI-0 XPosition 2560x1080=20
+eDP-1-1 HDMI-0 YPosition 2560x1080=44
 
 [Recent Files]
 File1[$e]=$HOME/.mozilla/firefox/e8qyye4d.default-release/chrome/userChrome.css
 File2[$e]=$HOME/.config/spicetify/config.ini
-File3[$e]=$HOME/PukPuk/pukpuk/components/SellComponents/JobOfferPink.tsx
+File3[$e]=$HOME/.config/latte/mcOS-BigSur-Small.layout.latte
 Name1[$e]=userChrome.css
 Name2[$e]=config.ini
-Name3[$e]=JobOfferPink.tsx
+Name3[$e]=mcOS-BigSur-Small.layout.latte

@@ -3,6 +3,7 @@ Profile=Default
 
 [PROFILE_Default]
 EmailAddress=karolproksa@gmail.com
+EmailClient[$e]=org.gnome.Geary.desktop
 FullName=Karol Proksa
 Organization=
 ReplyAddr=

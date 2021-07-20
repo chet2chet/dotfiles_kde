@@ -7,5 +7,5 @@ gtk-button-images=1
 gtk-cursor-theme-size=24
 gtk-cursor-theme-name="Adwaita"
 gtk-icon-theme-name="WhiteSur-green-dark"
-gtk-font-name="Fira Code,  10"
+gtk-font-name="Lato,  10"
 

@@ -22,6 +22,9 @@ iconViewIconSize=43
 eDP-1-1 HDMI-0 Height 2560x1080=421
 eDP-1-1 HDMI-0 Width 2560x1080=416
 
+[PlasmaTransientsConfig]
+PreloadWeight=34
+
 [PlasmaViews][Panel 2][Defaults]
 thickness=30
 
@@ -62,7 +65,7 @@ thickness=24
 thickness=24
 
 [ScreenConnectors]
-0=eDP-1
+0=eDP-1-1
 1=HDMI-0
 2=HDMI-1-0
 3=DP-1-0

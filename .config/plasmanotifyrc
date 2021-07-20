@@ -22,9 +22,6 @@ Seen=true
 [Badges]
 InTaskManager=false
 
-[DoNotDisturb]
-NotificationSoundsMuted=true
-
 [Jobs]
 InNotifications=false
 InTaskManager=false

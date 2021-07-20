@@ -1814,3 +1814,21 @@ INFO 7/11/2021, 1:04:37 AM  ----------------before-quit-----------------
 INFO 7/11/2021, 1:04:37 AM  ------------------will-quit------------------
 INFO 7/11/2021, 1:04:37 AM  -----------------quit------------------
 INFO 7/11/2021, 1:04:37 AM  closeLogging
+INFO 7/20/2021, 1:59:31 PM  ------------------start------------------
+INFO 7/20/2021, 1:59:31 PM  typora version: 0.10.11
+INFO 7/20/2021, 1:59:31 PM  [Raven] instanceKey = 21d6ff75-4559-4529-ba2f-af42c1a5754d
+INFO 7/20/2021, 1:59:31 PM  added recovery 1 null undefined (0)
+INFO 7/20/2021, 1:59:31 PM  [focus] 1
+INFO 7/20/2021, 1:59:31 PM  [Raven] userId = d3e9326e-b2d0-48e9-8f48-82d218e055ff
+INFO 7/20/2021, 1:59:31 PM  synced recovery
+INFO 7/20/2021, 1:59:31 PM  handle document.loadInitData
+INFO 7/20/2021, 1:59:31 PM  added recovery 1 undefined undefined (0)
+INFO 7/20/2021, 1:59:31 PM  synced recovery
+INFO 7/20/2021, 1:59:36 PM  [blur] 1
+INFO 7/20/2021, 1:59:36 PM  [win] blur
+INFO 7/20/2021, 1:59:50 PM  [focus] 1
+INFO 7/20/2021, 1:59:51 PM  synced recovery
+INFO 7/20/2021, 1:59:51 PM  ----------------before-quit-----------------
+INFO 7/20/2021, 1:59:51 PM  ------------------will-quit------------------
+INFO 7/20/2021, 1:59:51 PM  -----------------quit------------------
+INFO 7/20/2021, 1:59:51 PM  closeLogging

@@ -1,9 +1,9 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Desktop/
+DirHistory[$e]=$HOME/Downloads/,$HOME/Desktop/
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME,file:$HOME
-Recent URLs[$e]=file:$HOME/Desktop/
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/Downloads/
 iconViewIconSize=43
 
 [KTextEditor Document]
@@ -101,44 +101,44 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAAoYAAAClAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABGUAAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 2560x1080=1016
 eDP-1 HDMI-1-0 Width 2560x1080=637
 eDP-1 HDMI-1-0 XPosition 2560x1080=20
 eDP-1 HDMI-1-0 YPosition 2560x1080=44
-eDP-1 Height 1920x1080=1010
-eDP-1 Width 1920x1080=1880
-eDP-1 XPosition 1920x1080=20
-eDP-1 YPosition 1920x1080=50
+eDP-1 Height 1920x1080=323
+eDP-1 Width 1920x1080=836
+eDP-1 XPosition 1920x1080=1063
+eDP-1 YPosition 1920x1080=736
 eDP-1-1 HDMI-0 Height 2560x1080=498
-eDP-1-1 HDMI-0 Width 2560x1080=646
-eDP-1-1 HDMI-0 XPosition 2560x1080=1893
+eDP-1-1 HDMI-0 Width 2560x1080=1125
+eDP-1-1 HDMI-0 XPosition 2560x1080=1415
 eDP-1-1 HDMI-0 YPosition 2560x1080=562
-splitterSizes=428,217
+splitterSizes=746,378
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Fira_Code_v5.2(1).zip
-File10[$e]=$HOME/Downloads/compresspng(1).zip
-File2[$e]=$HOME/Downloads/spicetify-themes-master.zip
-File3[$e]=$HOME/Downloads/nvidia-460.67-9-x86_64.pkg.tar.zst
-File4[$e]=$HOME/Downloads/hiveos-0.6-203-stable@210403.img.xz
-File5[$e]=$HOME/Downloads/TEST_Konieczny.zip
-File6[$e]=$HOME/Downloads/msos-v1-4-K50-N460-A2030.zip
-File7[$e]=$HOME/Downloads/Brushes_IK.zip
-File8[$e]=$HOME/Downloads/wine-esync-staging.m4-pba-SMT-TkG-v5.zip
-File9[$e]=$HOME/Downloads/compresspng.zip
-Name1[$e]=Fira_Code_v5.2(1).zip
-Name10[$e]=compresspng(1).zip
-Name2[$e]=spicetify-themes-master.zip
-Name3[$e]=nvidia-460.67-9-x86_64.pkg.tar.zst
-Name4[$e]=hiveos-0.6-203-stable@210403.img.xz
-Name5[$e]=TEST_Konieczny.zip
-Name6[$e]=msos-v1-4-K50-N460-A2030.zip
-Name7[$e]=Brushes_IK.zip
-Name8[$e]=wine-esync-staging.m4-pba-SMT-TkG-v5.zip
-Name9[$e]=compresspng.zip
+File1[$e]=$HOME/Downloads/hiveos-0.6-203-stable@210403.img.xz
+File10[$e]=$HOME/Downloads/FiraCode.zip
+File2[$e]=$HOME/Downloads/TEST_Konieczny.zip
+File3[$e]=$HOME/Downloads/msos-v1-4-K50-N460-A2030.zip
+File4[$e]=$HOME/Downloads/Brushes_IK.zip
+File5[$e]=$HOME/Downloads/wine-esync-staging.m4-pba-SMT-TkG-v5.zip
+File6[$e]=$HOME/Downloads/compresspng.zip
+File7[$e]=$HOME/Downloads/compresspng(1).zip
+File8[$e]=$HOME/Downloads/saw-vi-2009-english-237279.zip
+File9[$e]=$HOME/Downloads/Lato.zip
+Name1[$e]=hiveos-0.6-203-stable@210403.img.xz
+Name10[$e]=FiraCode.zip
+Name2[$e]=TEST_Konieczny.zip
+Name3[$e]=msos-v1-4-K50-N460-A2030.zip
+Name4[$e]=Brushes_IK.zip
+Name5[$e]=wine-esync-staging.m4-pba-SMT-TkG-v5.zip
+Name6[$e]=compresspng.zip
+Name7[$e]=compresspng(1).zip
+Name8[$e]=saw-vi-2009-english-237279.zip
+Name9[$e]=Lato.zip
 
 [Viewer]
 State=AAAA/wAAAAD9AAAAAAAABGUAAAD7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
@@ -151,3 +151,7 @@ eDP-1 Height 1920x1080=237
 eDP-1 Width 1920x1080=836
 eDP-1 XPosition 1920x1080=1063
 eDP-1 YPosition 1920x1080=822
+eDP-1-1 HDMI-0 Height 2560x1080=325
+eDP-1-1 HDMI-0 Width 2560x1080=1125
+eDP-1-1 HDMI-0 XPosition 2560x1080=1415
+eDP-1-1 HDMI-0 YPosition 2560x1080=734
