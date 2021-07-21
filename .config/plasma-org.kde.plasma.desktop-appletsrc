@@ -29,7 +29,7 @@ PreloadWeight=0
 
 [Containments][1][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=501
+ToolBoxButtonX=595
 ToolBoxButtonY=30
 sortMode=-1
 
@@ -129,15 +129,8 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=0
+PreloadWeight=7
 SystrayContainmentId=8
-
-[Containments][2][Applets][79]
-immutability=1
-plugin=org.kde.plasma.notifications
-
-[Containments][2][Applets][79][Configuration]
-PreloadWeight=0
 
 [Containments][2][Applets][84]
 immutability=1
@@ -161,7 +154,7 @@ DialogWidth=1920
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=49;4;6;48;18;47;84;79;7
+AppletOrder=49;4;6;48;18;47;84;7
 
 [Containments][23]
 ItemGeometries-2560x1080=
@@ -633,8 +626,29 @@ plugin=org.kde.plasma.devicenotifier
 [Containments][8][Applets][10][Configuration]
 PreloadWeight=0
 
+[Containments][8][Applets][109]
+immutability=1
+plugin=org.kde.plasma.notifications
+
+[Containments][8][Applets][109][Configuration]
+PreloadWeight=42
+
 [Containments][8][Applets][11][Configuration]
 PreloadWeight=42
+
+[Containments][8][Applets][110]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Containments][8][Applets][110][Configuration]
+PreloadWeight=52
+source=wettercom|weather|Jaworzno, Slaskie, PL|PL3097333;Jaworzno
+updateInterval=30
+weatherServiceProviders=bbcukmet,envcan,noaa,wettercom
+
+[Containments][8][Applets][110][Configuration][ConfigDialog]
+DialogHeight=496
+DialogWidth=640
 
 [Containments][8][Applets][12]
 immutability=1
@@ -718,10 +732,10 @@ DialogWidth=1195
 PreloadWeight=0
 
 [Containments][8][General]
-extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager,org.kde.plasma.volume
-hiddenItems=discord,KOrganizer Reminder Daemon,teams,Discover Notifier_org.kde.DiscoverNotifier,Plasma_microphone,firewall-applet,discord1,Microsoft Teams - Preview1,KMix,blueman
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.weather
+hiddenItems=discord,KOrganizer Reminder Daemon,teams,Discover Notifier_org.kde.DiscoverNotifier,Plasma_microphone,firewall-applet,discord1,Microsoft Teams - Preview1,KMix,blueman,Optimus Manager Qt,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.devicenotifier,org.kde.plasma.keyboardlayout,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.printmanager,org.kde.plasma.clipboard
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
-shownItems=org.kde.plasma.volume
+shownItems=org.kde.plasma.weather
 
 [Containments][85]
 activityId=
@@ -809,7 +823,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][85][Applets][90][Configuration]
-PreloadWeight=86
+PreloadWeight=92
 SystrayContainmentId=91
 
 [Containments][85][ConfigDialog]
@@ -859,14 +873,28 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][91][Applets][105][Configuration]
-PreloadWeight=5
+PreloadWeight=12
+
+[Containments][91][Applets][111]
+immutability=1
+plugin=org.kde.plasma.weather
+
+[Containments][91][Applets][111][Configuration]
+PreloadWeight=52
+source=wettercom|weather|Jaworzno, Slaskie, PL|PL3097333;Jaworzno
+updateInterval=30
+weatherServiceProviders=wettercom,noaa,envcan,bbcukmet
+
+[Containments][91][Applets][111][Configuration][ConfigDialog]
+DialogHeight=496
+DialogWidth=640
 
 [Containments][91][Applets][92]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][91][Applets][92][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][91][Applets][93][Configuration]
 PreloadWeight=42
@@ -892,7 +920,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][91][Applets][98][Configuration]
-PreloadWeight=0
+PreloadWeight=2
 
 [Containments][91][Applets][98][Configuration][General]
 currentTab=streams
@@ -909,11 +937,11 @@ DialogWidth=839
 PreloadWeight=0
 
 [Containments][91][General]
-extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume
-hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone,Optimus Manager Qt
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.weather
+hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone,Optimus Manager Qt,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
 scaleIconsToFit=true
-shownItems=org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard
+shownItems=org.kde.plasma.weather
 
 [ScreenMapping]
 itemsOnDisabledScreens=

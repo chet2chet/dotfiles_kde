@@ -1,0 +1,28 @@
+[2021-07-21 15:46:37.115] [exthost] [info] extension host started
+[2021-07-21 15:46:37.178] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-07-21 15:46:37.178] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-07-21 15:46:37.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 15:46:37.182] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2021-07-21 15:46:37.202] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"extensionId":{"value":"bierner.color-info","_lower":"bierner.color-info"},"activationEvent":"*"}
+[2021-07-21 15:46:37.202] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/karolproksa/.vscode-oss/extensions/bierner.color-info-0.6.0/out/src/extension
+[2021-07-21 15:46:37.251] [exthost] [info] ExtensionService#_doActivateExtension mblode.pretty-formatter {"startup":true,"extensionId":{"value":"mblode.pretty-formatter","_lower":"mblode.pretty-formatter"},"activationEvent":"*"}
+[2021-07-21 15:46:37.251] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/karolproksa/.vscode-oss/extensions/mblode.pretty-formatter-0.2.1/out/extension.js
+[2021-07-21 15:46:37.268] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material {"startup":true,"extensionId":{"value":"sainnhe.gruvbox-material","_lower":"sainnhe.gruvbox-material"},"activationEvent":"*"}
+[2021-07-21 15:46:37.269] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/karolproksa/.vscode-oss/extensions/sainnhe.gruvbox-material-6.4.5/out/extension.js
+[2021-07-21 15:46:37.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-07-21 15:46:37.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/github/dist/extension.js
+[2021-07-21 15:46:37.469] [exthost] [info] eager extensions activated
+[2021-07-21 15:46:37.471] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-07-21 15:46:37.471] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-07-21 15:46:37.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-07-21 15:46:37.603] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-07-21 15:46:37.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-07-21 15:46:37.609] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-07-21 15:46:37.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-07-21 15:46:37.614] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-07-21 15:46:37.615] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-07-21 15:46:37.615] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/karolproksa/.vscode-oss/extensions/eamodio.gitlens-11.5.1/dist/gitlens
+[2021-07-21 15:46:37.678] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-07-21 15:46:37.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/karolproksa/.vscode-oss/extensions/esbenp.prettier-vscode-6.4.0/dist/extension
+[2021-07-21 15:56:08.209] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-07-21 15:56:09.220] [exthost] [info] exiting with code 0

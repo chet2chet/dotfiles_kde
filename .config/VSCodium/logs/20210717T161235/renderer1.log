@@ -1,1 +1,0 @@
-[2021-07-17 16:13:19.291] [renderer1] [error] [text file model] handleSaveError(1) - exit - resulted in a save error: Error: Unable to write file '/etc/profile.d/kwin.sh' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/profile.d/kwin.sh') file:///etc/profile.d/kwin.sh

@@ -13,6 +13,7 @@ outlineWidth=1
 [ScreenConnectors]
 10=eDP-1-1
 11=HDMI-0
+12=eDP-1
 
 [UniversalSettings]
 badges3DStyle=false

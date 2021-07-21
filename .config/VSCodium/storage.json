@@ -3,13 +3,16 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/karolproksa"
+            },
+            {
                 "folderUri": "file:///home/karolproksa/karolproksa_website"
             },
             {
                 "folderUri": "file:///home/karolproksa/pukpuk"
             },
             {
-                "folderUri": "file:///home/karolproksa"
+                "fileUri": "file:///home/karolproksa/.bashrc"
             },
             {
                 "fileUri": "file:///home/karolproksa/.config/alacritty/alacritty.yml"
@@ -22,9 +25,6 @@
             },
             {
                 "fileUri": "file:///home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte"
-            },
-            {
-                "fileUri": "file:///home/karolproksa/.bashrc"
             },
             {
                 "fileUri": "file:///etc/profile.d/kwin.sh"
@@ -240,6 +240,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa",
+                                        "path": "/home/karolproksa",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home/karolproksa"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa/karolproksa_website",
                                         "path": "/home/karolproksa/karolproksa_website",
                                         "scheme": "file"
@@ -259,18 +270,18 @@
                                     "label": "~/pukpuk"
                                 },
                                 {
-                                    "id": "openRecentFolder",
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa",
-                                        "path": "/home/karolproksa",
+                                        "external": "file:///home/karolproksa/.bashrc",
+                                        "path": "/home/karolproksa/.bashrc",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/home/karolproksa"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
+                                    "label": "~/.bashrc"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -315,17 +326,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Downloads/mcOS-BigSur-Small.layout.latte"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/.bashrc",
-                                        "path": "/home/karolproksa/.bashrc",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.bashrc"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -1790,10 +1790,10 @@
             "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626789298499",
             "uiState": {
                 "mode": 1,
-                "x": 20,
-                "y": 44,
-                "width": 2520,
-                "height": 1016
+                "x": 1063,
+                "y": 50,
+                "width": 836,
+                "height": 1010
             }
         },
         "openedWindows": []

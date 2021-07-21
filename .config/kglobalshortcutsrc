@@ -144,6 +144,7 @@ Switch to Screen 6=none,none,Switch to Screen 6
 Switch to Screen 7=none,none,Switch to Screen 7
 Toggle Night Color=none,none,Toggle Night Color
 Toggle Window Raise/Lower=none,none,Toggle Window Raise/Lower
+ToggleCurrentThumbnail=Meta+Ctrl+T,Meta+Ctrl+T,Toggle Thumbnail for Current Window
 TrackMouse=none,none,Track mouse
 Walk Through Desktop List=none,none,Walk Through Desktop List
 Walk Through Desktop List (Reverse)=none,none,Walk Through Desktop List (Reverse)
