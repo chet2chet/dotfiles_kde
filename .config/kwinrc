@@ -66,6 +66,7 @@ contrastEnabled=true
 forceblurEnabled=true
 krohnkiteEnabled=true
 kwin4_effect_fadedesktopEnabled=true
+kwin4_effect_lightlyshadersEnabled=true
 kwin4_effect_shapecornersEnabled=true
 kwin4_effect_windowapertureEnabled=false
 minimizeallEnabled=false

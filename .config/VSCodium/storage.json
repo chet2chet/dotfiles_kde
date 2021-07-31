@@ -3,6 +3,9 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/karolproksa/crypto-mining-script"
+            },
+            {
                 "folderUri": "file:///home/karolproksa"
             },
             {
@@ -13,6 +16,15 @@
             },
             {
                 "fileUri": "file:///home/karolproksa/.bashrc"
+            },
+            {
+                "fileUri": "file:///run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/.ssh/known_hosts"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS"
             },
             {
                 "fileUri": "file:///home/karolproksa/.config/alacritty/alacritty.yml"
@@ -240,6 +252,17 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/karolproksa/crypto-mining-script",
+                                        "path": "/home/karolproksa/crypto-mining-script",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/crypto-mining-script"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/karolproksa",
                                         "path": "/home/karolproksa",
                                         "scheme": "file"
@@ -282,6 +305,39 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.bashrc"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf",
+                                        "path": "/run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/.ssh/known_hosts",
+                                        "path": "/home/karolproksa/.ssh/known_hosts",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.ssh/known_hosts"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS",
+                                        "path": "/home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -350,39 +406,6 @@
                                     "label": "~/style.css"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/index.html",
-                                        "path": "/home/karolproksa/index.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/index.html"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/asd",
-                                        "path": "/home/karolproksa/asd",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/asd"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website/archive/sub/visual.html",
-                                        "path": "/home/karolproksa/karolproksa_website/archive/sub/visual.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website/archive/sub/visual.html"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -427,7 +450,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1787,13 +1811,13 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1626789298499",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1627721684773",
             "uiState": {
                 "mode": 1,
-                "x": 1063,
-                "y": 50,
-                "width": 836,
-                "height": 1010
+                "x": 20,
+                "y": 44,
+                "width": 1375,
+                "height": 1016
             }
         },
         "openedWindows": []

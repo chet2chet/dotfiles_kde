@@ -15,14 +15,23 @@ eDP-1-1 HDMI-0 Width 1920x1080=1300
 Number of Actions=0
 
 [KFileDialog Settings]
-Recent Files[$e]=wallpaper.jpg,file:$HOME/Pictures/arch.png,file:$HOME/Pictures/foh0n427ez471.png,file:$HOME/Downloads/michael-olsen-Gs1mJmK2ixc-unsplash(1).jpg,file:$HOME/Downloads/michael-olsen-Gs1mJmK2ixc-unsplash.jpg,file:$HOME/Pictures/wallpaper.jpg
-Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Desktop/,trash:/,file:$HOME/Documents/
+Recent Files[$e]=wallpaper.jpg,file:$HOME/Pictures/arch.png,file:$HOME/.wallpapers/wallhaven-ymz61d.jpg,file:$HOME/Pictures/foh0n427ez471.png,file:$HOME/Pictures/wallpaper.jpg
+Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Downloads/,file:$HOME/Desktop/,trash:/,file:$HOME/Documents/,file:$HOME/.wallpapers/
 detailViewIconSize=16
 iconViewIconSize=43
 
 [KPropertiesDialog]
 eDP-1-1 HDMI-0 Height 2560x1080=421
 eDP-1-1 HDMI-0 Width 2560x1080=416
+
+[PlasmaViews][Panel 114][Defaults]
+thickness=32
+
+[PlasmaViews][Panel 114][Horizontal1920]
+thickness=32
+
+[PlasmaViews][Panel 2]
+panelOpacity=2
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=30

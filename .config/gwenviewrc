@@ -2,7 +2,7 @@
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAABBgAAAGoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA0QAAAOoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 1920x1080=495
 eDP-1 HDMI-1-0 Height 2560x1080=1016
@@ -13,27 +13,39 @@ eDP-1 HDMI-1-0 XPosition 2560x1080=1415
 eDP-1 HDMI-1-0 YPosition 1920x1080=1645
 eDP-1 HDMI-1-0 YPosition 2560x1080=44
 eDP-1 Height 1920x1080=1010
-eDP-1 Width 1920x1080=836
-eDP-1 XPosition 1920x1080=1063
-eDP-1 YPosition 1920x1080=50
+eDP-1 Width 1920x1080=952
+eDP-1 XPosition 1920x1080=947
+eDP-1 YPosition 1920x1080=565
 eDP-1-1 HDMI-0 Height 2560x1080=498
-eDP-1-1 HDMI-0 Width 2560x1080=1048
-eDP-1-1 HDMI-0 XPosition 2560x1080=1491
+eDP-1-1 HDMI-0 Width 2560x1080=1125
+eDP-1-1 HDMI-0 XPosition 2560x1080=1415
 eDP-1-1 HDMI-0 YPosition 2560x1080=562
+eDP-1-1 Height 1920x1080=1010
+eDP-1-1 Width 1920x1080=836
+eDP-1-1 XPosition 1920x1080=1063
+eDP-1-1 YPosition 1920x1080=50
 
 [Recent Files]
-File1[$e]=$HOME/Documents/ETH_3D/redner1.png
-File2[$e]=trash:/0-185305836_733211334038982_4818348772792920840_n.jpg
-File3[$e]=trash:/0-185945729_298119171810638_4923054982156408379_n.jpg
-File4[$e]=trash:/0-193367714_965796687508287_7932876754992938361_n.jpg
-File5[$e]=trash:/0-teaser_inwestycyjny_zawartość-1024x399.png
-File6[$e]=$HOME/Pictures/dwie-wierze.png
-Name1[$e]=redner1.png
-Name2[$e]=0-185305836_733211334038982_4818348772792920840_n.jpg
-Name3[$e]=0-185945729_298119171810638_4923054982156408379_n.jpg
-Name4[$e]=0-193367714_965796687508287_7932876754992938361_n.jpg
-Name5[$e]=0-teaser_inwestycyjny_zawartość-1024x399.png
-Name6[$e]=dwie-wierze.png
+File1[$e]=trash:/0-teaser_inwestycyjny_zawartość-1024x399.png
+File10[$e]=smb://raspberrypi/main-storage/CODE/homebridge/All plugins.png
+File2[$e]=$HOME/Pictures/dwie-wierze.png
+File3[$e]=$HOME/EXTERNAL_COPY/CODE/homebridge/All plugins.png
+File4[$e]=smb://raspberrypi/main-storage/website-mockup.png
+File5[$e]=smb://raspberrypi/main-storage/wallpaper.jpg
+File6[$e]=smb://raspberrypi/main-storage/ggyj8f2138l61.png
+File7[$e]=smb://raspberrypi/main-storage/DOCUMENTS/Lightroom/IMG_6833.jpg
+File8[$e]=smb://raspberrypi/main-storage/SCHOOL/YEAR 2/NAUCZENIE ZDALNE/pp_btc.png
+File9[$e]=smb://raspberrypi/main-storage/INVESTMENTS/crypto-mining/gpu.png
+Name1[$e]=0-teaser_inwestycyjny_zawartość-1024x399.png
+Name10[$e]=All plugins.png
+Name2[$e]=dwie-wierze.png
+Name3[$e]=All plugins.png
+Name4[$e]=website-mockup.png
+Name5[$e]=wallpaper.jpg
+Name6[$e]=ggyj8f2138l61.png
+Name7[$e]=IMG_6833.jpg
+Name8[$e]=pp_btc.png
+Name9[$e]=gpu.png
 
 [SideBar]
-SideBarSplitterSizes=242,803
+SideBarSplitterSizes=242,591

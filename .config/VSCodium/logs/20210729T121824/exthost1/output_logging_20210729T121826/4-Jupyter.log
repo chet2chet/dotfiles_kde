@@ -1,0 +1,16 @@
+Starting Jupyter from /usr/bin/python with command line --no-browser --notebook-dir="/home/karolproksa/crypto-mining-script" --config=/tmp/62008cdd-84c4-441a-b878-151b8a918b63/jupyter_notebook_config.py --NotebookApp.iopub_data_rate_limit=10000000000.0
+[I 12:18:28.275 NotebookApp] Serving notebooks from local directory: /home/karolproksa/crypto-mining-script
+[I 12:18:28.275 NotebookApp] Jupyter Notebook 6.4.0 is running at:
+[I 12:18:28.275 NotebookApp] http://localhost:8888/?token=4d5a2beb9d2d40531eb518d4dca8b18c1295d997525c4a89
+[I 12:18:28.275 NotebookApp]  or http://127.0.0.1:8888/?token=4d5a2beb9d2d40531eb518d4dca8b18c1295d997525c4a89
+[I 12:18:28.276 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:18:28.278 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/karolproksa/.local/share/jupyter/runtime/nbserver-2583-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4d5a2beb9d2d40531eb518d4dca8b18c1295d997525c4a89
+     or http://127.0.0.1:8888/?token=4d5a2beb9d2d40531eb518d4dca8b18c1295d997525c4a89
+[I 12:18:28.450 NotebookApp] Creating new notebook in /
+[I 12:18:28.506 NotebookApp] Kernel started: 9f9f912b-fc55-4146-aa68-f4b1028a93e3, name: python39664bit64dd8ad148fc4c308415bb92a54058bc
+[W 12:18:28.513 NotebookApp] delete /t-fdbba953-5426-4ad6-8dc0-99cba7ae8e24.ipynb

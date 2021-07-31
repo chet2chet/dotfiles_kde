@@ -1,0 +1,15 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/karolproksa/LightlyShaders
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/karolproksa/LightlyShaders/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :lightlyshaders.cpp
+> git ls-files --stage -- /home/karolproksa/LightlyShaders/lightlyshaders.cpp
+> git cat-file -s 9c156b8dd592738b00eeb4026ca8f3bdac66bc50
+> git check-ignore -v -z --stdin

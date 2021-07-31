@@ -1,5 +1,6 @@
 [General]
 FreeFloating=true
+RetainPriorSearch=false
 history=
 
 [PlasmaRunnerManager]

@@ -1,7 +1,7 @@
-2021/07/06-23:16:42.663 12ef0 Recovering log #3
-2021/07/06-23:16:42.773 12ef0 Level-0 table #5: started
-2021/07/06-23:16:42.836 12ef0 Level-0 table #5: 2784458 bytes OK
-2021/07/06-23:16:42.842 12ef0 Recovering log #6
-2021/07/06-23:16:42.847 12ef0 Delete type=0 #6
-2021/07/06-23:16:42.847 12ef0 Delete type=0 #3
-2021/07/06-23:16:42.847 12ef0 Delete type=3 #2
+2021/07/29-00:10:54.739 aab4 Recovering log #3
+2021/07/29-00:10:54.873 aab4 Level-0 table #5: started
+2021/07/29-00:10:54.927 aab4 Level-0 table #5: 2784458 bytes OK
+2021/07/29-00:10:54.930 aab4 Recovering log #7
+2021/07/29-00:10:54.934 aab4 Delete type=0 #7
+2021/07/29-00:10:54.934 aab4 Delete type=0 #3
+2021/07/29-00:10:54.934 aab4 Delete type=3 #2

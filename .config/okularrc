@@ -8,7 +8,7 @@ detailViewIconSize=16
 iconViewIconSize=43
 
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAA0QAAAF3AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA7gAAAN6AAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 1920x1080=1010
 eDP-1 HDMI-1-0 Height 2560x1080=1016
@@ -18,10 +18,10 @@ eDP-1 HDMI-1-0 XPosition 1920x1080=349
 eDP-1 HDMI-1-0 XPosition 2560x1080=20
 eDP-1 HDMI-1-0 YPosition 1920x1080=1130
 eDP-1 HDMI-1-0 YPosition 2560x1080=44
-eDP-1 Height 1920x1080=495
-eDP-1 Width 1920x1080=836
-eDP-1 XPosition 1920x1080=1063
-eDP-1 YPosition 1920x1080=565
+eDP-1 Height 1920x1080=1010
+eDP-1 Width 1920x1080=952
+eDP-1 XPosition 1920x1080=947
+eDP-1 YPosition 1920x1080=50
 eDP-1-1 Height 1920x1080=495
 eDP-1-1 Width 1920x1080=836
 eDP-1-1 XPosition 1920x1080=1063
@@ -31,7 +31,7 @@ eDP-1-1 YPosition 1920x1080=565
 TooSmallDigitalSignatureQuestion=false
 
 [Recent Files]
-File1[$e]=$HOME/Documents/zalando-reklamacja-mama/Oświadczenie_Lounge_PL_brakujący zwrot.pdf
-File2[$e]=$HOME/Documents/ubezpieczenie-podzespoly.pdf
-Name1[$e]=Oświadczenie_Lounge_PL_brakujący zwrot.pdf
-Name2[$e]=ubezpieczenie-podzespoly.pdf
+File1[$e]=smb://raspberrypi/main-storage/SCHOOL/YEAR 2/wf-zadanie-tetno.pdf
+File2[$e]=smb://raspberrypi/main-storage/SCHOOL/YEAR 2/NAUCZENIE ZDALNE/I love mathematics solved.pdf
+Name1[$e]=wf-zadanie-tetno.pdf
+Name2[$e]=I love mathematics solved.pdf

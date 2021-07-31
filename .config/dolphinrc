@@ -28,12 +28,13 @@ eDP-1 HDMI-1-0 Height 2560x1080=436
 eDP-1 HDMI-1-0 Width 2560x1080=424
 eDP-1 Height 1920x1080=494
 eDP-1 Width 1920x1080=538
-eDP-1-1 HDMI-0 Height 2560x1080=436
-eDP-1-1 HDMI-0 Width 2560x1080=379
+eDP-1-1 HDMI-0 Height 2560x1080=516
+eDP-1-1 HDMI-0 Width 2560x1080=458
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAwAAAAAAAADWAAADxPwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAADxAAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAACbQAAA8QAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAADWAAABF/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAuAAABFwAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAADjgAAARcAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 1920x1080=1010
 eDP-1 HDMI-1-0 Height 2560x1080=187
@@ -45,22 +46,22 @@ eDP-1 HDMI-1-0 YPosition 1920x1080=1130
 eDP-1 HDMI-1-0 YPosition 2560x1080=665
 eDP-1 HDMI-A-1 Height 1920x1080=646
 eDP-1 HDMI-A-1 Width 1920x1080=522
-eDP-1 Height 1920x1080=1010
-eDP-1 Width 1920x1080=1023
+eDP-1 Height 1920x1080=1008
+eDP-1 Width 1920x1080=1880
 eDP-1 XPosition 1920x1080=20
-eDP-1 YPosition 1920x1080=50
+eDP-1 YPosition 1920x1080=52
 eDP-1-1 HDMI-0 Height 1920x1080=1010
-eDP-1-1 HDMI-0 Height 2560x1080=1016
-eDP-1-1 HDMI-0 Width 1920x1080=836
-eDP-1-1 HDMI-0 Width 2560x1080=2520
-eDP-1-1 HDMI-0 XPosition 1920x1080=1392
-eDP-1-1 HDMI-0 XPosition 2560x1080=20
+eDP-1-1 HDMI-0 Height 2560x1080=325
+eDP-1-1 HDMI-0 Width 1920x1080=1880
+eDP-1-1 HDMI-0 Width 2560x1080=1125
+eDP-1-1 HDMI-0 XPosition 1920x1080=349
+eDP-1-1 HDMI-0 XPosition 2560x1080=1415
 eDP-1-1 HDMI-0 YPosition 1920x1080=1130
-eDP-1-1 HDMI-0 YPosition 2560x1080=44
-eDP-1-1 Height 1920x1080=1010
-eDP-1-1 Width 1920x1080=836
-eDP-1-1 XPosition 1920x1080=1063
-eDP-1-1 YPosition 1920x1080=50
+eDP-1-1 HDMI-0 YPosition 2560x1080=734
+eDP-1-1 Height 1920x1080=1008
+eDP-1-1 Width 1920x1080=1880
+eDP-1-1 XPosition 1920x1080=20
+eDP-1-1 YPosition 1920x1080=52
 
 [Notification Messages]
 ConfirmDelete=true
@@ -68,7 +69,7 @@ ConfirmHide=true
 
 [Open-with settings]
 CompletionMode=1
-History=libre,gwen,vsc,vl,vsco,typo
+History=wr,libre,gwen,vsc,vl,vsco,typo
 
 [PreviewSettings]
 Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,marble_thumbnail_shp,exrthumbnail,fontthumbnail,marble_thumbnail_geojson,pothumbnail,marble_thumbnail_gpx,imagethumbnail,jpegthumbnail,marble_thumbnail_kmz,marble_thumbnail_kml,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,mobithumbnail,opendocumentthumbnail,marble_thumbnail_osm,palathumbcreator,gsthumbnail,designerthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs

@@ -1832,3 +1832,122 @@ INFO 7/20/2021, 1:59:51 PM  ----------------before-quit-----------------
 INFO 7/20/2021, 1:59:51 PM  ------------------will-quit------------------
 INFO 7/20/2021, 1:59:51 PM  -----------------quit------------------
 INFO 7/20/2021, 1:59:51 PM  closeLogging
+INFO 7/25/2021, 4:30:42 PM  luanchFromDiffVersion, pre version is 0.10.11
+INFO 7/25/2021, 4:30:42 PM  overwriteThemeFolder
+INFO 7/25/2021, 4:30:42 PM  ------------------start------------------
+INFO 7/25/2021, 4:30:42 PM  typora version: 0.11.1
+INFO 7/25/2021, 4:30:43 PM  addRecentDocument
+INFO 7/25/2021, 4:30:43 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/in-on-zadanie.md undefined (0)
+INFO 7/25/2021, 4:30:43 PM  [Raven] instanceKey = 6aad2114-ac89-4d74-8d9d-da0dcb4bd7c5
+INFO 7/25/2021, 4:30:43 PM  [Raven] userId = d3e9326e-b2d0-48e9-8f48-82d218e055ff
+INFO 7/25/2021, 4:30:43 PM  [focus] 1
+INFO 7/25/2021, 4:30:43 PM  synced recovery
+INFO 7/25/2021, 4:30:44 PM  handle document.loadInitData
+INFO 7/25/2021, 4:30:44 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/in-on-zadanie.md undefined (0)
+INFO 7/25/2021, 4:30:44 PM  synced recovery
+INFO 7/25/2021, 4:30:50 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/in-on-zadanie.md "# 1
+
+8. in publ...12. on business" (245)
+INFO 7/25/2021, 4:30:50 PM  synced recovery
+INFO 7/25/2021, 4:30:57 PM  synced recovery
+INFO 7/25/2021, 4:30:57 PM  ----------------before-quit-----------------
+INFO 7/25/2021, 4:30:57 PM  ------------------will-quit------------------
+INFO 7/25/2021, 4:30:57 PM  -----------------quit------------------
+INFO 7/25/2021, 4:30:57 PM  closeLogging
+INFO 7/25/2021, 4:31:02 PM  ------------------start------------------
+INFO 7/25/2021, 4:31:02 PM  typora version: 0.11.1
+INFO 7/25/2021, 4:31:02 PM  addRecentDocument
+INFO 7/25/2021, 4:31:02 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz_nie.md undefined (0)
+INFO 7/25/2021, 4:31:02 PM  [Raven] instanceKey = 095a1508-4d22-4806-939e-2988bd9eeb52
+INFO 7/25/2021, 4:31:02 PM  [focus] 1
+INFO 7/25/2021, 4:31:02 PM  synced recovery
+INFO 7/25/2021, 4:31:02 PM  [Raven] userId = d3e9326e-b2d0-48e9-8f48-82d218e055ff
+INFO 7/25/2021, 4:31:04 PM  handle document.loadInitData
+INFO 7/25/2021, 4:31:04 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz_nie.md undefined (0)
+INFO 7/25/2021, 4:31:04 PM  synced recovery
+INFO 7/25/2021, 4:31:10 PM  synced recovery
+INFO 7/25/2021, 4:31:10 PM  ----------------before-quit-----------------
+INFO 7/25/2021, 4:31:10 PM  ------------------will-quit------------------
+INFO 7/25/2021, 4:31:10 PM  -----------------quit------------------
+INFO 7/25/2021, 4:31:10 PM  closeLogging
+INFO 7/25/2021, 4:31:15 PM  ------------------start------------------
+INFO 7/25/2021, 4:31:15 PM  typora version: 0.11.1
+INFO 7/25/2021, 4:31:15 PM  addRecentDocument
+INFO 7/25/2021, 4:31:15 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz writing.md undefined (0)
+INFO 7/25/2021, 4:31:15 PM  [Raven] instanceKey = d1f36bf1-0bb1-4710-98b5-e8e53ba3fdb0
+INFO 7/25/2021, 4:31:15 PM  [Raven] userId = d3e9326e-b2d0-48e9-8f48-82d218e055ff
+INFO 7/25/2021, 4:31:15 PM  [focus] 1
+INFO 7/25/2021, 4:31:15 PM  synced recovery
+INFO 7/25/2021, 4:31:15 PM  [blur] 1
+INFO 7/25/2021, 4:31:15 PM  [win] blur
+INFO 7/25/2021, 4:31:15 PM  handle document.loadInitData
+INFO 7/25/2021, 4:31:15 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz writing.md undefined (0)
+INFO 7/25/2021, 4:31:15 PM  synced recovery
+INFO 7/25/2021, 4:31:15 PM  [focus] 1
+INFO 7/25/2021, 4:31:19 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz writing.md "- Bonjour Anton...
+- Ok à samedi!" (221)
+INFO 7/25/2021, 4:31:19 PM  synced recovery
+INFO 7/25/2021, 4:31:28 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz writing.md "- Bonjour Anton...Ok à samedi!
+
+ " (224)
+INFO 7/25/2021, 4:31:28 PM  synced recovery
+INFO 7/25/2021, 4:31:30 PM  added recovery 1 /run/user/1000/kio-fuse-AQVchQ/smb/raspberrypi/main-storage/SCHOOL/YEAR 2/frencz writing.md "- Bonjour Anton...Ok à samedi!
+
+ " (224)
+INFO 7/25/2021, 4:31:30 PM  synced recovery
+INFO 7/25/2021, 4:32:14 PM  synced recovery
+INFO 7/25/2021, 4:32:14 PM  ----------------before-quit-----------------
+INFO 7/25/2021, 4:32:14 PM  ------------------will-quit------------------
+INFO 7/25/2021, 4:32:14 PM  -----------------quit------------------
+INFO 7/25/2021, 4:32:14 PM  closeLogging
+INFO 7/27/2021, 6:44:06 PM  ------------------start------------------
+INFO 7/27/2021, 6:44:06 PM  typora version: 0.11.1
+INFO 7/27/2021, 6:44:06 PM  [Raven] instanceKey = 8fe68d84-f4ec-4b36-ba33-a41a3c07cb2a
+INFO 7/27/2021, 6:44:06 PM  added recovery 1 null undefined (0)
+INFO 7/27/2021, 6:44:06 PM  [focus] 1
+INFO 7/27/2021, 6:44:06 PM  [Raven] userId = d3e9326e-b2d0-48e9-8f48-82d218e055ff
+INFO 7/27/2021, 6:44:06 PM  synced recovery
+INFO 7/27/2021, 6:44:07 PM  handle document.loadInitData
+INFO 7/27/2021, 6:44:07 PM  added recovery 1 undefined undefined (0)
+INFO 7/27/2021, 6:44:07 PM  synced recovery
+INFO 7/27/2021, 6:44:08 PM  added recovery 1 undefined m (1)
+INFO 7/27/2021, 6:44:08 PM  synced recovery
+INFO 7/27/2021, 6:44:09 PM  added recovery 1 undefined mining p (8)
+INFO 7/27/2021, 6:44:09 PM  synced recovery
+INFO 7/27/2021, 6:44:10 PM  added recovery 1 undefined mining pr (9)
+INFO 7/27/2021, 6:44:10 PM  synced recovery
+INFO 7/27/2021, 6:44:14 PM  added recovery 1 undefined mining profitability (20)
+INFO 7/27/2021, 6:44:14 PM  synced recovery
+INFO 7/27/2021, 6:44:15 PM  added recovery 1 undefined mining profitability  (21)
+INFO 7/27/2021, 6:44:15 PM  synced recovery
+INFO 7/27/2021, 6:44:15 PM  added recovery 1 undefined mining profitability t (22)
+INFO 7/27/2021, 6:44:15 PM  synced recovery
+INFO 7/27/2021, 6:44:16 PM  added recovery 1 undefined mining profitability th (23)
+INFO 7/27/2021, 6:44:16 PM  synced recovery
+INFO 7/27/2021, 6:44:19 PM  added recovery 1 undefined mining profitability the higher the value the (45)
+INFO 7/27/2021, 6:44:19 PM  synced recovery
+INFO 7/27/2021, 6:44:22 PM  added recovery 1 undefined "mining profitab...ble it is to mi" (73)
+INFO 7/27/2021, 6:44:22 PM  synced recovery
+INFO 7/27/2021, 6:44:23 PM  added recovery 1 undefined "mining profitab...it is to mine
+
+" (77)
+INFO 7/27/2021, 6:44:23 PM  synced recovery
+INFO 7/27/2021, 6:44:24 PM  added recovery 1 undefined "mining profitab...t is to mine
+
+t" (78)
+INFO 7/27/2021, 6:44:24 PM  synced recovery
+INFO 7/27/2021, 6:44:27 PM  added recovery 1 undefined "mining profitab...graph shows min" (96)
+INFO 7/27/2021, 6:44:27 PM  synced recovery
+INFO 7/27/2021, 6:44:28 PM  [blur] 1
+INFO 7/27/2021, 6:44:28 PM  [win] blur
+INFO 7/27/2021, 6:46:33 PM  [focus] 1
+INFO 7/27/2021, 6:46:35 PM  [blur] 1
+INFO 7/27/2021, 6:46:35 PM  [win] blur
+INFO 7/27/2021, 6:51:22 PM  [focus] 1
+INFO 7/27/2021, 6:51:22 PM  added recovery 1 undefined "mining profitab...ph shows mining" (99)
+INFO 7/27/2021, 6:51:22 PM  synced recovery
+INFO 7/27/2021, 6:51:24 PM  synced recovery
+INFO 7/27/2021, 6:51:24 PM  ----------------before-quit-----------------
+INFO 7/27/2021, 6:51:24 PM  ------------------will-quit------------------
+INFO 7/27/2021, 6:51:24 PM  -----------------quit------------------
+INFO 7/27/2021, 6:51:24 PM  closeLogging

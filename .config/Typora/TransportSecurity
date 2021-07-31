@@ -1,8 +1,1 @@
-{
-   "QkOVoICjof7LOVbLC2+M5fK+uh3JjmpvnfZpUqI3X+Q=": {
-      "expiry": 1637482450.564393,
-      "mode": "force-https",
-      "sts_include_subdomains": true,
-      "sts_observed": 1621930450.564396
-   }
-}
+{"expect_ct":[],"sts":[{"expiry":1642775445.483161,"host":"QkOVoICjof7LOVbLC2+M5fK+uh3JjmpvnfZpUqI3X+Q=","mode":"force-https","sts_include_subdomains":true,"sts_observed":1627223445.48317}],"version":2}
