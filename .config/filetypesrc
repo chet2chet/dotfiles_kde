@@ -1,5 +1,7 @@
 [EmbedSettings]
 embed-image/heif=false
+embed-text/css=false
 embed-text/markdown=false
 embed-text/plain=false
 embed-video/mp4=false
+embed-video/x-matroska=false

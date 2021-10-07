@@ -1,11 +1,19 @@
 [AC]
 icon=battery-charging
 
+[AC][DPMSControl]
+idleTime=1200
+
 [AC][HandleButtonEvents]
 lidAction=1
 powerButtonAction=16
 powerDownAction=16
 triggerLidActionWhenExternalMonitorPresent=false
+
+[AC][SuspendSession]
+idleTime=3600000
+suspendThenHibernate=false
+suspendType=1
 
 [Battery]
 icon=battery-060
@@ -44,7 +52,10 @@ powerButtonAction=16
 powerDownAction=16
 triggerLidActionWhenExternalMonitorPresent=false
 
+[LowBattery][KeyboardBrightnessControl]
+value=8
+
 [LowBattery][SuspendSession]
 idleTime=300000
 suspendThenHibernate=false
-suspendType=1
+suspendType=2

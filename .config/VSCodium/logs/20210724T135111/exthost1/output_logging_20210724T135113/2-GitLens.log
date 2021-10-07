@@ -1,1 +1,0 @@
-[2021-07-24 11:51:13:925] [/home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 4 ms 

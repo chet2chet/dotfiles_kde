@@ -1,3 +1,33 @@
-2021/07/06-23:16:43.577 12eee Reusing MANIFEST /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
-2021/07/06-23:16:43.577 12eee Recovering log #58
-2021/07/06-23:16:43.579 12eee Reusing old log /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000058.log 
+2021/10/06-18:45:14.717 17c6 Reusing MANIFEST /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2021/10/06-18:45:14.718 17c6 Recovering log #1316
+2021/10/06-18:45:14.721 17c6 Reusing old log /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/001316.log 
+2021/10/06-19:30:14.160 2db0 Level-0 table #1321: started
+2021/10/06-19:30:14.173 2db0 Level-0 table #1321: 731733 bytes OK
+2021/10/06-19:30:14.176 2db0 Delete type=0 #1316
+2021/10/06-19:37:17.760 30f2 Level-0 table #1323: started
+2021/10/06-19:37:17.772 30f2 Level-0 table #1323: 754621 bytes OK
+2021/10/06-19:37:17.775 30f2 Delete type=0 #1320
+2021/10/06-20:01:25.361 3b00 Level-0 table #1325: started
+2021/10/06-20:01:25.374 3b00 Level-0 table #1325: 753768 bytes OK
+2021/10/06-20:01:25.376 3b00 Delete type=0 #1322
+2021/10/06-20:17:20.705 4090 Level-0 table #1327: started
+2021/10/06-20:17:20.711 4090 Level-0 table #1327: 769142 bytes OK
+2021/10/06-20:17:20.713 4090 Delete type=0 #1324
+2021/10/06-20:17:20.714 4090 Compacting 4@0 + 1@1 files
+2021/10/06-20:17:20.720 4090 Generated table #1328@0: 2 keys, 29826 bytes
+2021/10/06-20:17:20.720 4090 Compacted 4@0 + 1@1 files => 29826 bytes
+2021/10/06-20:17:20.722 4090 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/06-20:17:20.722 4090 Delete type=2 #1318
+2021/10/06-20:17:20.722 4090 Delete type=2 #1321
+2021/10/06-20:17:20.722 4090 Delete type=2 #1323
+2021/10/06-20:17:20.722 4090 Delete type=2 #1325
+2021/10/06-20:17:20.722 4090 Delete type=2 #1327
+2021/10/06-21:53:02.769 66e2 Level-0 table #1330: started
+2021/10/06-21:53:02.781 66e2 Level-0 table #1330: 777540 bytes OK
+2021/10/06-21:53:02.783 66e2 Delete type=0 #1326
+2021/10/06-22:23:45.209 6c8d Level-0 table #1332: started
+2021/10/06-22:23:45.220 6c8d Level-0 table #1332: 775359 bytes OK
+2021/10/06-22:23:45.222 6c8d Delete type=0 #1329
+2021/10/06-22:35:22.231 6c8d Level-0 table #1334: started
+2021/10/06-22:35:22.238 6c8d Level-0 table #1334: 780025 bytes OK
+2021/10/06-22:35:22.240 6c8d Delete type=0 #1331

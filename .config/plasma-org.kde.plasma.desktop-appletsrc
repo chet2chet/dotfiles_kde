@@ -68,7 +68,7 @@ immutability=1
 plugin=org.kde.plasma.kickerdash
 
 [Containments][114][Applets][115][Configuration]
-PreloadWeight=84
+PreloadWeight=0
 
 [Containments][114][Applets][115][Configuration][ConfigDialog]
 DialogHeight=496
@@ -76,6 +76,7 @@ DialogWidth=640
 
 [Containments][114][Applets][115][Configuration][General]
 customButtonImage=/home/karolproksa/Pictures/arch.png
+favoriteSystemActions=hibernate,reboot,shutdown
 favoritesPortedToKAstats=true
 useCustomButtonImage=true
 
@@ -84,14 +85,14 @@ immutability=1
 plugin=org.kde.plasma.pager
 
 [Containments][114][Applets][116][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][114][Applets][117]
 immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][114][Applets][117][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][114][Applets][117][Configuration][Appearance]
 showDate=false
@@ -106,7 +107,7 @@ immutability=1
 plugin=com.marcinorlowski.kde.crypto-tracker
 
 [Containments][114][Applets][118][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][114][Applets][118][Configuration][ConfigDialog]
 DialogHeight=496
@@ -120,7 +121,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][114][Applets][119][Configuration]
-PreloadWeight=74
+PreloadWeight=56
 SystrayContainmentId=120
 
 [Containments][114][Applets][135]
@@ -128,7 +129,7 @@ immutability=1
 plugin=org.kde.plasma.panelspacer
 
 [Containments][114][Applets][135][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][114][Applets][135][Configuration][General]
 length=937
@@ -138,7 +139,7 @@ immutability=1
 plugin=org.kde.plasma.panelspacer
 
 [Containments][114][Applets][136][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][114][Applets][136][Configuration][General]
 length=762
@@ -148,7 +149,7 @@ DialogHeight=82
 DialogWidth=1920
 
 [Containments][114][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][114][General]
 AppletOrder=115;116;135;117;136;118;119
@@ -167,7 +168,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][120][Applets][121][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][120][Applets][122][Configuration]
 PreloadWeight=42
@@ -177,7 +178,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][120][Applets][123][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][120][Applets][124][Configuration]
 PreloadWeight=42
@@ -211,7 +212,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][120][Applets][133][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][120][Applets][134][Configuration]
 PreloadWeight=42
@@ -221,7 +222,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][120][Applets][137][Configuration]
-PreloadWeight=39
+PreloadWeight=0
 source=wettercom|weather|Jaworzno, Slaskie, PL|PL3097333;Jaworzno
 updateInterval=30
 weatherServiceProviders=bbcukmet,envcan,noaa,wettercom
@@ -235,25 +236,40 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][120][Applets][138][Configuration]
-PreloadWeight=52
+PreloadWeight=0
 
 [Containments][120][Applets][138][Configuration][General]
 raiseMaximumVolume=true
+
+[Containments][120][Applets][139]
+immutability=1
+plugin=org.kde.plasma.networkmanagement
+
+[Containments][120][Applets][139][Configuration]
+PreloadWeight=0
+
+[Containments][120][Applets][140]
+immutability=1
+plugin=org.kde.plasma.bluetooth
+
+[Containments][120][Applets][140][Configuration]
+PreloadWeight=0
 
 [Containments][120][ConfigDialog]
 DialogHeight=496
 DialogWidth=640
 
 [Containments][120][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][120][General]
-extraItems=org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.weather,org.kde.plasma.volume
-hiddenItems=blueman,discord1,KOrganizer Reminder Daemon,org.kde.plasma.notifications,Optimus Manager Qt,Discover Notifier_org.kde.DiscoverNotifier,org.kde.plasma.battery,Plasma_microphone,KMix,org.kde.plasma.clipboard,org.kde.plasma.volume
+extraItems=org.kde.plasma.notifications,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.weather,org.kde.plasma.volume,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+hiddenItems=blueman,discord1,KOrganizer Reminder Daemon,org.kde.plasma.notifications,Optimus Manager Qt,Discover Notifier_org.kde.DiscoverNotifier,org.kde.plasma.battery,Plasma_microphone,KMix,org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.networkmanagement,electrum,org.kde.plasma.bluetooth
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
 shownItems=org.kde.plasma.weather
 
 [Containments][23]
+ItemGeometries-1024x768=
 ItemGeometries-2560x1080=
 ItemGeometriesHorizontal=
 activityId=4b1ef3bc-7655-4705-814c-1dfb6b52d0d7
@@ -273,8 +289,9 @@ PreloadWeight=0
 
 [Containments][23][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=821
+ToolBoxButtonX=915
 ToolBoxButtonY=24
+sortMode=-1
 
 [Containments][23][Wallpaper][org.kde.image][General]
 Image=file:///home/karolproksa/.wallpapers/wallhaven-ymz61d.jpg
@@ -741,7 +758,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][85][Applets][113][Configuration]
-PreloadWeight=30
+PreloadWeight=0
 
 [Containments][85][Applets][113][Configuration][Appearance]
 dateDisplayFormat=BesideTime
@@ -753,6 +770,20 @@ use24hFormat=2
 [Containments][85][Applets][113][Configuration][ConfigDialog]
 DialogHeight=496
 DialogWidth=640
+
+[Containments][85][Applets][141]
+immutability=1
+plugin=com.marcinorlowski.kde.crypto-tracker
+
+[Containments][85][Applets][141][Configuration]
+PreloadWeight=0
+
+[Containments][85][Applets][141][Configuration][ConfigDialog]
+DialogHeight=496
+DialogWidth=640
+
+[Containments][85][Applets][141][Configuration][Exchanges]
+exchanges=[{"enabled":true,"exchange":"kraken-com","crypto":"ETH","hideCryptoLogo":true,"pair":"USD","refreshRate":1,"hidePriceDecimals":true,"useCustomLocale":false,"customLocaleName":"pl","showPriceChangeMarker":true,"showTrendingMarker":true,"trendingTimeSpan":60,"flashOnPriceRaise":true,"flashOnPriceRaiseColor":"#78c625","flashOnPriceDrop":true,"flashOnPriceDropColor":"#d67f28","markerColorPriceRaise":"#78c625","markerColorPriceDrop":"#d67f28"}]
 
 [Containments][85][Applets][86]
 immutability=1
@@ -767,6 +798,7 @@ DialogWidth=640
 
 [Containments][85][Applets][86][Configuration][General]
 customButtonImage=/home/karolproksa/Pictures/arch.png
+favoriteSystemActions=suspend,reboot,shutdown
 favoritesPortedToKAstats=true
 useCustomButtonImage=true
 
@@ -777,26 +809,12 @@ plugin=org.kde.plasma.pager
 [Containments][85][Applets][87][Configuration]
 PreloadWeight=0
 
-[Containments][85][Applets][89]
-immutability=1
-plugin=com.marcinorlowski.kde.crypto-tracker
-
-[Containments][85][Applets][89][Configuration]
-PreloadWeight=0
-
-[Containments][85][Applets][89][Configuration][ConfigDialog]
-DialogHeight=496
-DialogWidth=640
-
-[Containments][85][Applets][89][Configuration][Exchanges]
-exchanges=[{"enabled":true,"exchange":"kraken-com","crypto":"ETH","hideCryptoLogo":true,"pair":"USD","refreshRate":1,"hidePriceDecimals":true,"useCustomLocale":true,"customLocaleName":"en_US","showPriceChangeMarker":true,"showTrendingMarker":true,"trendingTimeSpan":60,"flashOnPriceRaise":false,"flashOnPriceRaiseColor":"#00ff00","flashOnPriceDrop":false,"flashOnPriceDropColor":"#d67f28","markerColorPriceRaise":"#78c625","markerColorPriceDrop":"#d67f28"}]
-
 [Containments][85][Applets][90]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][85][Applets][90][Configuration]
-PreloadWeight=60
+PreloadWeight=2
 SystrayContainmentId=91
 
 [Containments][85][ConfigDialog]
@@ -807,7 +825,7 @@ DialogWidth=2560
 PreloadWeight=0
 
 [Containments][85][General]
-AppletOrder=86;87;107;113;106;89;90
+AppletOrder=86;87;107;113;106;141;90
 
 [Containments][91]
 activityId=
@@ -839,7 +857,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][91][Applets][104][Configuration]
-PreloadWeight=0
+PreloadWeight=2
 
 [Containments][91][Applets][105]
 immutability=1
@@ -896,7 +914,6 @@ plugin=org.kde.plasma.volume
 PreloadWeight=0
 
 [Containments][91][Applets][98][Configuration][General]
-currentTab=streams
 raiseMaximumVolume=true
 
 [Containments][91][Applets][99][Configuration]
@@ -911,11 +928,11 @@ PreloadWeight=0
 
 [Containments][91][General]
 extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.notifications,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.weather
-hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone,Optimus Manager Qt,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,steam
+hiddenItems=blueman,KOrganizer Reminder Daemon,Discover Notifier_org.kde.DiscoverNotifier,KMix,discord1,Plasma_microphone,Optimus Manager Qt,org.kde.plasma.notifications,org.kde.plasma.volume,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,steam,electrum
 knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.nightcolorcontrol,org.kde.plasma.keyboardlayout,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.vault,org.kde.kdeconnect,org.kde.plasma.printmanager,org.kde.ktp-contactlist
 scaleIconsToFit=true
 shownItems=org.kde.plasma.weather
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=
+screenMapping=desktop:/2e8b17994242042757999fa9325d7031e28ddc19d3a88bc5314f8ae4d747a325,0,desktop:/business-card.pdf,0,desktop:/07545bc7e39aabec589956682d8ccc96d89ee87267628063350e3f75300e749e,0

@@ -3,19 +3,109 @@
     "openedPathsList": {
         "entries": [
             {
+                "folderUri": "file:///home/karolproksa/the-content-protocol-dapp"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/the-content-protocol-landing-page"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/karolproksa-website"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/the-content-protocol-dapp/app"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/ssh-test"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/solidity-testing"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/pukpuk-website"
+            },
+            {
+                "folderUri": "file:///home/karolproksa/crypto-calc"
+            },
+            {
                 "folderUri": "file:///home/karolproksa/crypto-mining-script"
             },
             {
                 "folderUri": "file:///home/karolproksa"
             },
             {
-                "folderUri": "file:///home/karolproksa/karolproksa_website"
-            },
-            {
                 "folderUri": "file:///home/karolproksa/pukpuk"
             },
             {
+                "fileUri": "file:///home/karolproksa/EXTERNAL_COPY/SCHOOL/YEAR%201/EDB/Prezentacja%20Transplantologia%20EDB/dk%20tekst/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577.pdfp"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk/components/ContactCard.tsx"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk-website/main.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa-website/style.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/ssh-test/test.txt"
+            },
+            {
+                "fileUri": "file:///etc/locale.conf"
+            },
+            {
+                "fileUri": "file:///etc/default/locale"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/PolarisBiosEditor/run.sh"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk-website/index.html"
+            },
+            {
+                "fileUri": "file:///etc/nsswitch.conf"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/raven"
+            },
+            {
                 "fileUri": "file:///home/karolproksa/.bashrc"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/karolproksa_website/style.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk/screens/JobOfferScreen.tsx"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk/screens/JobDescriptionScreen.tsx"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk/components/JobOfferScreenComponent.tsx"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/pukpuk/api/JobOfferData.tsx"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/beta-rig%20packages%20at%20pharma.md"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/EXTERNAL_COPY/CODE/karolproksa_website/style.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/EXTERNAL_COPY/CODE/karolproksa_website/index.html"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/crypto-calc/global-styles.css"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/Downloads/Akira%20%281988%29%20720p%20BRrip_sujaidr/sujaidr.txt"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/Downloads/Akira%20%281988%29%20720p%20BRrip_sujaidr/Torrent%20downloaded%20from%20pimp4003-torrents.me.txt"
+            },
+            {
+                "fileUri": "file:///home/karolproksa/.config/alacritty/alacritty.yml"
             },
             {
                 "fileUri": "file:///run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf"
@@ -25,9 +115,6 @@
             },
             {
                 "fileUri": "file:///home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS"
-            },
-            {
-                "fileUri": "file:///home/karolproksa/.config/alacritty/alacritty.yml"
             },
             {
                 "fileUri": "file:///etc/tor/torrc"
@@ -42,19 +129,10 @@
                 "fileUri": "file:///etc/profile.d/kwin.sh"
             },
             {
-                "fileUri": "file:///home/karolproksa/style.css"
-            },
-            {
-                "fileUri": "file:///home/karolproksa/index.html"
-            },
-            {
                 "fileUri": "file:///home/karolproksa/asd"
             },
             {
                 "fileUri": "file:///home/karolproksa/karolproksa_website/archive/sub/visual.html"
-            },
-            {
-                "fileUri": "file:///home/karolproksa/karolproksa_website/style.css"
             },
             {
                 "fileUri": "file:///home/karolproksa/karolproksa_website/index.html"
@@ -236,7 +314,7 @@
                         "label": "Open Wor&&kspace..."
                     },
                     {
-                        "id": "submenuitem.29",
+                        "id": "submenuitem.30",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -247,6 +325,95 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/home/karolproksa/the-content-protocol-dapp",
+                                        "external": "file:///home/karolproksa/the-content-protocol-dapp",
+                                        "path": "/home/karolproksa/the-content-protocol-dapp",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/the-content-protocol-dapp"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/the-content-protocol-landing-page",
+                                        "path": "/home/karolproksa/the-content-protocol-landing-page",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/the-content-protocol-landing-page"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/karolproksa-website",
+                                        "path": "/home/karolproksa/karolproksa-website",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/karolproksa-website"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/the-content-protocol-dapp/app",
+                                        "path": "/home/karolproksa/the-content-protocol-dapp/app",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/the-content-protocol-dapp/app"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/ssh-test",
+                                        "path": "/home/karolproksa/ssh-test",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/ssh-test"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/solidity-testing",
+                                        "path": "/home/karolproksa/solidity-testing",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/solidity-testing"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/pukpuk-website",
+                                        "path": "/home/karolproksa/pukpuk-website",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/pukpuk-website"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/karolproksa/crypto-calc",
+                                        "path": "/home/karolproksa/crypto-calc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/crypto-calc"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -271,139 +438,117 @@
                                     "label": "/home/karolproksa"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/karolproksa_website",
-                                        "path": "/home/karolproksa/karolproksa_website",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/karolproksa_website"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/karolproksa/pukpuk",
-                                        "path": "/home/karolproksa/pukpuk",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/pukpuk"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/.bashrc",
-                                        "path": "/home/karolproksa/.bashrc",
+                                        "external": "file:///home/karolproksa/EXTERNAL_COPY/SCHOOL/YEAR%201/EDB/Prezentacja%20Transplantologia%20EDB/dk%20tekst/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577.pdfp",
+                                        "path": "/home/karolproksa/EXTERNAL_COPY/SCHOOL/YEAR 1/EDB/Prezentacja Transplantologia EDB/dk tekst/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577.pdfp",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.bashrc"
+                                    "label": "~/EXTERNAL_COPY/SCHOOL/YEAR 1/EDB/Prezentacja Transplantologia EDB/dk tekst/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577/assets/29455517-ED7A-4D1A-A8B3-A7B6489D1577.pdfp"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf",
-                                        "path": "/run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf",
+                                        "external": "file:///home/karolproksa/pukpuk/components/ContactCard.tsx",
+                                        "path": "/home/karolproksa/pukpuk/components/ContactCard.tsx",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/run/user/1000/kio-fuse-sRkPPW/smb/raspberrypi/main-storage/CODE/homebridge/xiaomi_air_purifier.rtf"
+                                    "label": "~/pukpuk/components/ContactCard.tsx"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/.ssh/known_hosts",
-                                        "path": "/home/karolproksa/.ssh/known_hosts",
+                                        "external": "file:///home/karolproksa/pukpuk-website/main.css",
+                                        "path": "/home/karolproksa/pukpuk-website/main.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.ssh/known_hosts"
+                                    "label": "~/pukpuk-website/main.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS",
-                                        "path": "/home/karolproksa/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS",
+                                        "external": "file:///home/karolproksa/karolproksa-website/style.css",
+                                        "path": "/home/karolproksa/karolproksa-website/style.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/anaconda3/pkgs/libssh2-1.8.0-h8c220ad_2/share/doc/libssh2/NEWS"
+                                    "label": "~/karolproksa-website/style.css"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/.config/alacritty/alacritty.yml",
-                                        "path": "/home/karolproksa/.config/alacritty/alacritty.yml",
+                                        "external": "file:///home/karolproksa/ssh-test/test.txt",
+                                        "path": "/home/karolproksa/ssh-test/test.txt",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/alacritty/alacritty.yml"
+                                    "label": "~/ssh-test/test.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///etc/tor/torrc",
-                                        "path": "/etc/tor/torrc",
+                                        "external": "file:///etc/locale.conf",
+                                        "path": "/etc/locale.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/etc/tor/torrc"
+                                    "label": "/etc/locale.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/.local/share/kservices5/forceblur.desktop",
-                                        "path": "/home/karolproksa/.local/share/kservices5/forceblur.desktop",
+                                        "external": "file:///etc/default/locale",
+                                        "path": "/etc/default/locale",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.local/share/kservices5/forceblur.desktop"
+                                    "label": "/etc/default/locale"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte",
-                                        "path": "/home/karolproksa/Downloads/mcOS-BigSur-Small.layout.latte",
+                                        "external": "file:///home/karolproksa/PolarisBiosEditor/run.sh",
+                                        "path": "/home/karolproksa/PolarisBiosEditor/run.sh",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Downloads/mcOS-BigSur-Small.layout.latte"
+                                    "label": "~/PolarisBiosEditor/run.sh"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///etc/profile.d/kwin.sh",
-                                        "path": "/etc/profile.d/kwin.sh",
+                                        "external": "file:///home/karolproksa/pukpuk-website/index.html",
+                                        "path": "/home/karolproksa/pukpuk-website/index.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/etc/profile.d/kwin.sh"
+                                    "label": "~/pukpuk-website/index.html"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/karolproksa/style.css",
-                                        "path": "/home/karolproksa/style.css",
+                                        "external": "file:///etc/nsswitch.conf",
+                                        "path": "/etc/nsswitch.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/style.css"
+                                    "label": "/etc/nsswitch.conf"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -461,7 +606,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.28",
+                        "id": "submenuitem.29",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -472,6 +617,10 @@
                                 {
                                     "id": "settings.filterByOnline",
                                     "label": "&&Online Services Settings"
+                                },
+                                {
+                                    "id": "settings.filterByTelemetry",
+                                    "label": "Telemetry Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -526,8 +675,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -562,6 +710,22 @@
                     {
                         "id": "editor.action.clipboardCopyAction",
                         "label": "&&Copy"
+                    },
+                    {
+                        "id": "submenuitem.23",
+                        "label": "Copy As",
+                        "submenu": {
+                            "items": [
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlToClipboard",
+                                    "label": "Copy Remote File Url"
+                                },
+                                {
+                                    "id": "gitlens.copyRemoteFileUrlFrom",
+                                    "label": "Copy Remote File Url From..."
+                                }
+                            ]
+                        }
                     },
                     {
                         "id": "editor.action.clipboardPasteAction",
@@ -697,7 +861,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.19",
+                        "id": "submenuitem.20",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -718,12 +882,12 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Show Menu &&Bar",
-                                    "checked": true
+                                    "label": "Show Menu &&Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -778,7 +942,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.26",
+                        "id": "submenuitem.27",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -916,7 +1080,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -925,13 +1090,14 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.31",
+                        "id": "submenuitem.32",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -980,7 +1146,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.33",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -1066,28 +1232,23 @@
                     },
                     {
                         "id": "editor.action.revealDefinition",
-                        "label": "Go to &&Definition",
-                        "enabled": false
+                        "label": "Go to &&Definition"
                     },
                     {
                         "id": "editor.action.revealDeclaration",
-                        "label": "Go to &&Declaration",
-                        "enabled": false
+                        "label": "Go to &&Declaration"
                     },
                     {
                         "id": "editor.action.goToTypeDefinition",
-                        "label": "Go to &&Type Definition",
-                        "enabled": false
+                        "label": "Go to &&Type Definition"
                     },
                     {
                         "id": "editor.action.goToImplementation",
-                        "label": "Go to &&Implementations",
-                        "enabled": false
+                        "label": "Go to &&Implementations"
                     },
                     {
                         "id": "editor.action.goToReferences",
-                        "label": "Go to &&References",
-                        "enabled": false
+                        "label": "Go to &&References"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1187,7 +1348,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.27",
+                        "id": "submenuitem.28",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -1592,8 +1753,9 @@
                 "userSettingsLabel": "ctrl+shift+f"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G",
-                "userSettingsLabel": "ctrl+shift+g"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+shift+g g"
             },
             "workbench.view.debug": {
                 "label": "Ctrl+Shift+D",
@@ -1811,12 +1973,13 @@
     "themeBackground": "#292828",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/1627721684773",
+            "folder": "file:///home/karolproksa/the-content-protocol-dapp",
+            "backupPath": "/home/karolproksa/.config/VSCodium/Backups/69dce83afafcb8ba2f33ac482946ebe3",
             "uiState": {
                 "mode": 1,
                 "x": 20,
                 "y": 44,
-                "width": 1375,
+                "width": 2520,
                 "height": 1016
             }
         },
@@ -1840,7 +2003,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 235,
             "statusBarHeight": 22,
             "windowBorder": false
         }

@@ -27,9 +27,17 @@ alias update='sudo pacman -Syu; yay -Syu; flatpak update; flatpak upgrade'
 alias install='sudo pacman -S'
 alias remove='sudo pacman -R'
 alias keyboard-fix='rogauracore single_static 68e01d'
-alias s='sudo'
+alias pls='sudo'
+# Chill rain
+alias rain='cmatrix -b -C blue -o -m'
+# Make it rain!!
+alias makeitrain='cmatrix -b -r -o -m'
 alias ..='cd ..'
 alias ll='ls -la'
 alias vs='vscodium'
 alias p='python3'
 alias calendar='surf https://icloud.com/calendar & disown'
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+

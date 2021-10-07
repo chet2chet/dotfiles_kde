@@ -12,5 +12,10 @@
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.minimap.enabled": false
+    "editor.minimap.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "toggle"
 }

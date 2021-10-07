@@ -1,51 +1,62 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
+[General]
+BackgroundColorMode=BackgroundColorWidget::Dark
+LastUsedVersion=210800
+SideBarPage=operations
+
 [MainWindow]
-State=AAAA/wAAAAD9AAAAAAAAA0QAAAOoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABGUAAAHEAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 HDMI-1-0 Height 1920x1080=495
-eDP-1 HDMI-1-0 Height 2560x1080=1016
+eDP-1 HDMI-1-0 Height 2560x1080=1008
 eDP-1 HDMI-1-0 Width 1920x1080=836
-eDP-1 HDMI-1-0 Width 2560x1080=1125
+eDP-1 HDMI-1-0 Width 2560x1080=1023
 eDP-1 HDMI-1-0 XPosition 1920x1080=1395
-eDP-1 HDMI-1-0 XPosition 2560x1080=1415
+eDP-1 HDMI-1-0 XPosition 2560x1080=20
 eDP-1 HDMI-1-0 YPosition 1920x1080=1645
-eDP-1 HDMI-1-0 YPosition 2560x1080=44
-eDP-1 Height 1920x1080=1010
-eDP-1 Width 1920x1080=952
-eDP-1 XPosition 1920x1080=947
-eDP-1 YPosition 1920x1080=565
+eDP-1 HDMI-1-0 YPosition 2560x1080=52
+eDP-1 Height 1920x1080=1008
+eDP-1 Width 1920x1080=1880
+eDP-1 XPosition 1920x1080=20
+eDP-1 YPosition 1920x1080=52
+eDP-1-1 HDMI-0 Height 1920x1080=1008
 eDP-1-1 HDMI-0 Height 2560x1080=498
+eDP-1-1 HDMI-0 Width 1920x1080=1023
 eDP-1-1 HDMI-0 Width 2560x1080=1125
+eDP-1-1 HDMI-0 XPosition 1920x1080=364
 eDP-1-1 HDMI-0 XPosition 2560x1080=1415
+eDP-1-1 HDMI-0 YPosition 1920x1080=1132
 eDP-1-1 HDMI-0 YPosition 2560x1080=562
-eDP-1-1 Height 1920x1080=1010
-eDP-1-1 Width 1920x1080=836
-eDP-1-1 XPosition 1920x1080=1063
-eDP-1-1 YPosition 1920x1080=50
+eDP-1-1 Height 1920x1080=1008
+eDP-1-1 Width 1920x1080=1880
+eDP-1-1 XPosition 1920x1080=20
+eDP-1-1 YPosition 1920x1080=52
 
 [Recent Files]
-File1[$e]=trash:/0-teaser_inwestycyjny_zawartość-1024x399.png
-File10[$e]=smb://raspberrypi/main-storage/CODE/homebridge/All plugins.png
-File2[$e]=$HOME/Pictures/dwie-wierze.png
-File3[$e]=$HOME/EXTERNAL_COPY/CODE/homebridge/All plugins.png
-File4[$e]=smb://raspberrypi/main-storage/website-mockup.png
-File5[$e]=smb://raspberrypi/main-storage/wallpaper.jpg
-File6[$e]=smb://raspberrypi/main-storage/ggyj8f2138l61.png
-File7[$e]=smb://raspberrypi/main-storage/DOCUMENTS/Lightroom/IMG_6833.jpg
-File8[$e]=smb://raspberrypi/main-storage/SCHOOL/YEAR 2/NAUCZENIE ZDALNE/pp_btc.png
-File9[$e]=smb://raspberrypi/main-storage/INVESTMENTS/crypto-mining/gpu.png
-Name1[$e]=0-teaser_inwestycyjny_zawartość-1024x399.png
-Name10[$e]=All plugins.png
-Name2[$e]=dwie-wierze.png
-Name3[$e]=All plugins.png
-Name4[$e]=website-mockup.png
-Name5[$e]=wallpaper.jpg
-Name6[$e]=ggyj8f2138l61.png
-Name7[$e]=IMG_6833.jpg
-Name8[$e]=pp_btc.png
-Name9[$e]=gpu.png
+File1[$e]=$HOME/notatki-chemia/241715905_375223304082943_8081645157685949972_n.jpg
+File10[$e]=$HOME/the-content-protocol-dapp/layout/the-content-protocol-comment.png
+File2[$e]=$HOME/Downloads/241713895_377324780544975_4403049563704611877_n.jpg
+File3[$e]=$HOME/the-content-protocol-landing-page/layout/layout.png
+File4[$e]=$HOME/the-content-protocol-landing-page/layout/layout2.png
+File5[$e]=$HOME/beauty
+File6[$e]=$HOME/sad
+File7[$e]=$HOME/Downloads/deso-logo/favicon.png
+File8[$e]=$HOME/the-content-protocol-dapp/layout/the-content-protocol-profile.png
+File9[$e]=$HOME/the-content-protocol-dapp/layout/the-content-protocol.png
+Name1[$e]=241715905_375223304082943_8081645157685949972_n.jpg
+Name10[$e]=the-content-protocol-comment.png
+Name2[$e]=241713895_377324780544975_4403049563704611877_n.jpg
+Name3[$e]=layout.png
+Name4[$e]=layout2.png
+Name5[$e]=beauty
+Name6[$e]=sad
+Name7[$e]=favicon.png
+Name8[$e]=the-content-protocol-profile.png
+Name9[$e]=the-content-protocol.png
 
 [SideBar]
-SideBarSplitterSizes=242,591
+IsVisible ViewMode=true
+SideBarSplitterSizes=180,944

@@ -1,8 +1,100 @@
 [$Version]
 update_info=spectacle_shortcuts.upd:spectacle-migrate-shortcuts
 
+[ColorEffects:Disabled]
+ChangeSelectionColor[$d]
+Color[$d]
+ColorAmount[$d]
+ColorEffect[$d]
+ContrastAmount[$d]
+ContrastEffect[$d]
+Enable[$d]
+IntensityAmount[$d]
+IntensityEffect[$d]
+
+[ColorEffects:Inactive]
+ChangeSelectionColor[$d]
+Color[$d]
+ColorAmount[$d]
+ColorEffect[$d]
+ContrastAmount[$d]
+ContrastEffect[$d]
+Enable[$d]
+IntensityAmount[$d]
+IntensityEffect[$d]
+
+[Colors:Button]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
+DecorationFocus[$d]
+DecorationHover[$d]
+ForegroundActive[$d]
+ForegroundInactive[$d]
+ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
+
+[Colors:Selection]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
+DecorationFocus[$d]
+DecorationHover[$d]
+ForegroundActive[$d]
+ForegroundInactive[$d]
+ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
+
+[Colors:Tooltip]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
+DecorationFocus[$d]
+DecorationHover[$d]
+ForegroundActive[$d]
+ForegroundInactive[$d]
+ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
+
+[Colors:View]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
+DecorationFocus[$d]
+DecorationHover[$d]
+ForegroundActive[$d]
+ForegroundInactive[$d]
+ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
+
+[Colors:Window]
+BackgroundAlternate[$d]
+BackgroundNormal[$d]
+DecorationFocus[$d]
+DecorationHover[$d]
+ForegroundActive[$d]
+ForegroundInactive[$d]
+ForegroundLink[$d]
+ForegroundNegative[$d]
+ForegroundNeutral[$d]
+ForegroundNormal[$d]
+ForegroundPositive[$d]
+ForegroundVisited[$d]
+
 [Data]
-DataCount=12
+DataCount=14
 
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
@@ -89,6 +181,58 @@ TriggersCount=1
 Key=Meta+C
 Type=SHORTCUT
 Uuid={36deb0fa-5dc1-4896-9737-9537c5c2a89e}
+
+[Data_13]
+Comment=Comment
+Enabled=true
+Name=Launch Geary
+Type=SIMPLE_ACTION_DATA
+
+[Data_13Actions]
+ActionsCount=1
+
+[Data_13Actions0]
+CommandURL=geary
+Type=COMMAND_URL
+
+[Data_13Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_13Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_13Triggers0]
+Key=Meta+G
+Type=SHORTCUT
+Uuid={8e72d07b-ba31-45f0-81d7-f11eefd122ef}
+
+[Data_14]
+Comment=Comment
+Enabled=true
+Name=Launch Signal
+Type=SIMPLE_ACTION_DATA
+
+[Data_14Actions]
+ActionsCount=1
+
+[Data_14Actions0]
+CommandURL=flatpak run org.signal.Signal
+Type=COMMAND_URL
+
+[Data_14Conditions]
+Comment=
+ConditionsCount=0
+
+[Data_14Triggers]
+Comment=Simple_action
+TriggersCount=1
+
+[Data_14Triggers0]
+Key=Meta+M
+Type=SHORTCUT
+Uuid={ebbcf130-b167-452a-844f-4a760dd58fc0}
 
 [Data_1Conditions]
 Comment=
@@ -1119,8 +1263,24 @@ Key=Meta+D
 Type=SHORTCUT
 Uuid={2c799377-f79a-4249-ab03-045e5f6b0ce9}
 
+[DirSelect Dialog]
+DirSelectDialog Size[$d]
+
 [General]
+BrowserApplication[$d]
 ColorScheme[$d]
+Name[$d]
+TerminalApplication[$d]
+TerminalService[$d]
+XftHintStyle[$d]
+XftSubPixel[$d]
+fixed[$d]
+font[$d]
+menuFont[$d]
+shadeSortColumn[$d]
+smallestReadableFont[$d]
+toolBarFont[$d]
+widgetStyle[$d]
 
 [Gestures]
 Disabled=true
@@ -1135,12 +1295,49 @@ WindowsCount=0
 Theme[$d]
 
 [KDE]
+ColorScheme[$d]
+LookAndFeelPackage[$d]
+ScrollbarLeftClickNavigatesByPage[$d]
+ShowDeleteCommand[$d]
+SingleClick[$d]
+contrast[$d]
 widgetStyle[$d]
+
+[KFileDialog Settings]
+Allow Expansion[$d]
+Automatically select filename extension[$d]
+Breadcrumb Navigation[$d]
+Decoration position[$d]
+LocationCombo Completionmode[$d]
+PathCombo Completionmode[$d]
+Show Bookmarks[$d]
+Show Full Path[$d]
+Show Inline Previews[$d]
+Show Preview[$d]
+Show Speedbar[$d]
+Show hidden files[$d]
+Sort by[$d]
+Sort directories first[$d]
+Sort reversed[$d]
+Speedbar Width[$d]
+View Style[$d]
 
 [Main]
 AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321,konsole
 Disabled=false
 Version=2
 
+[PreviewSettings]
+MaximumRemoteSize[$d]
+
 [Voice]
 Shortcut=
+
+[WM]
+activeBackground[$d]
+activeBlend[$d]
+activeFont[$d]
+activeForeground[$d]
+inactiveBackground[$d]
+inactiveBlend[$d]
+inactiveForeground[$d]

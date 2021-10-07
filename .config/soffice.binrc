@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Documents/koparka-ubezpieczenie.ods,file:$HOME/Documents/crypto-mining/crypto-minig-with-gpu-prices.ods,file:$HOME/Documents/ubezpieczenie-podzespoly.pdf,file:$HOME/Documents/ubezpieczenie-podzespoly.ods,file:$HOME/Documents/crypto-mining/all-miner-returns.ods,file:$HOME/Documents/long-term-investment-returns.ods
-Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/,file:$HOME/Documents/crypto-mining/
+Recent Files[$e]=file:$HOME/Documents/balance.ods,file:$HOME/Documents/asdasd.pdf,file:$HOME/Documents/all-investments.ods,smb://raspberrypi/main-storage/INVESTMENTS/all-investments.ods,file:$HOME/Documents/mining-investment.ods,smb://raspberrypi/main-storage/INVESTMENTS/mining-investment.ods,smb://raspberrypi/main-storage/INVESTMENTS/new.ods,smb://raspberrypi/main-storage/INVESTMENTS/ethereum-investment.ods
+Recent URLs[$e]=file:$HOME/,file:$HOME/Documents/,smb://raspberrypi/main-storage/INVESTMENTS/,smb://raspberrypi/main-storage/,file:///
 detailViewIconSize=16
 iconViewIconSize=43
 listViewIconSize=16

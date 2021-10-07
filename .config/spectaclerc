@@ -1,14 +1,14 @@
 [$Version]
-update_info=spectacle_newConfig.upd:spectacle-new-config
+update_info=spectacle_newConfig.upd:spectacle-new-config,spectacle_clipboard.upd:clipboard-settings-change
 
 [General]
-copyImageToClipboard=true
+clipboardGroup=PostScreenshotCopyImage
 rememberLastRectangularRegion=false
 useLightMaskColour=true
 
 [GuiConfig]
 captureMode=5
-cropRegion=1076,372,333,512
+cropRegion=969,1304,651,834
 onClickChecked=true
 quitAfterSaveCopyExport=true
 window-position=1519,458

@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="fe91e6198843afc4b36f3bca59f730ec">
+  <resource identifier="gimp-palette-color-history" checksum="20867adfe682280ceac7a903eac7b03d">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1303,66 +1303,6 @@
   <resource identifier="${gimp_data_dir}/palettes/Linux.gpl" checksum="0e7549f6e63ef2b1de3f537cc7da022b">
   </resource>
 
-  <resource identifier="Adobe Courier" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Medium Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Arial" checksum="(null)">
   </resource>
 
@@ -1390,48 +1330,6 @@
   <resource identifier="Arial Italic Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="B&amp;H Lucida Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaBright" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaBright Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaTypewriter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaTypewriter Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Terminal" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Terminal Bold" checksum="(null)">
-  </resource>
-
   <resource identifier="C059" checksum="(null)">
   </resource>
 
@@ -1456,28 +1354,13 @@
   <resource identifier="Cantarell Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Cantarell Light" checksum="(null)">
-  </resource>
-
   <resource identifier="Cantarell Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cantarell Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="D050000L" checksum="(null)">
-  </resource>
-
-  <resource identifier="DEC Terminal" checksum="(null)">
-  </resource>
-
-  <resource identifier="DEC Terminal Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Fira Code" checksum="(null)">
@@ -1544,6 +1427,30 @@
   </resource>
 
   <resource identifier="KanjiStrokeOrders Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lato Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Liberation Mono" checksum="(null)">
@@ -1643,6 +1550,9 @@
   </resource>
 
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Color Emoji" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Kufi Arabic" checksum="(null)">
@@ -3497,6 +3407,24 @@
   </resource>
 
   <resource identifier="P052 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Mono weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roobert TRIAL Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">

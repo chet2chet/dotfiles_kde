@@ -1,3 +1,15 @@
-2021/06/16-17:16:46.622 24d62 Reusing MANIFEST /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/MANIFEST-000001
-2021/06/16-17:16:46.622 24d62 Recovering log #3
-2021/06/16-17:16:46.624 24d62 Reusing old log /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/000003.log 
+2021/10/04-21:02:29.429 5ef3 Reusing MANIFEST /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/04-21:02:29.429 5ef3 Recovering log #7
+2021/10/04-21:02:29.434 5ef3 Reusing old log /home/karolproksa/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_nkbihfbeogaeaoehlefnkodbefgpgknn_0.indexeddb.leveldb/000007.log 
+2021/10/04-21:02:39.233 5eed Level-0 table #12: started
+2021/10/04-21:02:39.235 5eed Level-0 table #12: 1745 bytes OK
+2021/10/04-21:02:39.238 5eed Delete type=0 #7
+2021/10/04-21:02:39.239 5eed Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/04-21:02:39.239 5eed Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01S\x00c\x00a\x00c\x00h\x00e\x00d\x00F\x00e\x00t\x00c\x00h\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x004\x00b\x00y\x00t\x00e\x00.\x00d\x00i\x00r\x00e\x00c\x00t\x00o\x00r\x00y\x00/\x00a\x00p\x00i\x00/\x00v\x001\x00/\x00s\x00i\x00g\x00n\x00a\x00t\x00u\x00r\x00e\x00s\x00/\x00?\x00h\x00e\x00x\x00_\x00s\x00i\x00g\x00n\x00a\x00t\x00u\x00r\x00e\x00=\x000\x00x\x00d\x007\x00a\x00f\x003\x00e\x007\x00e' @ 300 : 1
+2021/10/04-21:02:39.239 5eed Compacting 1@1 + 1@2 files
+2021/10/04-21:02:39.241 5eed Generated table #13@1: 36 keys, 1411 bytes
+2021/10/04-21:02:39.241 5eed Compacted 1@1 + 1@2 files => 1411 bytes
+2021/10/04-21:02:39.244 5eed compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/04-21:02:39.244 5eed Delete type=2 #9
+2021/10/04-21:02:39.244 5eed Delete type=2 #12
+2021/10/04-21:02:39.244 5eed Manual compaction at level-1 from '\x00\x01\x01\x02\x01S\x00c\x00a\x00c\x00h\x00e\x00d\x00F\x00e\x00t\x00c\x00h\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00w\x00w\x00w\x00.\x004\x00b\x00y\x00t\x00e\x00.\x00d\x00i\x00r\x00e\x00c\x00t\x00o\x00r\x00y\x00/\x00a\x00p\x00i\x00/\x00v\x001\x00/\x00s\x00i\x00g\x00n\x00a\x00t\x00u\x00r\x00e\x00s\x00/\x00?\x00h\x00e\x00x\x00_\x00s\x00i\x00g\x00n\x00a\x00t\x00u\x00r\x00e\x00=\x000\x00x\x00d\x007\x00a\x00f\x003\x00e\x007\x00e' @ 300 : 1 .. (end); will stop at (end)

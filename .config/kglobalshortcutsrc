@@ -32,9 +32,11 @@ _k_friendly_name=Custom Shortcuts Service
 {36deb0fa-5dc1-4896-9737-9537c5c2a89e}=Meta+C,none,Launch Calendar (surf)
 {6089fa35-e891-4f59-aabe-9777baee3bd1}=Meta+W,none,Launch Firefox
 {875aaa72-cbbc-4fb0-9e9f-3a6d38b895e6}=Meta+Ctrl+Shift+R,none,Restart KDE Plasma
+{8e72d07b-ba31-45f0-81d7-f11eefd122ef}=Meta+G,none,Launch Geary
 {a812642b-5c61-4c87-9131-87ba39aa53b7}=Meta+B,none,Launch Brave
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 {e987657e-e6b1-4ede-8551-fb1c73224686}=Meta+T,none,Launch Typora
+{ebbcf130-b167-452a-844f-4a760dd58fc0}=Meta+M,none,Launch Signal
 {fc074424-7bee-47c1-89ca-96439be04440}=Ctrl+Alt+T,none,Launch Konsole
 
 [kmix]
@@ -78,7 +80,7 @@ Krohnkite: Grow Height=Meta+Alt+J,none,
 Krohnkite: Grow Width=Meta+Alt+L,none,
 Krohnkite: Increase=Meta+I,none,
 Krohnkite: Left=Meta+H,none,
-Krohnkite: Monocle Layout=Meta+M,none,
+Krohnkite: Monocle Layout=,none,
 Krohnkite: Move Down/Next=Meta+Shift+J,none,
 Krohnkite: Move Left=Meta+Shift+H,none,
 Krohnkite: Move Right=Meta+Shift+L,none,
@@ -316,6 +318,7 @@ ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
 CurrentMonitorScreenShot=,none,Capture Current Monitor
 FullScreenScreenShot=Shift+Print,Shift+Print,Capture Entire Desktop
 RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Capture Rectangular Region
+WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Capture Window Under Cursor
 _k_friendly_name=Spectacle
 _launch=Print,Print,Launch Spectacle
 

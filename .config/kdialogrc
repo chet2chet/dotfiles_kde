@@ -1,4 +1,9 @@
+[FileDialogSize]
+eDP-1-1 HDMI-0 Height 1920x1080=670
+eDP-1-1 HDMI-0 Width 1920x1080=1255
+
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Downloads/mew-export-2021-06-16T15_27_27.199Z.json,file:$HOME/Downloads/mew-export-2021-06-16T15_27_27.199Z.json
-Recent URLs[$e]=file:$HOME/Downloads/
+Recent Files[$e]=logo.png,file:$HOME/pukpuk-website/src/images/googleplay.png,file:$HOME/pukpuk-website/src/images/appstore.png,file:$HOME/pukpuk-website/src/images/logo.png
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/pukpuk-website/src/images/,file:$HOME/pukpuk-website/src/,file:$HOME/,file:$HOME/Documents/
 detailViewIconSize=16
+iconViewIconSize=43
